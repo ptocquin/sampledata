@@ -1,0 +1,639 @@
+CLUSTAL X (1.81) multiple sequence alignment
+
+
+gi|1495740|emb|CAA90888.1|          --------------------------------------------------
+gi|216918|dbj|BAA02362.1|           --------------------------------------------------
+gi|154686|gb|AAA72100.1|            --------------------------------------------------
+gi|495654|gb|AAA72443.1|            --------------------------------------------------
+gi|6752664|gb|AAF27815.1|AF195      --------------------------------------------------
+gi|1685082|gb|AAC44598.1|           --------------------------------------------------
+gi|2696625|dbj|BAA23994.1|          --------------------------------------------------
+gi|47565|emb|CAA45795.1|            --------------------------------------------------
+gi|14600448|ref|NP_146963.1|        --------------------------------------------------
+gi|2599106|gb|AAB94881.1|           --------------------------------------------------
+gi|6679409|ref|NP_032918.1|         MAPMHEEDCKLEASAVSDSGSFAASRARREKKSKKGRQEALERLKKAKAG
+                                                                                      
+
+gi|1495740|emb|CAA90888.1|          --------------------------------------------------
+gi|216918|dbj|BAA02362.1|           --------------------------------------------------
+gi|154686|gb|AAA72100.1|            --------------------------------------------------
+gi|495654|gb|AAA72443.1|            --------------------------------------------------
+gi|6752664|gb|AAF27815.1|AF195      --------------------------------------------------
+gi|1685082|gb|AAC44598.1|           --------------------------------------------MSKQAT
+gi|2696625|dbj|BAA23994.1|          --------------------------------------------MARQIT
+gi|47565|emb|CAA45795.1|            --------------------------------------------MTKQLT
+gi|14600448|ref|NP_146963.1|        ------------------MRVRGGQEAAQDKETSLDSDEERGRRGLRQTT
+gi|2599106|gb|AAB94881.1|           --------------------------------------------------
+gi|6679409|ref|NP_032918.1|         EKYKYEVEDLTSVYEEVDEEQYSKLVQARQDDDWIVDDDGIGYVEDGREI
+                                                                                      
+
+gi|1495740|emb|CAA90888.1|          --------------------------------------------------
+gi|216918|dbj|BAA02362.1|           --------------------------------------------------
+gi|154686|gb|AAA72100.1|            --------------------------------------------------
+gi|495654|gb|AAA72443.1|            --------------------------------------------------
+gi|6752664|gb|AAF27815.1|AF195      --------------------------------------------------
+gi|1685082|gb|AAC44598.1|           LFDFSI-----------------KKNESKEQTNQESVE-------VPKQT
+gi|2696625|dbj|BAA23994.1|          LFDFTL-----------------KKEQNKDESRKEEIP-------HANIN
+gi|47565|emb|CAA45795.1|            LFDIPS-----------------SKPAKSEQNTQQSQQ-------SAPVE
+gi|14600448|ref|NP_146963.1|        LLDYMAGPAKPKKPEPPPTLHREREPESKYQNTLPETTGKEPASMSLRRN
+gi|2599106|gb|AAB94881.1|           -----------------------------VQDAVEIP-------------
+gi|6679409|ref|NP_032918.1|         FDDDLEDDALDTCGKGSDGKAHRKDRKDVKKPSVTKPNNIKAMFIASAGK
+                                                                                      
+
+gi|1495740|emb|CAA90888.1|          -------------------------------------------------M
+gi|216918|dbj|BAA02362.1|           -------------------------------------------------M
+gi|154686|gb|AAA72100.1|            -------------------------------------------------M
+gi|495654|gb|AAA72443.1|            --------------------------------------------------
+gi|6752664|gb|AAF27815.1|AF195      --------------------------------------------MELKVW
+gi|1685082|gb|AAC44598.1|           ANRTK-IEWIKEAEDGK------------------------------VYF
+gi|2696625|dbj|BAA23994.1|          EERRKPKEWIKEAEEGK------------------------------SYF
+gi|47565|emb|CAA45795.1|            EKKVVRREWLEEAQENK------------------------------IYF
+gi|14600448|ref|NP_146963.1|        QPSSKHEEYNSESGDVRGLTLEPSPQSELSDDDVILELVREPWVESVRGY
+gi|2599106|gb|AAB94881.1|           -----------------------------------------------PSL
+gi|6679409|ref|NP_032918.1|         KTTDKAVDLSKDDLLGDILQDLNTETAQITPPPVLIPKKKRSTGALLNPF
+                                                                                      
+
+gi|1495740|emb|CAA90888.1|          IIDADYITEDGKPIIRIFKK------------------------------
+gi|216918|dbj|BAA02362.1|           ILDVDYITEEGKPVIRLFKK------------------------------
+gi|154686|gb|AAA72100.1|            ILDTDYITKDGKPIIRIFKK------------------------------
+gi|495654|gb|AAA72443.1|            -MDLDYNSKD--LCIDMYYKNCGL--------------------------
+gi|6752664|gb|AAF27815.1|AF195      PLDITYAVVGSVPEIRIFGILS----------------------------
+gi|1685082|gb|AAC44598.1|           LLQVDYDGKKSRAVCKLYDKEG----------------------------
+gi|2696625|dbj|BAA23994.1|          LLQVDYDGKKSKAICKLYDKET----------------------------
+gi|47565|emb|CAA45795.1|            LLQVDYDGKKGKAVCKLFDKET----------------------------
+gi|14600448|ref|NP_146963.1|        LLDVRYDGSLGKAVLMLYDPSS----------------------------
+gi|2599106|gb|AAB94881.1|           LVSATYDSQAGAVVLKFYEPES----------------------------
+gi|6679409|ref|NP_032918.1|         SVHTPKAIPSGKPASPVLRNEPLLTPIPLKRAELAGELAQPECPEDEQEL
+                                     :              .                                 
+
+gi|1495740|emb|CAA90888.1|          ------------------------------------EKGEFKVEYDRTFR
+gi|216918|dbj|BAA02362.1|           ------------------------------------ENGKFKIEHDRTFR
+gi|154686|gb|AAA72100.1|            ------------------------------------ENGEFKIELDPHFQ
+gi|495654|gb|AAA72443.1|            ------------------------------------KKPEINLQKECEFK
+gi|6752664|gb|AAF27815.1|AF195      -------------------------------------SGERVVLIDRSFK
+gi|1685082|gb|AAC44598.1|           -------------------------------------KKIYIMQDESGHK
+gi|2696625|dbj|BAA23994.1|          -------------------------------------KKIYILYDNTGHK
+gi|47565|emb|CAA45795.1|            -------------------------------------QKIYALYDNTGHK
+gi|14600448|ref|NP_146963.1|        -------------------------------------GSLVKWADRTGHK
+gi|2599106|gb|AAB94881.1|           -------------------------------------QKIVHWTDNTGHK
+gi|6679409|ref|NP_032918.1|         GVMEFEDGDFDESMDTEKVDEKPVTAKTWDQETEPVERVEHEADPERGTT
+                                                                                      
+
+gi|1495740|emb|CAA90888.1|          PYIYALLKD--------------------DSAIDEVKKITAERHGKIVRI
+gi|216918|dbj|BAA02362.1|           PYIYALLRD--------------------DSKIEEVKKITGERHGKIVRI
+gi|154686|gb|AAA72100.1|            PYIYALLKD--------------------DSAIEEIKAIKGERHGKTVRV
+gi|495654|gb|AAA72443.1|            PYFYVDTSEPKEIYDYLDGLNQEIDLKKLEPEFENNTSLKVQDLITNIEI
+gi|6752664|gb|AAF27815.1|AF195      PYFYVDCAV-------------------------CEPAALKTALSRVAPI
+gi|1685082|gb|AAC44598.1|           PYFLTDIDP-----------------------DKVNKI-TKVVRDPSFDH
+gi|2696625|dbj|BAA23994.1|          PYFLTDIDP-----------------------EKVNKI-PKVVRDPSFDH
+gi|47565|emb|CAA45795.1|            PYFLVDLEP-----------------------DKVGKI-PKIVRDPSFDH
+gi|14600448|ref|NP_146963.1|        PYFLTDARP-----------------------EDLRAAGVDVSHDESFLQ
+gi|2599106|gb|AAB94881.1|           PYCYTRQPP-----------------------SELGEL----EGREDVLG
+gi|6679409|ref|NP_032918.1|         SYLENFLPDVSCWDIDQD---DESIPQEVQVDSSNLPLVKGADDEQVFQF
+                                    .*                                                
+
+gi|1495740|emb|CAA90888.1|          TEVEKVQKKFLG-----------------------------RPIEVWKLY
+gi|216918|dbj|BAA02362.1|           VDVEKVEKKFLG-----------------------------KPITVWKLY
+gi|154686|gb|AAA72100.1|            LDAVKVRKKFLG-----------------------------REVEVWKLI
+gi|495654|gb|AAA72443.1|            IEKIVYSDYILNGKDISEV----------------SDFKNKKERKICKVY
+gi|6752664|gb|AAF27815.1|AF195      DDVQIVERRFLG-----------------------------RSKKFLKVI
+gi|1685082|gb|AAC44598.1|           LELINKVDPYTG-----------------------------KKIRLTKIV
+gi|2696625|dbj|BAA23994.1|          LETVIKIDPYSG-----------------------------NKIKLTKIV
+gi|47565|emb|CAA45795.1|            IETVSKIDPYTW-----------------------------NKFKLTKIV
+gi|14600448|ref|NP_146963.1|        YDLVEKFHPIDR-----------------------------KLVKLTKIV
+gi|2599106|gb|AAB94881.1|           TEQVMRHDLIAD-----------------------------KDVPVTKIT
+gi|6679409|ref|NP_032918.1|         YWLDAYEDPYNQPGVVFLFGKVWIESVKTHVSCCVMVKNIERTLYFLPRE
+                                                                             .   .    
+
+gi|1495740|emb|CAA90888.1|          LEHPQDVPAIREKIREHPAVVDIFEYDIPFAKRYLIDKGLTPMEGNEE--
+gi|216918|dbj|BAA02362.1|           LEHPQDVPTIREKVREHPAVVDIFEYDIPFAKRYLIDKGLIPMEGEEE--
+gi|154686|gb|AAA72100.1|            FEHPQDVPAMRGKIREHPAVVDIYEYDIPFAKRYLIDKGLIPMEGDEE--
+gi|495654|gb|AAA72443.1|            VKYPNHVKIIREYFKEFG---KSYEFDIPFLRRYMIDQDIVPSAKYSEDN
+gi|6752664|gb|AAF27815.1|AF195      AKIPEDVRKLREAAMSIPRVSGVYEADIRFYMRYMIDMGVVPCSWNVAEV
+gi|1685082|gb|AAC44598.1|           VKDPLAVRRMR--SSLPKA----YEAHIKYYNNYVYDNGLIPGLIYKVNK
+gi|2696625|dbj|BAA23994.1|          VKDPLAVRRMR--NSVPKA----YEAHIKYFNNYIYDLGLIPGLPYVVKK
+gi|47565|emb|CAA45795.1|            VRDPHAVRRLR--NDVPKA----YEAHIKYFNNYMYDIGLIPGMPYVVKN
+gi|14600448|ref|NP_146963.1|        VSDPLAVRRLR--EKVSSAGFSVWEADIKYHHNYIFDRQLIPGILYEVGG
+gi|2599106|gb|AAB94881.1|           VADPLAIGGTNS-EKSIRNIMDTWESDIKYYENYLYDKSLVVGRYYSVSG
+gi|6679409|ref|NP_032918.1|         MKFDLNTGKETAIPVTMKDVYEEFDSKISAKYKIMKFKSKIVEKNYAFEI
+                                                           :: .*    . :               
+
+gi|1495740|emb|CAA90888.1|          --------------------------------------------------
+gi|216918|dbj|BAA02362.1|           --------------------------------------------------
+gi|154686|gb|AAA72100.1|            --------------------------------------------------
+gi|495654|gb|AAA72443.1|            KIDNSI--------------------------------------------
+gi|6752664|gb|AAF27815.1|AF195      EEGGRLGGIP----------------------------------------
+gi|1685082|gb|AAC44598.1|           GKLTQLNPELKGEEINEIKK-LSDAY------------------------
+gi|2696625|dbj|BAA23994.1|          GKLEQLRPELKGEEVDEIRKAFADSD------------------------
+gi|47565|emb|CAA45795.1|            GKLESVYLSLDEKDVEEIKKAFADSD------------------------
+gi|14600448|ref|NP_146963.1|        VRIVHTLPLEMDDATRIVDEIFREEP------------------------
+gi|2599106|gb|AAB94881.1|           GKVIPHDMPISDEVKLALKSLLWDKVVDEGMADR----------------
+gi|6679409|ref|NP_032918.1|         PDVPEKSEYLEVRYSAEVPQLPQNLKGETFSHVFGTNTSSLELFLMNRKI
+                                                                                      
+
+gi|1495740|emb|CAA90888.1|          -------------------------------------------LTFLAVD
+gi|216918|dbj|BAA02362.1|           -------------------------------------------LKILAFD
+gi|154686|gb|AAA72100.1|            -------------------------------------------LKLLAFD
+gi|495654|gb|AAA72443.1|            -----------------------------------------PELNCIAFD
+gi|6752664|gb|AAF27815.1|AF195      --------------------------TYVVSQWYGIDEGFPPSLKVMAFD
+gi|1685082|gb|AAC44598.1|           -----------------------EMTKETVNDWIPILETEVPDIKRVSLD
+gi|2696625|dbj|BAA23994.1|          -----------------------EMTKEAVNDWIPIFESEVPDVKRVAID
+gi|47565|emb|CAA45795.1|            -----------------------EMTRQMAVDWLPIFETEIPKIKRVAID
+gi|14600448|ref|NP_146963.1|        -----------------------REVRERAREWLRIFEAPPPKLPLIAFD
+gi|2599106|gb|AAB94881.1|           -----------------------KEFREFIAGWADLLNQPIPRIRRLSFD
+gi|6679409|ref|NP_032918.1|         KGPCWLEVKNPQLLNQPISWCKFEVMALKPDLVNVIKDVSPPPLVVMSFS
+                                                                               :  ::..
+
+gi|1495740|emb|CAA90888.1|          IETLYHEG-EEFGKG----PIIMISYADEEGAKVITWKSIDLP-------
+gi|216918|dbj|BAA02362.1|           IETLYHEG-EEFGKG----PIIMISYADENEAKVITWKNIDLP-------
+gi|154686|gb|AAA72100.1|            IETFYHEG-DEFGKG----EIIMISYADEEEARVITWKNIDLP-------
+gi|495654|gb|AAA72443.1|            MELYCKKE-PNAKKD----PIIMVNLFSKDYQKVITYKKFENSE------
+gi|6752664|gb|AAF27815.1|AF195      IEVYNERGSPDPIRD----PVVMLAIKTNDGHEEVFEASGKDD-------
+gi|1685082|gb|AAC44598.1|           IEVYTPNRGRIPDPERAEFPIISVALAGNDGSKIVLALKREDVN------
+gi|2696625|dbj|BAA23994.1|          IEVYTPIKGRIPDPEKAEFPIISISLAGNDGTKRVLVLLREDVN------
+gi|47565|emb|CAA45795.1|            IEVYTPVKGRIPDSQKAEFPIISIALAGSDGLKKVLVLNRNDVN------
+gi|14600448|ref|NP_146963.1|        IEVYSPIATRLPDPSTAPYPVISAATADSSGRSRVVLLYRDGVE------
+gi|2599106|gb|AAB94881.1|           IEVDSE-EGRIPDPKISDRRVTAVGFAATDGLKQVFVL-RSGAE------
+gi|6679409|ref|NP_032918.1|         MKTMQNVQNHQHEIIAMAALVHHSFALDKAPPEPPFQTHFCVVSKPKDCI
+                                    ::                  :                             
+
+gi|1495740|emb|CAA90888.1|          --------------YVEVVSSEREMIKRLVKVIREKDPDVIITYNGDNFD
+gi|216918|dbj|BAA02362.1|           --------------YVEVVSSEREMIKRFLRIIREKDPDIIVTYNGDSFD
+gi|154686|gb|AAA72100.1|            --------------YVDVVSNEREMIKRFVQVVKEKDPDVIITYNGDNFD
+gi|495654|gb|AAA72443.1|            ----YNG-------CVDYVKDEKELIQKTIEILKQYD--VIYTYNGDNFD
+gi|6752664|gb|AAF27815.1|AF195      ----------------------RGVVRAFVDFIRSYDPDVIVGYNSNGFD
+gi|1685082|gb|AAC44598.1|           ----SDF-SKKDGVQVEIFDSEKKLLARLFEIIREYP--MLLTFNGDDFD
+gi|2696625|dbj|BAA23994.1|          ----SQI-TKHD-VIVETFKSERELIRRFFDIILDYP--IILTFNGDDFD
+gi|47565|emb|CAA45795.1|            ----EGS-VKLDGISVERFNTEYELLGRFFDILLEYP--IVLTFNGDDFD
+gi|14600448|ref|NP_146963.1|        ----FTEGALPEGTEVEIYDSERAMLLDLVRILQRYP--LVVSFNGDNFD
+gi|2599106|gb|AAB94881.1|           ----EGENGVTPGVEVVFYDKEADMIRDALSVIGSYP--FVLTYNGDDFD
+gi|6679409|ref|NP_032918.1|         FPCDFKEVISKKNMKVEIAATERTLIGFFLAKVHKIDPDILVGHNICSFE
+                                                            ::   .  :      .:  .*  .*:
+
+gi|1495740|emb|CAA90888.1|          FPYLLKRAEKLGIKLPLGRD--NSEPKMQRMGD---SLAVEIKGRIHFDL
+gi|216918|dbj|BAA02362.1|           FPYLAKRAEKLGIKLTIGRD--GSEPKMQRIGD---MTAVEVKGRIHFDL
+gi|154686|gb|AAA72100.1|            LPYLIKRAEKLGVRLVLGRDKEHPEPKIQRMGD---SFAVEIKGRIHFDL
+gi|495654|gb|AAA72443.1|            FPYLKKRANIYEIELDFDNASNSQQPQIIKISKGGINRKSKIPGIIHIDL
+gi|6752664|gb|AAF27815.1|AF195      WPYLVERAKAVGVPLKVDRLSNPPQQSVYGHWS--------IVGRANVDL
+gi|1685082|gb|AAC44598.1|           IPYIYFRALRLNFSPEEVPLDVVS-GEGKFLAG------------IHIDL
+gi|2696625|dbj|BAA23994.1|          IPYIYYRALKLNFTPEEIPFDIIN-DEGKYLAG------------IHIDL
+gi|47565|emb|CAA45795.1|            LPYIYFRALKLGYFPEEIPIDVAGKDEAKYLAG------------LHIDL
+gi|14600448|ref|NP_146963.1|        LPYIARRLEVLGVPREFAPIELKQ-DYATFRRS------------LHIDL
+gi|2599106|gb|AAB94881.1|           MPYMLNRARRLGVSDSDIPLYMMR-DSATLRHG------------VHLDL
+gi|6679409|ref|NP_032918.1|         LEVLLQRINECKVPYWSKIGRLRRSNMPKLGSRSGFGERNATCGRMICDV
+                                       :  *                                         *:
+
+gi|1495740|emb|CAA90888.1|          FPAIRRTINLPTYTLETVYEVIFGKSKEK---VYAHEIAEAWETGKGLER
+gi|216918|dbj|BAA02362.1|           YHVITRTINLPTYTLEAVYEAIFGKPKEK---VYADEIAKAWESGENLER
+gi|154686|gb|AAA72100.1|            FPVVRRTINLPTYTLEAVYEAVLGKTKSK---LGAEEIAAIWETEESMKK
+gi|495654|gb|AAA72443.1|            YPIARKLLNLTKYKLENVVQELFKINKEA---VDYGDIPKMWETED--TT
+gi|6752664|gb|AAF27815.1|AF195      YNIVEEFPEIKLKTLDRVAEYFGVMKREERVLIPGHKIYEYWKDPNKRPL
+gi|1685082|gb|AAC44598.1|           YKFFFNRA-VSIYAFEGKYSEYSLYAVATALLGISKVKLDTFISFMDIDK
+gi|2696625|dbj|BAA23994.1|          YKFFFNRA-IRNYAFEGKYNEYNLDAVATALLGMSKVKLDTLISFLDLDK
+gi|47565|emb|CAA45795.1|            YKFFFNKA-VRNYAFEGKYNEYNLDAVAKALLGTSKVKVDTLISFLDVEK
+gi|14600448|ref|NP_146963.1|        HKLFGIRA-LQVYAFGNKYRELSLESISRALLGKGKVELKAPVSELNLNK
+gi|2599106|gb|AAB94881.1|           YRTFSNRS-FQLYAFAAKYTDYSLNSVTKAMLGEGKVDYGVKLGDLTLYQ
+gi|6679409|ref|NP_032918.1|         EISAKELIHCKSYHLSELVQQILK---TERIVIPTENIRNMYSESSYLLY
+                                                  :                                   
+
+gi|1495740|emb|CAA90888.1|          VAKYSMEDAKVTSELG----KEFFPMEAQLARLVGHPVWDVSRSSTGNLV
+gi|216918|dbj|BAA02362.1|           VAKYSMEDAKATYELG----KEFLPMEIQLSRLVGQPLWDVSRSSTGNLV
+gi|154686|gb|AAA72100.1|            LAQYSMEDARATYELG----KEFFPMEAELAKLIGQSVWDVSRSSTGNLV
+gi|495654|gb|AAA72443.1|            LLRYAYEDALYTYKMG----NYFLPLEIMFSRIVNQPLYDTSRMNSSQMV
+gi|6752664|gb|AAF27815.1|AF195      LKRYVLDDVRSTLGLA----DKLLPFLIQLSSVSGLPLDQVAAASVGNRV
+gi|1685082|gb|AAC44598.1|           LIEYNLRDAEITLKLTTFNNNLVLKLMVLLARISKLGLEELTRTEVSTWI
+gi|2696625|dbj|BAA23994.1|          LIEYNSRDAEITLKLTTFNNNLVWKLIILLARISKMGLEELTRTEVSTWI
+gi|47565|emb|CAA45795.1|            LIEYNFRDAEITLQLTTFNNDLTMKLIVLFSRISRLGIEELTRTEISTWV
+gi|14600448|ref|NP_146963.1|        LIEYNLQDARLTLELLTFSNNLVFNLIIMVMRTSKLGIEDITRSQISNWI
+gi|2599106|gb|AAB94881.1|           TANYCYHDARLTLELSTFGNEILMDLLVVTSRIARMPIDDMSRMGVSQWI
+gi|6679409|ref|NP_032918.1|         LLEHIWKDARFILQIMC--ELNVLPLALQITNIAGNIMSRTLMGGRSERN
+                                      .:   *.     :          :           :        .   
+
+gi|1495740|emb|CAA90888.1|          EWFLLTKAYERNELAPNKPDEREYERR-------------------LRES
+gi|216918|dbj|BAA02362.1|           EWFLLRKAYERNEVAPNKPSEEEYQRR-------------------LRES
+gi|154686|gb|AAA72100.1|            EWYLLRVAYARNELAPNKPDEEEYKRR-------------------LRTT
+gi|495654|gb|AAA72443.1|            EFLLLKRSFEQNMISPNRPSSSSYRER-------------------AKFS
+gi|6752664|gb|AAF27815.1|AF195      EWMLLRYAYRLGEVAPNR------EER-------------------EYEP
+gi|1685082|gb|AAC44598.1|           KNLYYWEHRKRNWLIPLKEEILVRSNQ------------VKTAAVIKGKK
+gi|2696625|dbj|BAA23994.1|          KNLYYWEHRRRNWLIPLKEEILTRSSQ------------IKTAAIIKGKR
+gi|47565|emb|CAA45795.1|            KNLYYWEHRKRNWLIPLKEEILAKSSN------------IRTSALIKGKG
+gi|14600448|ref|NP_146963.1|        RGLMYWEHRRRRWLIPSRGEIEKLSSAG-----------ARVGAIIKDKK
+gi|2599106|gb|AAB94881.1|           RSLLYYEHRQRNALIPRRDELEGRSRE------------VSNDAVIKDKK
+gi|6679409|ref|NP_032918.1|         EFLLLHAFYENNYIVPDKQIFRKPQQKLGDEDEEIDGDTNKYKKGRKKAT
+                                    .            : * :                                
+
+gi|1495740|emb|CAA90888.1|          YEGGYVNEPEKGLWEG-IVSLDFRSLYPSIIITHNVSPDTLNRENC----
+gi|216918|dbj|BAA02362.1|           YTGGFVKEPEKGLWEN-IVYLDFRALYPSIIITHNVSPDTLNLEGC----
+gi|154686|gb|AAA72100.1|            YLGGYVKEPEKGLWEN-IIYLDFRSLYPSIIVTHNVSPDTLEKEGC----
+gi|495654|gb|AAA72443.1|            YEGGYVREPLKGIQED-IVSLDFMSLYPSILISHNISPETVIYEEK----
+gi|6752664|gb|AAF27815.1|AF195      YKGAIVLEPKPGMYED-VLVLDFSSMYPNIMMKYNLSPDTYLEPGEPDPP
+gi|1685082|gb|AAC44598.1|           YKGAVVIDPPAGVYFN-VVVLDFASLYPSIIKNWNISYETIEIDECTKKV
+gi|2696625|dbj|BAA23994.1|          YKGAVVIDPPAGVFFN-VVVLDFASLYPSIIRNWNISYETVDVENCKNKE
+gi|47565|emb|CAA45795.1|            YKGAVVIDPPAGIFFN-ITVLDFASLYPSIIRTWNLSYETVDIQQCKKPY
+gi|14600448|ref|NP_146963.1|        YRGAIVLDPPVGIFFR-VLVLDFASLYPSLIKQWNLSYETVNNPNCRDTI
+gi|2599106|gb|AAB94881.1|           FRGGLVVEPEEGIHFD-VTVMDFASLYPSIIKVRNLSYETVR---CVHAE
+gi|6679409|ref|NP_032918.1|         YAGGLVLDPKVGFYDKFILLLDFNSLYPSIIQEFNICFTTVQRVTSEVQK
+                                    : *. * :*  *.    :  :** ::**.::   *:.  *          
+
+gi|1495740|emb|CAA90888.1|          KEYDVAPQVGHRFCKD--FPGFIPSLLGNLLEERQKIKKRMKESKDP---
+gi|216918|dbj|BAA02362.1|           KNYDIAPQVGHKFCKD--IPGFIPSLLGHLLEERQKIKTKMKETQDP---
+gi|154686|gb|AAA72100.1|            KNYDVAPIVGYRFCKD--FPGFIPSILGDLIAMRQDIKKKMKSTIDP---
+gi|495654|gb|AAA72443.1|            ERENME-------------LGIIPKTLNELLSRRKHIKMLLKDKIQKNEF
+gi|6752664|gb|AAF27815.1|AF195      EGVNVAPEVGHRFRRS--PPGFVPQVLKSLVELRKAVREEAKKYPPDS--
+gi|1685082|gb|AAC44598.1|           WVEDETGEKLHYVCMD--KPGITAVYQGLIRDFRVKVYKKKAKYSNISE-
+gi|2696625|dbj|BAA23994.1|          YVRDETGEVLHYICKD--KPGITAVITGLLRDFRVKVYKKKAKSQNISE-
+gi|47565|emb|CAA45795.1|            EVKDETGEVLHIVCMD--RPGITAVITGLLRDFRVKIYKKKAKNPNNSE-
+gi|14600448|ref|NP_146963.1|        EVP----EVGHRVCRE--FKGISNEIVGMLRDFRVRLYKKKSKDKSLRE-
+gi|2599106|gb|AAB94881.1|           CKKNTIPDTNHWVCTK--NNGLTSMIIGSLRDLRVNYYKSLSKSTSITE-
+gi|6679409|ref|NP_032918.1|         ATEDEEQEQIPELPDPNLEMGILPREIRKLVERRKQVKQLMKQQDLNPD-
+                                                        *:       :   *        .       
+
+gi|1495740|emb|CAA90888.1|          -VEKKLLDYRQRAIKILAN-------------------------------
+gi|216918|dbj|BAA02362.1|           -IEKILLDYRQKAIKLLAN-------------------------------
+gi|154686|gb|AAA72100.1|            -IEKKMLDYRQRAIKLLANSILPNEWLPIIENGEIKFVKIGEFINSYMEK
+gi|495654|gb|AAA72443.1|            DEEYSRLEHEQKSIKVLAN-------------------------------
+gi|6752664|gb|AAF27815.1|AF195      -PEFKILDERQRALKVMAN-------------------------------
+gi|1685082|gb|AAC44598.1|           -EQRSLYDVVQRAMKVFIN-------------------------------
+gi|2696625|dbj|BAA23994.1|          -EQRSVYDVVQRAMKVFIN-------------------------------
+gi|47565|emb|CAA45795.1|            -EQKLLYDVVQRAMKVFIN-------------------------------
+gi|14600448|ref|NP_146963.1|        -EERLWYDVVQSAMKVYIN-------------------------------
+gi|2599106|gb|AAB94881.1|           -EQRQQYTVISQALKVVLN-------------------------------
+gi|6679409|ref|NP_032918.1|         --LVLQYDIRQKALKLTAN-------------------------------
+                                              . ::*:  *                               
+
+gi|1495740|emb|CAA90888.1|          --------------------------------------------------
+gi|216918|dbj|BAA02362.1|           --------------------------------------------------
+gi|154686|gb|AAA72100.1|            QKENVKTVENTEVLEVNNLFAFSFNKKIKESEVKKVKALIRHKYKGKAYE
+gi|495654|gb|AAA72443.1|            --------------------------------------------------
+gi|6752664|gb|AAF27815.1|AF195      --------------------------------------------------
+gi|1685082|gb|AAC44598.1|           --------------------------------------------------
+gi|2696625|dbj|BAA23994.1|          --------------------------------------------------
+gi|47565|emb|CAA45795.1|            --------------------------------------------------
+gi|14600448|ref|NP_146963.1|        --------------------------------------------------
+gi|2599106|gb|AAB94881.1|           --------------------------------------------------
+gi|6679409|ref|NP_032918.1|         --------------------------------------------------
+                                                                                      
+
+gi|1495740|emb|CAA90888.1|          --------------------------------------------------
+gi|216918|dbj|BAA02362.1|           --------------------------------------------------
+gi|154686|gb|AAA72100.1|            IQLSSGRKINITAGHSLFTVRNGEIKEVSGDGIKEGDLIVAPKKIKLNEK
+gi|495654|gb|AAA72443.1|            --------------------------------------------------
+gi|6752664|gb|AAF27815.1|AF195      --------------------------------------------------
+gi|1685082|gb|AAC44598.1|           --------------------------------------------------
+gi|2696625|dbj|BAA23994.1|          --------------------------------------------------
+gi|47565|emb|CAA45795.1|            --------------------------------------------------
+gi|14600448|ref|NP_146963.1|        --------------------------------------------------
+gi|2599106|gb|AAB94881.1|           --------------------------------------------------
+gi|6679409|ref|NP_032918.1|         --------------------------------------------------
+                                                                                      
+
+gi|1495740|emb|CAA90888.1|          --------------------------------------------------
+gi|216918|dbj|BAA02362.1|           --------------------------------------------------
+gi|154686|gb|AAA72100.1|            GVSINIPELISDLSEEETADIVMTISAKGRKNFFKGMLRTLRWMFGEENR
+gi|495654|gb|AAA72443.1|            --------------------------------------------------
+gi|6752664|gb|AAF27815.1|AF195      --------------------------------------------------
+gi|1685082|gb|AAC44598.1|           --------------------------------------------------
+gi|2696625|dbj|BAA23994.1|          --------------------------------------------------
+gi|47565|emb|CAA45795.1|            --------------------------------------------------
+gi|14600448|ref|NP_146963.1|        --------------------------------------------------
+gi|2599106|gb|AAB94881.1|           --------------------------------------------------
+gi|6679409|ref|NP_032918.1|         --------------------------------------------------
+                                                                                      
+
+gi|1495740|emb|CAA90888.1|          --------------------------------------------------
+gi|216918|dbj|BAA02362.1|           --------------------------------------------------
+gi|154686|gb|AAA72100.1|            RIRTFNRYLFHLEKLGLIKLLPRGYEVTDWERLKKYKQLYEKLAGSVKYN
+gi|495654|gb|AAA72443.1|            --------------------------------------------------
+gi|6752664|gb|AAF27815.1|AF195      --------------------------------------------------
+gi|1685082|gb|AAC44598.1|           --------------------------------------------------
+gi|2696625|dbj|BAA23994.1|          --------------------------------------------------
+gi|47565|emb|CAA45795.1|            --------------------------------------------------
+gi|14600448|ref|NP_146963.1|        --------------------------------------------------
+gi|2599106|gb|AAB94881.1|           --------------------------------------------------
+gi|6679409|ref|NP_032918.1|         --------------------------------------------------
+                                                                                      
+
+gi|1495740|emb|CAA90888.1|          --------------------------------------------------
+gi|216918|dbj|BAA02362.1|           --------------------------------------------------
+gi|154686|gb|AAA72100.1|            GNKREYLVMFNEIKDFISYFPQKELEEWKIGTLNGFRTNCILKVDEDFGK
+gi|495654|gb|AAA72443.1|            --------------------------------------------------
+gi|6752664|gb|AAF27815.1|AF195      --------------------------------------------------
+gi|1685082|gb|AAC44598.1|           --------------------------------------------------
+gi|2696625|dbj|BAA23994.1|          --------------------------------------------------
+gi|47565|emb|CAA45795.1|            --------------------------------------------------
+gi|14600448|ref|NP_146963.1|        --------------------------------------------------
+gi|2599106|gb|AAB94881.1|           --------------------------------------------------
+gi|6679409|ref|NP_032918.1|         --------------------------------------------------
+                                                                                      
+
+gi|1495740|emb|CAA90888.1|          --------------------------------------------------
+gi|216918|dbj|BAA02362.1|           --------------------------------------------------
+gi|154686|gb|AAA72100.1|            LLGYYVSEGYAGAQKNKTGGISYSVKLYNEDPNVLESMKNVAEKFFGKVR
+gi|495654|gb|AAA72443.1|            --------------------------------------------------
+gi|6752664|gb|AAF27815.1|AF195      --------------------------------------------------
+gi|1685082|gb|AAC44598.1|           --------------------------------------------------
+gi|2696625|dbj|BAA23994.1|          --------------------------------------------------
+gi|47565|emb|CAA45795.1|            --------------------------------------------------
+gi|14600448|ref|NP_146963.1|        --------------------------------------------------
+gi|2599106|gb|AAB94881.1|           --------------------------------------------------
+gi|6679409|ref|NP_032918.1|         --------------------------------------------------
+                                                                                      
+
+gi|1495740|emb|CAA90888.1|          --------------------------------------------------
+gi|216918|dbj|BAA02362.1|           --------------------------------------------------
+gi|154686|gb|AAA72100.1|            VDRNCVSISKKMAYLVMKCLCGALAENKRIPSVILTSPEPVRWSFLEAYF
+gi|495654|gb|AAA72443.1|            --------------------------------------------------
+gi|6752664|gb|AAF27815.1|AF195      --------------------------------------------------
+gi|1685082|gb|AAC44598.1|           --------------------------------------------------
+gi|2696625|dbj|BAA23994.1|          --------------------------------------------------
+gi|47565|emb|CAA45795.1|            --------------------------------------------------
+gi|14600448|ref|NP_146963.1|        --------------------------------------------------
+gi|2599106|gb|AAB94881.1|           --------------------------------------------------
+gi|6679409|ref|NP_032918.1|         --------------------------------------------------
+                                                                                      
+
+gi|1495740|emb|CAA90888.1|          --------------------------------------------------
+gi|216918|dbj|BAA02362.1|           --------------------------------------------------
+gi|154686|gb|AAA72100.1|            TGDGDIHPSKRFRLSTKSELLANQLVFLLNSLGISSVKIGFDSGVYRVYI
+gi|495654|gb|AAA72443.1|            --------------------------------------------------
+gi|6752664|gb|AAF27815.1|AF195      --------------------------------------------------
+gi|1685082|gb|AAC44598.1|           --------------------------------------------------
+gi|2696625|dbj|BAA23994.1|          --------------------------------------------------
+gi|47565|emb|CAA45795.1|            --------------------------------------------------
+gi|14600448|ref|NP_146963.1|        --------------------------------------------------
+gi|2599106|gb|AAB94881.1|           --------------------------------------------------
+gi|6679409|ref|NP_032918.1|         --------------------------------------------------
+                                                                                      
+
+gi|1495740|emb|CAA90888.1|          --------------------------------------------------
+gi|216918|dbj|BAA02362.1|           --------------------------------------------------
+gi|154686|gb|AAA72100.1|            NEDLQFPQTSREKNTYYSNLIPKEILRDVFGKEFQKNMTFKKFKELVDSG
+gi|495654|gb|AAA72443.1|            --------------------------------------------------
+gi|6752664|gb|AAF27815.1|AF195      --------------------------------------------------
+gi|1685082|gb|AAC44598.1|           --------------------------------------------------
+gi|2696625|dbj|BAA23994.1|          --------------------------------------------------
+gi|47565|emb|CAA45795.1|            --------------------------------------------------
+gi|14600448|ref|NP_146963.1|        --------------------------------------------------
+gi|2599106|gb|AAB94881.1|           --------------------------------------------------
+gi|6679409|ref|NP_032918.1|         --------------------------------------------------
+                                                                                      
+
+gi|1495740|emb|CAA90888.1|          --------------------------------------------------
+gi|216918|dbj|BAA02362.1|           --------------------------------------------------
+gi|154686|gb|AAA72100.1|            KLNREKAKLLEFFINGDIVLDRVKSVKEKDYEGYVYDLSVEDNENFLVGF
+gi|495654|gb|AAA72443.1|            --------------------------------------------------
+gi|6752664|gb|AAF27815.1|AF195      --------------------------------------------------
+gi|1685082|gb|AAC44598.1|           --------------------------------------------------
+gi|2696625|dbj|BAA23994.1|          --------------------------------------------------
+gi|47565|emb|CAA45795.1|            --------------------------------------------------
+gi|14600448|ref|NP_146963.1|        --------------------------------------------------
+gi|2599106|gb|AAB94881.1|           --------------------------------------------------
+gi|6679409|ref|NP_032918.1|         --------------------------------------------------
+                                                                                      
+
+gi|1495740|emb|CAA90888.1|          -------SYYGYYGYAKARWYCKECAESVTAWGRQYIDLVRRELESR-GF
+gi|216918|dbj|BAA02362.1|           -------SFYGYYGYAKARWYCKECAESVTAWGRKYIELVWKELEEKFGF
+gi|154686|gb|AAA72100.1|            GLLYAHNSYYGYMGYPKARWYSKECAESVTAWGRHYIEMTIREIEEKFGF
+gi|495654|gb|AAA72443.1|            -------SHYGYLAFPMARWYSDKCAEMVTGLGRKYIQETI-EKAEEFGF
+gi|6752664|gb|AAF27815.1|AF195      -------AIYGYLGWVGARWYKREVAESVTAFARAILKDVI-EQARRLGI
+gi|1685082|gb|AAC44598.1|           -------ATYGVFGAENFPLYAPAVAESVTAIGRYIITTTY-KQAEKLNL
+gi|2696625|dbj|BAA23994.1|          -------ATYGVFGAENFPLYAPAVAESVTAIGRYVITTTV-NYCRSIGL
+gi|47565|emb|CAA45795.1|            -------ATYGVFGAETFPLYAPRVAESVTALGRYVITSTV-KKAREEGL
+gi|14600448|ref|NP_146963.1|        -------ASYGVFGSEKFSLYSLPVAESVTALGRAVLRGTL-EKSRELNL
+gi|2599106|gb|AAB94881.1|           -------ASYGVMGAEIFPLYFLPAAEATTAVGRYIIMQTI-SHCEQMGV
+gi|6679409|ref|NP_032918.1|         -------SMYGCLGFSYSRFYAKPLAALVTYKGREILMHTK-DMVQKMNL
+                                           : **  .      *    *  .*  .*  :  .  .     ..
+
+gi|1495740|emb|CAA90888.1|          KVLYID--------------------------------------------
+gi|216918|dbj|BAA02362.1|           KVLYID--------------------------------------------
+gi|154686|gb|AAA72100.1|            KVLYADSVSGESEIIIRQNGKIRFVKIKDLFSKVDYSIGEKEYCILEGVE
+gi|495654|gb|AAA72443.1|            KVIYADTDG-----------------------------------------
+gi|6752664|gb|AAF27815.1|AF195      VVVYGD--------------------------------------------
+gi|1685082|gb|AAC44598.1|           KVIYGD--------------------------------------------
+gi|2696625|dbj|BAA23994.1|          QVLYGD--------------------------------------------
+gi|47565|emb|CAA45795.1|            TVLYGD--------------------------------------------
+gi|14600448|ref|NP_146963.1|        HIVYGD--------------------------------------------
+gi|2599106|gb|AAB94881.1|           RVLYGD--------------------------------------------
+gi|6679409|ref|NP_032918.1|         EVIYGD--------------------------------------------
+                                     ::* *                                            
+
+gi|1495740|emb|CAA90888.1|          --------------------------------------------------
+gi|216918|dbj|BAA02362.1|           --------------------------------------------------
+gi|154686|gb|AAA72100.1|            ALTLDDDGKLVWKPVPYVMRHRANKRMFRIWLTNSWYIDVTEDHSLIGYL
+gi|495654|gb|AAA72443.1|            --------------------------------------------------
+gi|6752664|gb|AAF27815.1|AF195      --------------------------------------------------
+gi|1685082|gb|AAC44598.1|           --------------------------------------------------
+gi|2696625|dbj|BAA23994.1|          --------------------------------------------------
+gi|47565|emb|CAA45795.1|            --------------------------------------------------
+gi|14600448|ref|NP_146963.1|        --------------------------------------------------
+gi|2599106|gb|AAB94881.1|           --------------------------------------------------
+gi|6679409|ref|NP_032918.1|         --------------------------------------------------
+                                                                                      
+
+gi|1495740|emb|CAA90888.1|          --------------------------------------------------
+gi|216918|dbj|BAA02362.1|           --------------------------------------------------
+gi|154686|gb|AAA72100.1|            NTSKTKTAKKIGERLKEVKPFELGKAVKSLICPNAPLKDENTKTSEIAVK
+gi|495654|gb|AAA72443.1|            --------------------------------------------------
+gi|6752664|gb|AAF27815.1|AF195      --------------------------------------------------
+gi|1685082|gb|AAC44598.1|           --------------------------------------------------
+gi|2696625|dbj|BAA23994.1|          --------------------------------------------------
+gi|47565|emb|CAA45795.1|            --------------------------------------------------
+gi|14600448|ref|NP_146963.1|        --------------------------------------------------
+gi|2599106|gb|AAB94881.1|           --------------------------------------------------
+gi|6679409|ref|NP_032918.1|         --------------------------------------------------
+                                                                                      
+
+gi|1495740|emb|CAA90888.1|          --------------------------------------------------
+gi|216918|dbj|BAA02362.1|           --------------------------------------------------
+gi|154686|gb|AAA72100.1|            FWELVGLIVGDGNWGGDSRWAEYYLGLSTGKDAEEIKQKLLEPLKTYGVI
+gi|495654|gb|AAA72443.1|            --------------------------------------------------
+gi|6752664|gb|AAF27815.1|AF195      --------------------------------------------------
+gi|1685082|gb|AAC44598.1|           --------------------------------------------------
+gi|2696625|dbj|BAA23994.1|          --------------------------------------------------
+gi|47565|emb|CAA45795.1|            --------------------------------------------------
+gi|14600448|ref|NP_146963.1|        --------------------------------------------------
+gi|2599106|gb|AAB94881.1|           --------------------------------------------------
+gi|6679409|ref|NP_032918.1|         --------------------------------------------------
+                                                                                      
+
+gi|1495740|emb|CAA90888.1|          --------------------------------------------------
+gi|216918|dbj|BAA02362.1|           --------------------------------------------------
+gi|154686|gb|AAA72100.1|            SNYYPKNEKGDFNILAKSLVKFMKRHFKDEKGRRKIPEFMYELPVTYIEA
+gi|495654|gb|AAA72443.1|            --------------------------------------------------
+gi|6752664|gb|AAF27815.1|AF195      --------------------------------------------------
+gi|1685082|gb|AAC44598.1|           --------------------------------------------------
+gi|2696625|dbj|BAA23994.1|          --------------------------------------------------
+gi|47565|emb|CAA45795.1|            --------------------------------------------------
+gi|14600448|ref|NP_146963.1|        --------------------------------------------------
+gi|2599106|gb|AAB94881.1|           --------------------------------------------------
+gi|6679409|ref|NP_032918.1|         --------------------------------------------------
+                                                                                      
+
+gi|1495740|emb|CAA90888.1|          --------------------------------------------------
+gi|216918|dbj|BAA02362.1|           --------------------------------------------------
+gi|154686|gb|AAA72100.1|            FLRGLFSADGTVTIRKGVPEIRLTNIDADFLREVRKLLWIVGISNSIFAE
+gi|495654|gb|AAA72443.1|            --------------------------------------------------
+gi|6752664|gb|AAF27815.1|AF195      --------------------------------------------------
+gi|1685082|gb|AAC44598.1|           --------------------------------------------------
+gi|2696625|dbj|BAA23994.1|          --------------------------------------------------
+gi|47565|emb|CAA45795.1|            --------------------------------------------------
+gi|14600448|ref|NP_146963.1|        --------------------------------------------------
+gi|2599106|gb|AAB94881.1|           --------------------------------------------------
+gi|6679409|ref|NP_032918.1|         --------------------------------------------------
+                                                                                      
+
+gi|1495740|emb|CAA90888.1|          --------------------------------------------------
+gi|216918|dbj|BAA02362.1|           --------------------------------------------------
+gi|154686|gb|AAA72100.1|            TTPNRYNGVSTGTYSKHLRIKNKWRFAERIGFLIERKQKRLLEHLKSARV
+gi|495654|gb|AAA72443.1|            --------------------------------------------------
+gi|6752664|gb|AAF27815.1|AF195      --------------------------------------------------
+gi|1685082|gb|AAC44598.1|           --------------------------------------------------
+gi|2696625|dbj|BAA23994.1|          --------------------------------------------------
+gi|47565|emb|CAA45795.1|            --------------------------------------------------
+gi|14600448|ref|NP_146963.1|        --------------------------------------------------
+gi|2599106|gb|AAB94881.1|           --------------------------------------------------
+gi|6679409|ref|NP_032918.1|         --------------------------------------------------
+                                                                                      
+
+gi|1495740|emb|CAA90888.1|          ----------------------------------------------TDGL
+gi|216918|dbj|BAA02362.1|           ----------------------------------------------TDGL
+gi|154686|gb|AAA72100.1|            KRNTIDFGFDLVHVKKVEEIPYEGYVYDIEVEETHRFFANNILVHNTDGF
+gi|495654|gb|AAA72443.1|            ---------------------------FYAKWDYDKLQKGKKEENDKSDK
+gi|6752664|gb|AAF27815.1|AF195      ----------------------------------------------TDSL
+gi|1685082|gb|AAC44598.1|           ----------------------------------------------TDSL
+gi|2696625|dbj|BAA23994.1|          ----------------------------------------------TDSM
+gi|47565|emb|CAA45795.1|            ----------------------------------------------TDSL
+gi|14600448|ref|NP_146963.1|        ----------------------------------------------TDSL
+gi|2599106|gb|AAB94881.1|           ----------------------------------------------TDSL
+gi|6679409|ref|NP_032918.1|         ----------------------------------------------TDSI
+                                                                                  ... 
+
+gi|1495740|emb|CAA90888.1|          YATIPGAKHEEIKEKALKFVEYINSKLPGLLELEYEGFYARGFFVTKKKY
+gi|216918|dbj|BAA02362.1|           YATIPGGESEEIKKKALEFVKYINSKLPGLLELEYEGFYKRGFFVTKKRY
+gi|154686|gb|AAA72100.1|            YATIPGEKPELIKKKAKEFLNYINSKLPGLLELEYEGFYLRGFFVTKKRY
+gi|495654|gb|AAA72443.1|            LSNLPKLSKEELIILTKKFLKGINEELPEGMELEFEGHFKRGLFVTKKKY
+gi|6752664|gb|AAF27815.1|AF195      FVKKHG--------DVDKLIKYVEEKYGIDIKVDKD-YAKVLFTEAKKRY
+gi|1685082|gb|AAC44598.1|           FLYNPT------KDKLEELIKFVKQNFNLDLEVDNT-YKYVAYSGLKKNY
+gi|2696625|dbj|BAA23994.1|          FLWNPS------KEKLEEIIKFVKGKFGLDLEVDKV-YKFVAFSGLKKNY
+gi|47565|emb|CAA45795.1|            FLLNPP------KNSLENIIKWVKTTFNLDLEVDKT-YKFVAFSGLKKNY
+gi|14600448|ref|NP_146963.1|        FIWDPP------KDVLNDLVDYVERTYGLELELDKV-FRAILFSGLKKNY
+gi|2599106|gb|AAB94881.1|           FIKDPE------ERQIHEIVEHAKKEHGVELEVDKE-YRYVVLSNRKKNY
+gi|6679409|ref|NP_032918.1|         MINTNSTN-LEEVFKLGNKVKSEVNKLYKLLEIDIDAVFKSLLLLKKKKY
+                                                     . :.         ::::            **.*
+
+gi|1495740|emb|CAA90888.1|          ALIDEE--------GKIVTRGLEIVRRDWSEIAKETQAKVLEAILKH---
+gi|216918|dbj|BAA02362.1|           AVIDEE--------GKVITRGLEIVRRDWSEIAKETQARVLETILKH---
+gi|154686|gb|AAA72100.1|            AVIDEE--------GRITTRGLEVVRRDWSEIAKETQAKVLEAILKE---
+gi|495654|gb|AAA72443.1|            ALIEDD--------GHIVVKGLEVVRRDWSNIAKDTQQAVIRALLED---
+gi|6752664|gb|AAF27815.1|AF195      AGLLRD--------GRIDIVGFEVVRGDWSELAKDVQLRVIEIILKS---
+gi|1685082|gb|AAC44598.1|           FGVYPD--------GKTEIKGMLAKKRNTPEFIKKEFAEIKNMLASLNSP
+gi|2696625|dbj|BAA23994.1|          LGVYPD--------GKTDIKGMLAKKRNTPEFIKKEFNEVKQLVTTINSP
+gi|47565|emb|CAA45795.1|            FGVYQD--------GKVDIKGMLVKKRNTPEFVKKVFNEVKELMISINSP
+gi|14600448|ref|NP_146963.1|        LGITEE--------GDIVIKGMVAKKSNTPEFIKDEFSKAVKILSKLEKP
+gi|2599106|gb|AAB94881.1|           FGVTRA--------GKVDVKGLTGKKSHTPPFIKELFYSLLDILSGVESE
+gi|6679409|ref|NP_032918.1|         AALVVEPTSDGNYITKQELKGLDIVRRDWCDLAKDTGNFVIGQILSDQSR
+                                      :                 *:   : .   : *.        :      
+
+gi|1495740|emb|CAA90888.1|          GNVDEA----VKIVKEVTEKLSKYEIPPEKLVIYEQITRPLSEYKAIGP-
+gi|216918|dbj|BAA02362.1|           GDVEEA----VRIVKEVIQKLANYEIPPEKLAIYEQITRPLHEYKAIGP-
+gi|154686|gb|AAA72100.1|            GSVEKA----VEVVRDVVEKIAKYRVPLEKLVIHEQITRDLKDYKAIGP-
+gi|495654|gb|AAA72443.1|            GDVNLA----KKIIKNTIDNLKKGNIDKNDLLIHTQLTKNIEEYKSTAP-
+gi|6752664|gb|AAF27815.1|AF195      RDIVEARHGVIKYIREIIERLKNYKFNIDDLIIWKTLDKELDEYKAYPP-
+gi|1685082|gb|AAC44598.1|           NDIPEVKNKLEIKIKDIYYKLRNKGYNLDDLAFRIMLSKPLDSYTKNTPQ
+gi|2696625|dbj|BAA23994.1|          DDIPKIRDQLEYKIKEIYEKLRHKGYNLDELAFRVMLSKPLESYTKNTPQ
+gi|47565|emb|CAA45795.1|            NDVKEIKRKIVDVVKGSYEKLKNKGYNLDELAFKVMLSKPLDAYKKNTPQ
+gi|14600448|ref|NP_146963.1|        EDVEAILAELRDHINTVYNNVKKKVYTLDQFAIKVMLSKNPREYDKNTPQ
+gi|2599106|gb|AAB94881.1|           DEFESAKMRISKAIAACGKRLEERQIPLVDLAFNVMISKAPSEYVKTVPQ
+gi|6679409|ref|NP_032918.1|         DTIVEN---IQKRLIEIGENVLNGSVPVSQFEINKALTKDPQDYPDRKSL
+                                      .          :     .: .      .: :   : :    *    . 
+
+gi|1495740|emb|CAA90888.1|          -HVAVAKRLAAK-GVKVKPGMVIGYIVLXGDGPISKRAIAIEEFDPKKH-
+gi|216918|dbj|BAA02362.1|           -HVAVAKKLAAK-GVKIKPGMVIGYIVLRGDGPISNRAILAEEYDPKKH-
+gi|154686|gb|AAA72100.1|            -HVAIAKRLAAR-GIKVKPGTIISYIVLKGSGKISDRVILLTEYDPRKH-
+gi|495654|gb|AAA72443.1|            -HIEVAKKIKQR-GDSVRVGDVISYIIVKGSRSISERAELLEYAG-----
+gi|6752664|gb|AAF27815.1|AF195      -HVHAAQILKRH-GYRVGKGTTIGYVIVKGGEKVSERALPYILLDDIK--
+gi|1685082|gb|AAC44598.1|           -HVKAGLQLRAF-GVNVLPRDVIMFVKVK--SKDGVKAYQLAKIS-----
+gi|2696625|dbj|BAA23994.1|          -HVKAALQLRSY-GVMVLPRDIIMFVKVK--SKDGVKPVQLAKLS-----
+gi|47565|emb|CAA45795.1|            -HVKAALQLRPF-GVNVLPRDIIYYVKVR--SKDGVKPVQLAKVT-----
+gi|14600448|ref|NP_146963.1|        -HVKAAMLLQRL-GLTLSRGDIVYYVKTR--DKLGVKPVQLARLS-----
+gi|2599106|gb|AAB94881.1|           -HIRAARLLEN--AREVKKGDIISYVKVM--NKTGVKPVEMARAG-----
+gi|6679409|ref|NP_032918.1|         PHVHVALWINSQGGRKVKAGDTVSYVICQDGSNLTATQRAYAPEQLQKLD
+                                     *:  .  :    .  :     : ::                        
+
+gi|1495740|emb|CAA90888.1|          --KYDAEYYIENQVLPAVERILRAFG------------------------
+gi|216918|dbj|BAA02362.1|           --KYDAEYYIENQVLPAVLRILEGFG------------------------
+gi|154686|gb|AAA72100.1|            --KYDPDYYIENQVLPAVLRILEAFG------------------------
+gi|495654|gb|AAA72443.1|            --DYDINYYIDNQVLPPVIRIMESLG------------------------
+gi|6752664|gb|AAF27815.1|AF195      --KIDIDYYIERQIIPAALRIAEVIG------------------------
+gi|1685082|gb|AAC44598.1|           --EIDIEKYVE-TLRTTFEQILKAFG------------------------
+gi|2696625|dbj|BAA23994.1|          --EIDVDKYID-AVRSTFEQILKAFG------------------------
+gi|47565|emb|CAA45795.1|            --EIDAEKYLE-ALRSTFEQILRAFG------------------------
+gi|14600448|ref|NP_146963.1|        --DVDPGKYVE-HVKTAFEQMLMAFG------------------------
+gi|2599106|gb|AAB94881.1|           --EVDTSKYLE-FMESTLDQLTSSMG------------------------
+gi|6679409|ref|NP_032918.1|         NLAIDTQYYLAQQIHPVVARICEPIDGIDAVLIALWLGLDSTQFRVHQYH
+                                        *   *:   : .   ::   :.                        
+
+gi|1495740|emb|CAA90888.1|          --YRKEDLRYQKTKQVGLGAWLKF--------------------------
+gi|216918|dbj|BAA02362.1|           --YRKEDLRYQKTRQVGLTSWLNIKKS-----------------------
+gi|154686|gb|AAA72100.1|            --YRKEDLRYQSSKQTGLDAWLKR--------------------------
+gi|495654|gb|AAA72443.1|            --ISEDELKN-SGKQFKLDQFM----------------------------
+gi|6752664|gb|AAF27815.1|AF195      --VKESDLKTGRMERSLLDFLS----------------------------
+gi|1685082|gb|AAC44598.1|           --ISWDEIVSTIS---IDSFFGSKK-------------------------
+gi|2696625|dbj|BAA23994.1|          --LIGANLLQLLS---ILSLT-----------------------------
+gi|47565|emb|CAA45795.1|            --VSWDEIAATMS---IDSFFSYPSKGNS---------------------
+gi|14600448|ref|NP_146963.1|        --ISWDDISGVRK---LDRLLFDS--------------------------
+gi|2599106|gb|AAB94881.1|           --LDFDEILGKPKQTGMEQFFFK---------------------------
+gi|6679409|ref|NP_032918.1|         KDEENDALLGGPAQLTDEEKYKDCEKFKCLCPSCGTENIYDNVFEGSGLD
+                                           :                                          
+
+gi|1495740|emb|CAA90888.1|          --------------------------------------------------
+gi|216918|dbj|BAA02362.1|           --------------------------------------------------
+gi|154686|gb|AAA72100.1|            --------------------------------------------------
+gi|495654|gb|AAA72443.1|            --------------------------------------------------
+gi|6752664|gb|AAF27815.1|AF195      --------------------------------------------------
+gi|1685082|gb|AAC44598.1|           --------------------------------------------------
+gi|2696625|dbj|BAA23994.1|          --------------------------------------------------
+gi|47565|emb|CAA45795.1|            --------------------------------------------------
+gi|14600448|ref|NP_146963.1|        --------------------------------------------------
+gi|2599106|gb|AAB94881.1|           --------------------------------------------------
+gi|6679409|ref|NP_032918.1|         MEPSLYRCSNVDCKVSPLTFMVQLSNKLIMDIRRCIKKYYDGWLICEEPT
+                                                                                      
+
+gi|1495740|emb|CAA90888.1|          --------------------------------------------------
+gi|216918|dbj|BAA02362.1|           --------------------------------------------------
+gi|154686|gb|AAA72100.1|            --------------------------------------------------
+gi|495654|gb|AAA72443.1|            --------------------------------------------------
+gi|6752664|gb|AAF27815.1|AF195      --------------------------------------------------
+gi|1685082|gb|AAC44598.1|           --------------------------------------------------
+gi|2696625|dbj|BAA23994.1|          --------------------------------------------------
+gi|47565|emb|CAA45795.1|            --------------------------------------------------
+gi|14600448|ref|NP_146963.1|        --------------------------------------------------
+gi|2599106|gb|AAB94881.1|           --------------------------------------------------
+gi|6679409|ref|NP_032918.1|         CCSRLRRLPLHFSRNGPLCPVCMKAVLRPEYSDKSLYTQLCFYRYIFDAD
+                                                                                      
+
+gi|1495740|emb|CAA90888.1|          --------------------------------------------------
+gi|216918|dbj|BAA02362.1|           --------------------------------------------------
+gi|154686|gb|AAA72100.1|            --------------------------------------------------
+gi|495654|gb|AAA72443.1|            --------------------------------------------------
+gi|6752664|gb|AAF27815.1|AF195      --------------------------------------------------
+gi|1685082|gb|AAC44598.1|           --------------------------------------------------
+gi|2696625|dbj|BAA23994.1|          --------------------------------------------------
+gi|47565|emb|CAA45795.1|            --------------------------------------------------
+gi|14600448|ref|NP_146963.1|        --------------------------------------------------
+gi|2599106|gb|AAB94881.1|           --------------------------------------------------
+gi|6679409|ref|NP_032918.1|         CALEKLTEHEKDKLKKQFFPLRVLQDYRKVKNIAEQFLSWSGYSEVNLSK
+                                                                                      
+
+gi|1495740|emb|CAA90888.1|          ---------
+gi|216918|dbj|BAA02362.1|           ---------
+gi|154686|gb|AAA72100.1|            ---------
+gi|495654|gb|AAA72443.1|            ---------
+gi|6752664|gb|AAF27815.1|AF195      ---------
+gi|1685082|gb|AAC44598.1|           ---------
+gi|2696625|dbj|BAA23994.1|          ---------
+gi|47565|emb|CAA45795.1|            ---------
+gi|14600448|ref|NP_146963.1|        ---------
+gi|2599106|gb|AAB94881.1|           ---------
+gi|6679409|ref|NP_032918.1|         LFANYAGKS
+                                             

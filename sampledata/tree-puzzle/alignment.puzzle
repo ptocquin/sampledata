@@ -1,0 +1,358 @@
+TREE-PUZZLE 5.2
+
+Input file name: alignment.phylip
+Type of analysis: tree reconstruction
+Parameter estimation: approximate (faster)
+Parameter estimation uses: neighbor-joining tree (for substitution process and rate variation)
+
+Standard errors (S.E.) are obtained by the curvature method.
+The upper and lower bounds of an approximate 95% confidence interval
+for parameter or branch length x are x-1.96*S.E. and x+1.96*S.E.
+
+
+SEQUENCE ALIGNMENT
+
+Input data: 13 sequences with 561 amino acid sites
+Number of constant sites: 161 (= 28.7% of all sites)
+Number of site patterns: 361
+Number of constant site patterns: 20 (= 5.5% of all site patterns)
+
+
+SUBSTITUTION PROCESS
+
+Model of substitution: JTT (Jones et al. 1992)
+Amino acid frequencies (estimated from data set):
+
+ pi(A) =   6.0%
+ pi(R) =   4.8%
+ pi(N) =   3.6%
+ pi(D) =   5.2%
+ pi(C) =   0.6%
+ pi(Q) =   8.4%
+ pi(E) =   6.0%
+ pi(G) =   7.1%
+ pi(H) =   4.2%
+ pi(I) =   2.5%
+ pi(L) =   5.8%
+ pi(K) =   5.2%
+ pi(M) =   2.1%
+ pi(F) =   2.3%
+ pi(P) =   9.5%
+ pi(S) =  11.6%
+ pi(T) =   5.6%
+ pi(W) =   1.1%
+ pi(Y) =   4.0%
+ pi(V) =   4.5%
+
+
+AMBIGUOUS CHARACTERS IN THE SEQUENCE (SEQUENCES IN INPUT ORDER)
+
+               gaps  wildcards        sum   % sequence
+ DRERSOX9A       99          0         99       17.65%   
+ CAURSOX9A      104          0        104       18.54%   
+ OMYKSOX9        73          0         73       13.01%   
+ OLATSOX9B       85          0         85       15.15%   
+ TNIGUnk         66          0         66       11.76%   
+ XTRPSOX9        80          0         80       14.26%   
+ RRUGSOX9A       79          0         79       14.08%   
+ DRERSOX9B      201          0        201       35.83%   
+ CCARSOX9B      133          0        133       23.71%   
+ CAURSOX9B      145          0        145       25.85%   
+ TNIGUnm         77          0         77       13.73%   
+ ASTUSOX9       129          0        129       22.99%   
+ HSAPSOX9        52          0         52        9.27%   
+ -------------------------------------------------------
+ Sum           1323          0       1323       18.14%   
+
+
+The table above shows the amount of gaps ('-') and other 'wildcard'
+characters ('X', '?', etc.) and their percentage of the 561 columns
+in the alignment.
+Sequences with more than 50% ambiguous characters are marked with a '!' and 
+should be checked, whether they have sufficient overlap to other sequences.
+Sequences with 100% ambiguous characters do not hold any phylogenetic
+information and had to be discarded from the analysis.
+
+
+
+SEQUENCE COMPOSITION (SEQUENCES IN INPUT ORDER)
+
+              5% chi-square test  p-value
+ DRERSOX9A         passed         100.00%  
+ CAURSOX9A         passed         100.00%  
+ OMYKSOX9          passed          96.29%  
+ OLATSOX9B         passed          99.97%  
+ TNIGUnk           passed          99.85%  
+ XTRPSOX9          passed          98.98%  
+ RRUGSOX9A         passed          99.83%  
+ DRERSOX9B         passed          69.36%  
+ CCARSOX9B         passed          98.90%  
+ CAURSOX9B         passed          18.93%  
+ TNIGUnm           passed          99.78%  
+ ASTUSOX9          passed         100.00%  
+ HSAPSOX9          passed          61.75%  
+
+The chi-square tests compares the amino acid composition of each sequence
+to the frequency distribution assumed in the maximum likelihood model.
+
+
+IDENTICAL SEQUENCES
+
+The sequences in each of the following groups are all identical. To speed
+up computation please remove all but one of each group from the data set.
+
+ All sequences are unique.
+
+
+MAXIMUM LIKELIHOOD DISTANCES
+
+Maximum likelihood distances are computed using the selected model of
+substitution and rate heterogeneity.
+
+  13
+DRERSOX9A   0.00000  0.10128  0.20179  0.20059  0.21071  0.24104  0.22698
+            0.35059  0.22947  0.49061  0.22216  0.19679  0.23550
+CAURSOX9A   0.10128  0.00000  0.20844  0.20454  0.23059  0.24038  0.25011
+            0.35711  0.19281  0.51181  0.23692  0.20730  0.26072
+OMYKSOX9    0.20179  0.20844  0.00000  0.18305  0.29886  0.26164  0.26029
+            0.38285  0.22518  0.54304  0.20229  0.20730  0.27146
+OLATSOX9B   0.20059  0.20454  0.18305  0.00000  0.26453  0.24461  0.23509
+            0.33535  0.21426  0.52939  0.13216  0.20615  0.25172
+TNIGUnk     0.21071  0.23059  0.29886  0.26453  0.00000  0.25975  0.24890
+            0.35405  0.26535  0.51621  0.26581  0.24885  0.27508
+XTRPSOX9    0.24104  0.24038  0.26164  0.24461  0.25975  0.00000  0.09321
+            0.37781  0.24172  0.53061  0.25210  0.17149  0.17118
+RRUGSOX9A   0.22698  0.25011  0.26029  0.23509  0.24890  0.09321  0.00000
+            0.38022  0.24866  0.51074  0.24704  0.15176  0.15625
+DRERSOX9B   0.35059  0.35711  0.38285  0.33535  0.35405  0.37781  0.38022
+            0.00000  0.32276  0.41716  0.34450  0.36716  0.37129
+CCARSOX9B   0.22947  0.19281  0.22518  0.21426  0.26535  0.24172  0.24866
+            0.32276  0.00000  0.45201  0.21680  0.22057  0.24635
+CAURSOX9B   0.49061  0.51181  0.54304  0.52939  0.51621  0.53061  0.51074
+            0.41716  0.45201  0.00000  0.52075  0.47508  0.51304
+TNIGUnm     0.22216  0.23692  0.20229  0.13216  0.26581  0.25210  0.24704
+            0.34450  0.21680  0.52075  0.00000  0.21026  0.26905
+ASTUSOX9    0.19679  0.20730  0.20730  0.20615  0.24885  0.17149  0.15176
+            0.36716  0.22057  0.47508  0.21026  0.00000  0.16305
+HSAPSOX9    0.23550  0.26072  0.27146  0.25172  0.27508  0.17118  0.15625
+            0.37129  0.24635  0.51304  0.26905  0.16305  0.00000
+
+Average distance (over all possible pairs of sequences):  0.28377
+                  minimum  : 0.09321,  maximum  : 0.54304
+                  variance : 0.01240,  std.dev. : 0.11138
+
+
+RATE HETEROGENEITY
+
+Model of rate heterogeneity: uniform rate
+
+
+QUARTET STATISTICS (SEQUENCES IN INPUT ORDER)
+
+
+ name       | resolved        | partly resolved | unresolved      | sum
+ --------------------------------------------------------------------------
+ DRERSOX9A       205 [ 93.18%]       6 [  2.73%]       9 [  4.09%]     220
+ CAURSOX9A       205 [ 93.18%]       6 [  2.73%]       9 [  4.09%]     220
+ OMYKSOX9        210 [ 95.45%]       6 [  2.73%]       4 [  1.82%]     220
+ OLATSOX9B       205 [ 93.18%]       7 [  3.18%]       8 [  3.64%]     220
+ TNIGUnk         204 [ 92.73%]       8 [  3.64%]       8 [  3.64%]     220
+ XTRPSOX9        211 [ 95.91%]       2 [  0.91%]       7 [  3.18%]     220
+ RRUGSOX9A       206 [ 93.64%]       9 [  4.09%]       5 [  2.27%]     220
+ DRERSOX9B       208 [ 94.55%]       5 [  2.27%]       7 [  3.18%]     220
+ CCARSOX9B       208 [ 94.55%]       5 [  2.27%]       7 [  3.18%]     220
+ CAURSOX9B       199 [ 90.45%]       5 [  2.27%]      16 [  7.27%]     220
+ TNIGUnm         204 [ 92.73%]       4 [  1.82%]      12 [  5.45%]     220
+ ASTUSOX9        212 [ 96.36%]       5 [  2.27%]       3 [  1.36%]     220
+ HSAPSOX9        207 [ 94.09%]       4 [  1.82%]       9 [  4.09%]     220
+ --------------------------------------------------------------------------
+  #quartets :    671 [ 93.85%]      18 [  2.52%]      26 [  3.64%]     715
+
+The table shows the occurrences of fully resolved, partially, and
+completely unresolved quartets for each sequence and their percentage
+relative to the number of times the sequence occurs in the list of 
+quartets (i.e. 220 quartets out of 715 in total).
+In fully resolved quartet one single topology is supported, while for
+partially resolved quartets two and for completely unresolved quartets
+none of the topologies (AB||CD, AC||BD, AD||BC) are favoured.
+Note: Because 4 sequences are involved in one quartet numbers add up
+to a four-fold of the existing quartets.
+
+Hint: The overall numbers in the last row give information about the
+phylogenetic content of the dataset. The higher the percentage of partially
+and unresolved quartets, the lower the content of phylogenetic information.
+This can be visualized in more detail by likelihood mapping analysis.
+
+
+
+TREE SEARCH
+
+Quartet puzzling is used to choose from the possible tree topologies
+and to simultaneously infer support values for internal branches.
+
+Number of puzzling steps: 1000
+Analysed quartets: 715
+Fully resolved quartets:  671 (= 93.8%)
+Partly resolved quartets: 18 (= 2.5%)
+Unresolved quartets:      26 (= 3.6%)
+
+Quartet trees are based on approximate maximum likelihood values
+using the selected model of substitution and rate heterogeneity.
+
+
+QUARTET PUZZLING TREE
+
+Support for the internal branches of the unrooted quartet puzzling
+tree topology is shown in percent.
+
+This quartet puzzling tree is not completely resolved!
+
+
+                 :---XTRPSOX9  
+ :------------100:             
+ :               :---RRUGSOX9A 
+ :                             
+ :               :---OLATSOX9B 
+ :           :-96:             
+ :       :-87:   :---TNIGUnm   
+ :       :   :                 
+ :       :   :-------OMYKSOX9  
+ :       :                     
+ :       :       :---DRERSOX9B 
+ :       :   :-98:             
+ :   :-99:-86:   :---CAURSOX9B 
+ :   :   :   :                 
+ :   :   :   :-------CCARSOX9B 
+ :   :   :                     
+ :   :   :       :---DRERSOX9A 
+ :100:   :   :-77:             
+ :   :   :-70:   :---CAURSOX9A 
+ :   :       :                 
+ :   :       :-------TNIGUnk   
+ :   :                         
+ :   :---------------ASTUSOX9  
+ :                             
+ :-------------------HSAPSOX9  
+
+
+Quartet puzzling tree (in CLUSTAL W notation):
+
+(HSAPSOX9,(XTRPSOX9,RRUGSOX9A)100,((((OLATSOX9B,TNIGUnm)96,
+OMYKSOX9)87,((DRERSOX9B,CAURSOX9B)98,CCARSOX9B)86,((DRERSOX9A,
+CAURSOX9A)77,TNIGUnk)70)99,ASTUSOX9)100);
+
+
+BIPARTITIONS
+
+The following bipartitions occured at least once in all intermediate
+trees that have been generated in the 1000 puzzling steps.
+Bipartitions included in the quartet puzzling tree:
+(bipartition with sequences in input order : number of times seen)
+
+ *****..*** ***  :  999
+ .....**... ..*  :  995
+ .....**... .**  :  993
+ *******.*. ***  :  977
+ ***.****** .**  :  956
+ **..****** .**  :  869
+ *******... ***  :  860
+ ..******** ***  :  767
+ ..**.***** ***  :  699
+
+Congruent bipartitions occurred in 50% or less, not included in 
+the consensus tree:
+(bipartition with sequences in input order : number of times seen)
+
+ **..***... .**  :  359
+
+Incongruent bipartitions not included in the consensus tree:
+(bipartition with sequences in input order : number of times seen)
+
+ ..**.**... ***  :  232
+ .....***** .**  :  225
+ .***.***** ***  :  221
+ ....***... .**  :  122
+ ....****** .**  :  119
+ ****.**... ***  :  98
+ ***.***... .**  :  60
+ ...*.***** ***  :  56
+ ..*****... ***  :  53
+ **..****** ***  :  43
+ **..***.*. .**  :  28
+ **..****.* .**  :  26
+ ...******* ***  :  22
+ **...**... .**  :  22
+ ..**.***.* ***  :  22
+ ..******.* ***  :  17
+ ****.**.*. ***  :  16
+ ..**.**.*. ***  :  14
+ **..***.** .**  :  14
+ ********.. ***  :  14
+
+(28 other less frequent bipartitions not shown)
+
+
+MAXIMUM LIKELIHOOD BRANCH LENGTHS ON CONSENSUS TREE (NO CLOCK)
+
+Branch lengths are computed using the selected model of
+substitution and rate heterogeneity.
+
+
+      :---6 XTRPSOX9
+ :---14
+ :    :--7 RRUGSOX9A
+ :
+ :                   :---4 OLATSOX9B
+ :              :---15
+ :              :    :----11 TNIGUnm
+ :          :--16
+ :          :   :------3 OMYKSOX9
+ :    :----21
+ :    :     :               :--------8 DRERSOX9B
+ :    :     :     :--------17
+ :    :     :     :         :----------------10 CAURSOX9B
+ :    :     :----18
+ :    :     :     :------9 CCARSOX9B
+ :    :     :
+ :    :     :         :---1 DRERSOX9A
+ :    :     :   :----19
+ :    :     :   :     :----2 CAURSOX9A
+ :    :     :--20
+ :    :         :--------5 TNIGUnk
+ :---22
+ :    :---12 ASTUSOX9
+ :
+ :-----13 HSAPSOX9
+ 
+
+         branch  length     S.E.   branch  length     S.E.
+DRERSOX9A     1  0.04324  0.01085      14  0.04186  0.01071
+CAURSOX9A     2  0.06234  0.01284      15  0.04346  0.01086
+OMYKSOX9      3  0.10915  0.01675      16  0.02778  0.01064
+OLATSOX9B     4  0.06009  0.01235      17  0.14870  0.02778
+TNIGUnk       5  0.14464  0.01999      18  0.07066  0.01803
+XTRPSOX9      6  0.05723  0.01172      19  0.07163  0.01447
+RRUGSOX9A     7  0.03636  0.00961      20  0.03660  0.01237
+DRERSOX9B     8  0.16235  0.02796      21  0.06766  0.01421
+CCARSOX9B     9  0.10364  0.01883      22  0.04902  0.01192
+CAURSOX9B    10  0.32013  0.03643
+TNIGUnm      11  0.07288  0.01337
+ASTUSOX9     12  0.04476  0.01194     8 iterations until convergence
+HSAPSOX9     13  0.08480  0.01457     log L: -5531.92
+
+
+Consensus tree with maximum likelihood branch lengths
+(in CLUSTAL W notation):
+
+(HSAPSOX9:0.08480,(XTRPSOX9:0.05723,RRUGSOX9A:0.03636)100:0.04186,
+((((OLATSOX9B:0.06009,TNIGUnm:0.07288)96:0.04346,OMYKSOX9:0.10915)
+87:0.02778,((DRERSOX9B:0.16235,CAURSOX9B:0.32013)98:0.14870,CCARSOX9B:0.10364)
+86:0.07066,((DRERSOX9A:0.04324,CAURSOX9A:0.06234)77:0.07163,TNIGUnk:0.14464)
+70:0.03660)99:0.06766,ASTUSOX9:0.04476)100:0.04902);
+
+
+TIME STAMP
+
+Date and time: Mon Oct  6 17:30:20 2008
+Runtime (excl. input) : 2 seconds (= 0.0 minutes = 0.0 hours)
+Runtime (incl. input) : 40 seconds (= 0.7 minutes = 0.0 hours)

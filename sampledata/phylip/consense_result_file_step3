@@ -1,0 +1,78 @@
+
+Consensus tree program, version 3.68
+
+Species in order: 
+
+  1. CCARSOX9B
+  2. CAURSOX9B
+  3. DRERSOX9B
+  4. TNIGUnm
+  5. OLATSOX9B
+  6. TNIGUnk
+  7. ASTUSOX9
+  8. HSAPSOX9
+  9. RRUGSOX9A
+  10. XTRPSOX9
+
+  11. OMYKSOX9
+  12. CAURSOX9A
+  13. DRERSOX9A
+
+
+Sets included in the consensus tree
+
+Set (species in order)     How many times out of    1.00
+
+......**** *..               1.00
+.......... .**               1.00
+......**** ...               1.00
+........** ...               1.00
+.**....... ...               1.00
+.......*** ...               1.00
+...******* *..               1.00
+...**..... ...               1.00
+.....***** *..               1.00
+...******* ***               1.00
+
+
+Sets NOT included in consensus tree: NONE
+
+
+Extended majority rule consensus tree
+
+CONSENSUS TREE:
+the numbers on the branches indicate the number
+of times the partition of the species into the two sets
+which are separated by that branch occurred
+among the trees, out of   1.00 trees
+(trees had fractional weights)
+
+                                                   +-------------HSAPSOX9
+                                            +-1.00-|
+                                            |      |      +------RRUGSOX9A
+                                     +-1.00-|      +-1.00-|
+                                     |      |             +------XTRPSOX9
+                              +-1.00-|      |
+                              |      |      +--------------------ASTUSOX9
+                       +-1.00-|      |
+                       |      |      +---------------------------OMYKSOX9
+                       |      |
+                +-1.00-|      +----------------------------------TNIGUnk
+                |      |
+                |      |                                  +------OLATSOX9B
+         +-1.00-|      +-----------------------------1.00-|
+         |      |                                         +------TNIGUnm
+         |      |
+         |      |                                         +------DRERSOX9A
+  +------|      +------------------------------------1.00-|
+  |      |                                                +------CAURSOX9A
+  |      |
+  |      |                                                +------CAURSOX9B
+  |      +-------------------------------------------1.00-|
+  |                                                       +------DRERSOX9B
+  |
+  +--------------------------------------------------------------CCARSOX9B
+
+
+  remember: this is an unrooted tree!
+

@@ -1,0 +1,2720 @@
+ID   AF063097 standard; XXX; 0 BP.
+FH   Key             Location/Qualifiers
+FH
+FT   TBLASTX_HIT     complement(1263..3080)
+FT                   /colour="255 35 35"
+FT                   /label="B132222"
+FT                   /score="1261"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=86%;
+FT                   ; E()=0.0; score=1261; ; ; subject 3817-2000 bp;"
+FT   TBLASTX_HIT     11289..13484
+FT                   /colour="255 96 96"
+FT                   /label="B132222"
+FT                   /score="962"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=62%;
+FT                   ; E()=0.0; score=962; ; ; subject 10718-12913 bp;"
+FT   TBLASTX_HIT     1375..3135
+FT                   /colour="255 71 71"
+FT                   /label="B132222"
+FT                   /score="910"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=72%;
+FT                   ; E()=0.0; score=910; ; ; subject 2112-3872 bp;"
+FT   TBLASTX_HIT     4068..5126
+FT                   /colour="255 61 61"
+FT                   /label="B132222"
+FT                   /score="651"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=76%;
+FT                   ; E()=0.0; score=651; ; ; subject 4814-5872 bp;"
+FT   TBLASTX_HIT     12146..13486
+FT                   /colour="255 86 86"
+FT                   /label="B132222"
+FT                   /score="646"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=66%;
+FT                   ; E()=0.0; score=646; ; ; subject 11575-12915 bp;"
+FT   TBLASTX_HIT     complement(202..1203)
+FT                   /colour="255 56 56"
+FT                   /label="B132222"
+FT                   /score="645"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=78%;
+FT                   ; E()=0.0; score=645; ; ; subject 1209-208 bp;"
+FT   TBLASTX_HIT     11611..13143
+FT                   /colour="255 107 107"
+FT                   /label="B132222"
+FT                   /score="634"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=58%;
+FT                   ; E()=0.0; score=634; ; ; subject 11040-12572 bp;"
+FT   TBLASTX_HIT     3152..4021
+FT                   /colour="255 56 56"
+FT                   /label="B132222"
+FT                   /score="541"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=78%;
+FT                   ; E()=0.0; score=541; ; ; subject 3881-4750 bp;"
+FT   TBLASTX_HIT     complement(12295..13479)
+FT                   /colour="255 99 99"
+FT                   /label="B132222"
+FT                   /score="521"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=61%;
+FT                   ; E()=0.0; score=521; ; ; subject 12908-11724 bp;"
+FT   TBLASTX_HIT     complement(11288..12670)
+FT                   /colour="255 117 117"
+FT                   /label="B132222"
+FT                   /score="476"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=54%;
+FT                   ; E()=0.0; score=476; ; ; subject 12099-10717 bp;"
+FT   TBLASTX_HIT     218..1159
+FT                   /colour="255 84 84"
+FT                   /label="B132222"
+FT                   /score="438"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=67%;
+FT                   ; E()=0.0; score=438; ; ; subject 224-1165 bp;"
+FT   TBLASTX_HIT     complement(4070..5125)
+FT                   /colour="255 94 94"
+FT                   /label="B132222"
+FT                   /score="434"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=63%;
+FT                   ; E()=0.0; score=434; ; ; subject 5871-4816 bp;"
+FT   TBLASTX_HIT     2160..3140
+FT                   /colour="255 107 107"
+FT                   /label="B132222"
+FT                   /score="412"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=58%;
+FT                   ; E()=0.0; score=412; ; ; subject 2897-3877 bp;"
+FT   TBLASTX_HIT     complement(3151..4020)
+FT                   /colour="255 84 84"
+FT                   /label="B132222"
+FT                   /score="408"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=67%;
+FT                   ; E()=0.0; score=408; ; ; subject 4749-3880 bp;"
+FT   TBLASTX_HIT     6961..7494
+FT                   /colour="255 25 25"
+FT                   /label="B132222"
+FT                   /score="391"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=90%;
+FT                   ; E()=0.0; score=391; ; ; subject 7699-8232 bp;"
+FT   TBLASTX_HIT     217..1173
+FT                   /colour="255 119 119"
+FT                   /label="B132222"
+FT                   /score="369"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=53%;
+FT                   ; E()=0.0; score=369; ; ; subject 223-1179 bp;"
+FT   TBLASTX_HIT     complement(3152..3943)
+FT                   /colour="255 107 107"
+FT                   /label="B132222"
+FT                   /score="365"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=58%;
+FT                   ; E()=0.0; score=365; ; ; subject 4672-3881 bp;"
+FT   TBLASTX_HIT     10299..10922
+FT                   /colour="255 68 68"
+FT                   /label="B132222"
+FT                   /score="363"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=73%;
+FT                   ; E()=0.0; score=363; ; ; subject 9720-10343 bp;"
+FT   TBLASTX_HIT     5997..6713
+FT                   /colour="255 96 96"
+FT                   /label="B132222"
+FT                   /score="337"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=62%;
+FT                   ; E()=0.0; score=337; ; ; subject 6734-7450 bp;"
+FT   TBLASTX_HIT     1389..2111
+FT                   /colour="255 102 102"
+FT                   /label="B132222"
+FT                   /score="333"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=60%;
+FT                   ; E()=0.0; score=333; ; ; subject 2126-2848 bp;"
+FT   TBLASTX_HIT     complement(225..1172)
+FT                   /colour="255 122 122"
+FT                   /label="B132222"
+FT                   /score="319"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=52%;
+FT                   ; E()=0.0; score=319; ; ; subject 1178-231 bp;"
+FT   TBLASTX_HIT     complement(227..1216)
+FT                   /colour="255 127 127"
+FT                   /label="B132222"
+FT                   /score="313"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=50%;
+FT                   ; E()=0.0; score=313; ; ; subject 1222-233 bp;"
+FT   TBLASTX_HIT     complement(11805..12566)
+FT                   /colour="255 109 109"
+FT                   /label="B132222"
+FT                   /score="302"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=57%;
+FT                   ; E()=0.0; score=302; ; ; subject 11995-11234 bp;"
+FT   TBLASTX_HIT     complement(2159..2884)
+FT                   /colour="255 112 112"
+FT                   /label="B132222"
+FT                   /score="292"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=56%;
+FT                   ; E()=0.0; score=292; ; ; subject 3621-2896 bp;"
+FT   TBLASTX_HIT     7991..8827
+FT                   /colour="255 122 122"
+FT                   /label="B132222"
+FT                   /score="286"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=52%;
+FT                   ; E()=0.0; score=286; ; ; subject 8286-9122 bp;"
+FT   TBLASTX_HIT     complement(5990..6712)
+FT                   /colour="255 104 104"
+FT                   /label="B132222"
+FT                   /score="275"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=59%;
+FT                   ; E()=0.0; score=275; ; ; subject 7449-6727 bp;"
+FT   TBLASTX_HIT     complement(10295..10921)
+FT                   /colour="255 99 99"
+FT                   /label="B132222"
+FT                   /score="274"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=61%;
+FT                   ; E()=0.0; score=274; ; ; subject 10342-9716 bp;"
+FT   TBLASTX_HIT     complement(6993..7490)
+FT                   /colour="255 63 63"
+FT                   /label="B132222"
+FT                   /score="266"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=75%;
+FT                   ; E()=0.0; score=266; ; ; subject 8228-7731 bp;"
+FT   TBLASTX_HIT     3154..3813
+FT                   /colour="255 99 99"
+FT                   /label="B132222"
+FT                   /score="256"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=61%;
+FT                   ; E()=0.0; score=256; ; ; subject 3883-4542 bp;"
+FT   TBLASTX_HIT     complement(4386..5015)
+FT                   /colour="255 122 122"
+FT                   /label="B132222"
+FT                   /score="252"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=52%;
+FT                   ; E()=0.0; score=252; ; ; subject 5761-5132 bp;"
+FT   TBLASTX_HIT     2084..2686
+FT                   /colour="255 109 109"
+FT                   /label="B132222"
+FT                   /score="237"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=57%;
+FT                   ; E()=0.0; score=237; ; ; subject 2821-3423 bp;"
+FT   TBLASTX_HIT     complement(8182..8835)
+FT                   /colour="255 124 124"
+FT                   /label="B132222"
+FT                   /score="230"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=51%;
+FT                   ; E()=0.0; score=230; ; ; subject 9130-8477 bp;"
+FT   TBLASTX_HIT     8377..8925
+FT                   /colour="255 112 112"
+FT                   /label="B132222"
+FT                   /score="220"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=56%;
+FT                   ; E()=1e-139; score=220; ; ; subject 8672-9220 bp;"
+FT   TBLASTX_HIT     8190..8627
+FT                   /colour="255 94 94"
+FT                   /label="B132222"
+FT                   /score="209"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=63%;
+FT                   ; E()=0.0; score=209; ; ; subject 8485-8922 bp;"
+FT   TBLASTX_HIT     complement(8030..8716)
+FT                   /colour="255 130 130"
+FT                   /label="B132222"
+FT                   /score="206"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=49%;
+FT                   ; E()=0.0; score=206; ; ; subject 9011-8325 bp;"
+FT   TBLASTX_HIT     complement(1574..2110)
+FT                   /colour="255 114 114"
+FT                   /label="B132222"
+FT                   /score="204"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=55%;
+FT                   ; E()=0.0; score=204; ; ; subject 2847-2311 bp;"
+FT   TBLASTX_HIT     5154..5495
+FT                   /colour="255 66 66"
+FT                   /label="B132222"
+FT                   /score="191"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=74%;
+FT                   ; E()=0.0; score=191; ; ; subject 5895-6236 bp;"
+FT   TBLASTX_HIT     complement(6985..7485)
+FT                   /colour="255 124 124"
+FT                   /label="B132222"
+FT                   /score="189"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=51%;
+FT                   ; E()=0.0; score=189; ; ; subject 8223-7723 bp;"
+FT   TBLASTX_HIT     1241..1687
+FT                   /colour="255 112 112"
+FT                   /label="B132222"
+FT                   /score="188"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=56%;
+FT                   ; E()=0.0; score=188; ; ; subject 1978-2424 bp;"
+FT   TBLASTX_HIT     6716..6985
+FT                   /colour="255 25 25"
+FT                   /label="B132222"
+FT                   /score="188"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=90%;
+FT                   ; E()=0.0; score=188; ; ; subject 7452-7721 bp;"
+FT   TBLASTX_HIT     complement(3486..3983)
+FT                   /colour="255 127 127"
+FT                   /label="B132222"
+FT                   /score="182"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=50%;
+FT                   ; E()=0.0; score=182; ; ; subject 4712-4215 bp;"
+FT   TBLASTX_HIT     complement(2260..2628)
+FT                   /colour="255 96 96"
+FT                   /label="B132222"
+FT                   /score="177"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=62%;
+FT                   ; E()=0.0; score=177; ; ; subject 3365-2997 bp;"
+FT   TBLASTX_HIT     complement(1594..2028)
+FT                   /colour="255 114 114"
+FT                   /label="B132222"
+FT                   /score="176"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=55%;
+FT                   ; E()=0.0; score=176; ; ; subject 2765-2331 bp;"
+FT   TBLASTX_HIT     complement(10437..10931)
+FT                   /colour="255 132 132"
+FT                   /label="B132222"
+FT                   /score="175"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=48%;
+FT                   ; E()=0.0; score=175; ; ; subject 10352-9858 bp;"
+FT   TBLASTX_HIT     complement(6715..6978)
+FT                   /colour="255 40 40"
+FT                   /label="B132222"
+FT                   /score="173"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=84%;
+FT                   ; E()=0.0; score=173; ; ; subject 7714-7451 bp;"
+FT   TBLASTX_HIT     complement(8292..8726)
+FT                   /colour="255 104 104"
+FT                   /label="B132222"
+FT                   /score="170"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=59%;
+FT                   ; E()=0.0; score=170; ; ; subject 9021-8587 bp;"
+FT   TBLASTX_HIT     10940..11287
+FT                   /colour="255 102 102"
+FT                   /label="B132222"
+FT                   /score="168"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=60%;
+FT                   ; E()=0.0; score=168; ; ; subject 10367-10714 bp;"
+FT   TBLASTX_HIT     6983..7486
+FT                   /colour="255 124 124"
+FT                   /label="B132222"
+FT                   /score="167"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=51%;
+FT                   ; E()=0.0; score=167; ; ; subject 7721-8224 bp;"
+FT   TBLASTX_HIT     complement(5157..5495)
+FT                   /colour="255 104 104"
+FT                   /label="B132222"
+FT                   /score="154"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=59%;
+FT                   ; E()=0.0; score=154; ; ; subject 6236-5898 bp;"
+FT   TBLASTX_HIT     complement(12719..13102)
+FT                   /colour="255 132 132"
+FT                   /label="B132222"
+FT                   /score="151"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=48%;
+FT                   ; E()=0.0; score=151; ; ; subject 12531-12148 bp;"
+FT   TBLASTX_HIT     complement(7019..7507)
+FT                   /colour="255 130 130"
+FT                   /label="B132222"
+FT                   /score="146"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=49%;
+FT                   ; E()=0.0; score=146; ; ; subject 8245-7757 bp;"
+FT   TBLASTX_HIT     4163..4636
+FT                   /colour="255 127 127"
+FT                   /label="B132222"
+FT                   /score="144"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=50%;
+FT                   ; E()=0.0; score=144; ; ; subject 4909-5382 bp;"
+FT   TBLASTX_HIT     8882..9205
+FT                   /colour="255 112 112"
+FT                   /label="B132222"
+FT                   /score="143"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=56%;
+FT                   ; E()=0.0; score=143; ; ; subject 9177-9500 bp;"
+FT   TBLASTX_HIT     complement(11302..11826)
+FT                   /colour="255 145 145"
+FT                   /label="B132222"
+FT                   /score="140"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=43%;
+FT                   ; E()=0.0; score=140; ; ; subject 11255-10731 bp;"
+FT   TBLASTX_HIT     6476..6712
+FT                   /colour="255 76 76"
+FT                   /label="B132222"
+FT                   /score="138"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=70%;
+FT                   ; E()=0.0; score=138; ; ; subject 7213-7449 bp;"
+FT   TBLASTX_HIT     7020..7511
+FT                   /colour="255 140 140"
+FT                   /label="B132222"
+FT                   /score="138"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=45%;
+FT                   ; E()=0.0; score=138; ; ; subject 7758-8249 bp;"
+FT   TBLASTX_HIT     11306..11821
+FT                   /colour="255 140 140"
+FT                   /label="B132222"
+FT                   /score="138"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=45%;
+FT                   ; E()=0.0; score=138; ; ; subject 10735-11250 bp;"
+FT   TBLASTX_HIT     complement(6716..6961)
+FT                   /colour="255 89 89"
+FT                   /label="B132222"
+FT                   /score="136"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=65%;
+FT                   ; E()=0.0; score=136; ; ; subject 7697-7452 bp;"
+FT   TBLASTX_HIT     1739..2032
+FT                   /colour="255 99 99"
+FT                   /label="B132222"
+FT                   /score="134"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=61%;
+FT                   ; E()=0.0; score=134; ; ; subject 2476-2769 bp;"
+FT   TBLASTX_HIT     complement(4678..5079)
+FT                   /colour="255 130 130"
+FT                   /label="B132222"
+FT                   /score="133"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=49%;
+FT                   ; E()=0.0; score=133; ; ; subject 5825-5424 bp;"
+FT   TBLASTX_HIT     5167..5505
+FT                   /colour="255 117 117"
+FT                   /label="B132222"
+FT                   /score="133"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=54%;
+FT                   ; E()=0.0; score=133; ; ; subject 5908-6246 bp;"
+FT   TBLASTX_HIT     816..1157
+FT                   /colour="255 107 107"
+FT                   /label="B132222"
+FT                   /score="131"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=58%;
+FT                   ; E()=1e-139; score=131; ; ; subject 822-1163 bp;"
+FT   TBLASTX_HIT     6706..6978
+FT                   /colour="255 94 94"
+FT                   /label="B132222"
+FT                   /score="130"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=63%;
+FT                   ; E()=0.0; score=130; ; ; subject 7442-7714 bp;"
+FT   TBLASTX_HIT     3153..3428
+FT                   /colour="255 94 94"
+FT                   /label="B132222"
+FT                   /score="130"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=63%;
+FT                   ; E()=0.0; score=130; ; ; subject 3882-4157 bp;"
+FT   TBLASTX_HIT     10418..10879
+FT                   /colour="255 142 142"
+FT                   /label="B132222"
+FT                   /score="126"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=44%;
+FT                   ; E()=0.0; score=126; ; ; subject 9839-10300 bp;"
+FT   TBLASTX_HIT     complement(5153..5494)
+FT                   /colour="255 114 114"
+FT                   /label="B132222"
+FT                   /score="125"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=55%;
+FT                   ; E()=0.0; score=125; ; ; subject 6235-5894 bp;"
+FT   TBLASTX_HIT     6717..6965
+FT                   /colour="255 91 91"
+FT                   /label="B132222"
+FT                   /score="124"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=64%;
+FT                   ; E()=0.0; score=124; ; ; subject 7453-7701 bp;"
+FT   TBLASTX_HIT     complement(6705..6977)
+FT                   /colour="255 96 96"
+FT                   /label="B132222"
+FT                   /score="123"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=62%;
+FT                   ; E()=0.0; score=123; ; ; subject 7713-7441 bp;"
+FT   TBLASTX_HIT     complement(10939..11283)
+FT                   /colour="255 114 114"
+FT                   /label="B132222"
+FT                   /score="123"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=55%;
+FT                   ; E()=0.0; score=123; ; ; subject 10710-10366 bp;"
+FT   TBLASTX_HIT     complement(12996..13418)
+FT                   /colour="255 130 130"
+FT                   /label="B132222"
+FT                   /score="115"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=49%;
+FT                   ; E()=0.0; score=115; ; ; subject 12847-12425 bp;"
+FT   TBLASTX_HIT     complement(5143..5487)
+FT                   /colour="255 127 127"
+FT                   /label="B132222"
+FT                   /score="113"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=50%;
+FT                   ; E()=0.0; score=113; ; ; subject 6228-5884 bp;"
+FT   TBLASTX_HIT     complement(11292..11750)
+FT                   /colour="255 153 153"
+FT                   /label="B132222"
+FT                   /score="112"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=40%;
+FT                   ; E()=0.0; score=112; ; ; subject 11179-10721 bp;"
+FT   TBLASTX_HIT     complement(6054..6449)
+FT                   /colour="255 150 150"
+FT                   /label="B132222"
+FT                   /score="108"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=41%;
+FT                   ; E()=0.0; score=108; ; ; subject 7186-6791 bp;"
+FT   TBLASTX_HIT     complement(6067..6441)
+FT                   /colour="255 145 145"
+FT                   /label="B132222"
+FT                   /score="108"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=43%;
+FT                   ; E()=0.0; score=108; ; ; subject 7178-6804 bp;"
+FT   TBLASTX_HIT     complement(13151..13480)
+FT                   /colour="255 135 135"
+FT                   /label="B132222"
+FT                   /score="108"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=47%;
+FT                   ; E()=0.0; score=108; ; ; subject 12909-12580 bp;"
+FT   TBLASTX_HIT     6055..6564
+FT                   /colour="255 163 163"
+FT                   /label="B132222"
+FT                   /score="105"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=36%;
+FT                   ; E()=0.0; score=105; ; ; subject 6792-7301 bp;"
+FT   TBLASTX_HIT     complement(4363..4647)
+FT                   /colour="255 119 119"
+FT                   /label="B132222"
+FT                   /score="96"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=53%;
+FT                   ; E()=0.0; score=96; ; ; subject 5393-5109 bp;"
+FT   TBLASTX_HIT     462..740
+FT                   /colour="255 117 117"
+FT                   /label="B132222"
+FT                   /score="96"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=54%;
+FT                   ; E()=1e-139; score=96; ; ; subject 468-746 bp;"
+FT   TBLASTX_HIT     complement(10438..10746)
+FT                   /colour="255 135 135"
+FT                   /label="B132222"
+FT                   /score="95"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=47%;
+FT                   ; E()=0.0; score=95; ; ; subject 10167-9859 bp;"
+FT   TBLASTX_HIT     complement(4071..4283)
+FT                   /colour="255 117 117"
+FT                   /label="B132222"
+FT                   /score="92"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=54%;
+FT                   ; E()=0.0; score=92; ; ; subject 5029-4817 bp;"
+FT   TBLASTX_HIT     complement(1354..1518)
+FT                   /colour="255 91 91"
+FT                   /label="B132222"
+FT                   /score="91"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=64%;
+FT                   ; E()=0.0; score=91; ; ; subject 2255-2091 bp;"
+FT   TBLASTX_HIT     5508..5897
+FT                   /colour="255 163 163"
+FT                   /label="B132222"
+FT                   /score="89"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=36%;
+FT                   ; E()=0.0; score=89; ; ; subject 6243-6632 bp;"
+FT   TBLASTX_HIT     4432..4647
+FT                   /colour="255 117 117"
+FT                   /label="B132222"
+FT                   /score="84"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=54%;
+FT                   ; E()=0.0; score=84; ; ; subject 5178-5393 bp;"
+FT   TBLASTX_HIT     10723..10932
+FT                   /colour="255 119 119"
+FT                   /label="B132222"
+FT                   /score="81"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=53%;
+FT                   ; E()=0.0; score=81; ; ; subject 10144-10353 bp;"
+FT   TBLASTX_HIT     complement(3246..3422)
+FT                   /colour="255 99 99"
+FT                   /label="B132222"
+FT                   /score="80"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=61%;
+FT                   ; E()=0.0; score=80; ; ; subject 4151-3975 bp;"
+FT   TBLASTX_HIT     complement(2328..2609)
+FT                   /colour="255 142 142"
+FT                   /label="B132222"
+FT                   /score="80"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=44%;
+FT                   ; E()=0.0; score=80; ; ; subject 1946-1665 bp;"
+FT   TBLASTX_HIT     4877..5050
+FT                   /colour="255 104 104"
+FT                   /label="B132222"
+FT                   /score="80"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=59%;
+FT                   ; E()=0.0; score=80; ; ; subject 5623-5796 bp;"
+FT   TBLASTX_HIT     complement(11929..12237)
+FT                   /colour="255 135 135"
+FT                   /label="B132222"
+FT                   /score="78"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=47%;
+FT                   ; E()=0.0; score=78; ; ; subject 11666-11358 bp;"
+FT   TBLASTX_HIT     15011..15235
+FT                   /colour="255 124 124"
+FT                   /label="B132222"
+FT                   /score="76"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=51%;
+FT                   ; E()=0.0; score=76; ; ; subject 13794-14018 bp;"
+FT   TBLASTX_HIT     201..434
+FT                   /colour="255 127 127"
+FT                   /label="B132222"
+FT                   /score="76"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=50%;
+FT                   ; E()=1e-139; score=76; ; ; subject 207-440 bp;"
+FT   TBLASTX_HIT     11296..11556
+FT                   /colour="255 142 142"
+FT                   /label="B132222"
+FT                   /score="75"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=44%;
+FT                   ; E()=0.0; score=75; ; ; subject 10725-10985 bp;"
+FT   TBLASTX_HIT     complement(10940..11128)
+FT                   /colour="255 130 130"
+FT                   /label="B132222"
+FT                   /score="74"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=49%;
+FT                   ; E()=0.0; score=74; ; ; subject 10555-10367 bp;"
+FT   TBLASTX_HIT     complement(4069..4287)
+FT                   /colour="255 124 124"
+FT                   /label="B132222"
+FT                   /score="73"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=51%;
+FT                   ; E()=0.0; score=73; ; ; subject 5033-4815 bp;"
+FT   TBLASTX_HIT     3486..3686
+FT                   /colour="255 114 114"
+FT                   /label="B132222"
+FT                   /score="72"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=55%;
+FT                   ; E()=0.0; score=72; ; ; subject 4215-4415 bp;"
+FT   TBLASTX_HIT     complement(12633..12767)
+FT                   /colour="255 68 68"
+FT                   /label="B132222"
+FT                   /score="72"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=73%;
+FT                   ; E()=0.0; score=72; ; ; subject 12196-12062 bp;"
+FT   TBLASTX_HIT     9179..9367
+FT                   /colour="255 145 145"
+FT                   /label="B132222"
+FT                   /score="72"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=43%;
+FT                   ; E()=0.0; score=72; ; ; subject 9471-9659 bp;"
+FT   TBLASTX_HIT     13192..13479
+FT                   /colour="255 137 137"
+FT                   /label="B132222"
+FT                   /score="66"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=46%;
+FT                   ; E()=0.0; score=66; ; ; subject 12621-12908 bp;"
+FT   TBLASTX_HIT     5285..5488
+FT                   /colour="255 124 124"
+FT                   /label="B132222"
+FT                   /score="65"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=51%;
+FT                   ; E()=0.0; score=65; ; ; subject 6026-6229 bp;"
+FT   TBLASTX_HIT     complement(2749..2958)
+FT                   /colour="255 137 137"
+FT                   /label="B132222"
+FT                   /score="65"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=46%;
+FT                   ; E()=0.0; score=65; ; ; subject 3695-3486 bp;"
+FT   TBLASTX_HIT     10438..10668
+FT                   /colour="255 135 135"
+FT                   /label="B132222"
+FT                   /score="64"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=47%;
+FT                   ; E()=0.0; score=64; ; ; subject 9859-10089 bp;"
+FT   TBLASTX_HIT     4867..5049
+FT                   /colour="255 124 124"
+FT                   /label="B132222"
+FT                   /score="63"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=51%;
+FT                   ; E()=0.0; score=63; ; ; subject 5613-5795 bp;"
+FT   TBLASTX_HIT     complement(2981..3139)
+FT                   /colour="255 114 114"
+FT                   /label="B132222"
+FT                   /score="62"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=55%;
+FT                   ; E()=0.0; score=62; ; ; subject 3876-3718 bp;"
+FT   TBLASTX_HIT     complement(5523..5789)
+FT                   /colour="255 153 153"
+FT                   /label="B132222"
+FT                   /score="62"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=40%;
+FT                   ; E()=0.0; score=62; ; ; subject 6524-6258 bp;"
+FT   TBLASTX_HIT     complement(1881..2021)
+FT                   /colour="255 140 140"
+FT                   /label="B132222"
+FT                   /score="58"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=45%;
+FT                   ; E()=0.0; score=58; ; ; subject 1391-1251 bp;"
+FT   TBLASTX_HIT     complement(1397..1507)
+FT                   /colour="255 81 81"
+FT                   /label="B132222"
+FT                   /score="57"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=68%;
+FT                   ; E()=0.0; score=57; ; ; subject 2244-2134 bp;"
+FT   TBLASTX_HIT     13367..13486
+FT                   /colour="255 89 89"
+FT                   /label="B132222"
+FT                   /score="57"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=65%;
+FT                   ; E()=1e-139; score=57; ; ; subject 12664-12783 bp;"
+FT   TBLASTX_HIT     2335..2535
+FT                   /colour="255 137 137"
+FT                   /label="B132222"
+FT                   /score="56"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=46%;
+FT                   ; E()=0.0; score=56; ; ; subject 1672-1872 bp;"
+FT   TBLASTX_HIT     2897..3130
+FT                   /colour="255 153 153"
+FT                   /label="B132222"
+FT                   /score="54"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=40%;
+FT                   ; E()=0.0; score=54; ; ; subject 3634-3867 bp;"
+FT   TBLASTX_HIT     13235..13354
+FT                   /colour="255 96 96"
+FT                   /label="B132222"
+FT                   /score="54"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=62%;
+FT                   ; E()=4e-09; score=54; ; ; subject 12796-12915 bp;"
+FT   TBLASTX_HIT     10890..11126
+FT                   /colour="255 147 147"
+FT                   /label="B132222"
+FT                   /score="54"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=42%;
+FT                   ; E()=0.0; score=54; ; ; subject 10317-10553 bp;"
+FT   TBLASTX_HIT     5144..5248
+FT                   /colour="255 86 86"
+FT                   /label="B132222"
+FT                   /score="53"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=66%;
+FT                   ; E()=0.0; score=53; ; ; subject 5885-5989 bp;"
+FT   TBLASTX_HIT     complement(8882..9205)
+FT                   /colour="255 168 168"
+FT                   /label="B132222"
+FT                   /score="52"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=34%;
+FT                   ; E()=0.0; score=52; ; ; subject 9500-9177 bp;"
+FT   TBLASTX_HIT     13859..13975
+FT                   /colour="255 130 130"
+FT                   /label="B132222"
+FT                   /score="50"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=49%;
+FT                   ; E()=0.0; score=50; ; ; subject 12964-13080 bp;"
+FT   TBLASTX_HIT     2328..2621
+FT                   /colour="255 181 181"
+FT                   /label="B132222"
+FT                   /score="47"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=29%;
+FT                   ; E()=1e-139; score=47; ; ; subject 1665-1958 bp;"
+FT   TBLASTX_HIT     complement(2104..2232)
+FT                   /colour="255 130 130"
+FT                   /label="B132222"
+FT                   /score="46"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=49%;
+FT                   ; E()=0.0; score=46; ; ; subject 2969-2841 bp;"
+FT   TBLASTX_HIT     complement(2431..2553)
+FT                   /colour="255 142 142"
+FT                   /label="B132222"
+FT                   /score="46"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=44%;
+FT                   ; E()=0.0; score=46; ; ; subject 1890-1768 bp;"
+FT   TBLASTX_HIT     complement(9052..9204)
+FT                   /colour="255 124 124"
+FT                   /label="B132222"
+FT                   /score="44"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=51%;
+FT                   ; E()=0.0; score=44; ; ; subject 9499-9347 bp;"
+FT   TBLASTX_HIT     complement(12828..12950)
+FT                   /colour="255 137 137"
+FT                   /label="B132222"
+FT                   /score="42"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=46%;
+FT                   ; E()=0.0; score=42; ; ; subject 12379-12257 bp;"
+FT   TBLASTX_HIT     14846..14992
+FT                   /colour="255 165 165"
+FT                   /label="B132222"
+FT                   /score="42"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=35%;
+FT                   ; E()=0.0; score=42; ; ; subject 13635-13781 bp;"
+FT   TBLASTX_HIT     complement(7933..8091)
+FT                   /colour="255 147 147"
+FT                   /label="B132222"
+FT                   /score="41"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=42%;
+FT                   ; E()=0.0; score=41; ; ; subject 8386-8228 bp;"
+FT   TBLASTX_HIT     complement(6505..6591)
+FT                   /colour="255 86 86"
+FT                   /label="B132222"
+FT                   /score="40"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=66%;
+FT                   ; E()=0.0; score=40; ; ; subject 7328-7242 bp;"
+FT   TBLASTX_HIT     complement(11019..11162)
+FT                   /colour="255 132 132"
+FT                   /label="B132222"
+FT                   /score="40"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=48%;
+FT                   ; E()=0.0; score=40; ; ; subject 10589-10446 bp;"
+FT   TBLASTX_HIT     8904..9206
+FT                   /colour="255 170 170"
+FT                   /label="B132222"
+FT                   /score="40"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=33%;
+FT                   ; E()=1e-139; score=40; ; ; subject 9199-9501 bp;"
+FT   TBLASTX_HIT     8652..8729
+FT                   /colour="255 96 96"
+FT                   /label="B132222"
+FT                   /score="40"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=62%;
+FT                   ; E()=0.0; score=40; ; ; subject 8947-9024 bp;"
+FT   TBLASTX_HIT     6188..6256
+FT                   /colour="255 109 109"
+FT                   /label="B132222"
+FT                   /score="39"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=57%;
+FT                   ; E()=0.0; score=39; ; ; subject 6925-6993 bp;"
+FT   TBLASTX_HIT     4069..4146
+FT                   /colour="255 89 89"
+FT                   /label="B132222"
+FT                   /score="38"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=65%;
+FT                   ; E()=0.0; score=38; ; ; subject 4815-4892 bp;"
+FT   TBLASTX_HIT     10942..11073
+FT                   /colour="255 132 132"
+FT                   /label="B132222"
+FT                   /score="38"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=48%;
+FT                   ; E()=0.0; score=38; ; ; subject 10369-10500 bp;"
+FT   TBLASTX_HIT     complement(6507..6596)
+FT                   /colour="255 109 109"
+FT                   /label="B132222"
+FT                   /score="37"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=57%;
+FT                   ; E()=0.0; score=37; ; ; subject 7333-7244 bp;"
+FT   TBLASTX_HIT     15075..15272
+FT                   /colour="255 181 181"
+FT                   /label="B132222"
+FT                   /score="37"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=29%;
+FT                   ; E()=0.0; score=37; ; ; subject 13858-14055 bp;"
+FT   TBLASTX_HIT     5650..5784
+FT                   /colour="255 158 158"
+FT                   /label="B132222"
+FT                   /score="36"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=38%;
+FT                   ; E()=0.0; score=36; ; ; subject 6385-6519 bp;"
+FT   TBLASTX_HIT     complement(10786..10896)
+FT                   /colour="255 137 137"
+FT                   /label="B132222"
+FT                   /score="35"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=46%;
+FT                   ; E()=0.0; score=35; ; ; subject 10317-10207 bp;"
+FT   TBLASTX_HIT     8026..8091
+FT                   /colour="255 104 104"
+FT                   /label="B132222"
+FT                   /score="35"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=59%;
+FT                   ; E()=0.0; score=35; ; ; subject 8321-8386 bp;"
+FT   TBLASTX_HIT     3916..3993
+FT                   /colour="255 117 117"
+FT                   /label="B132222"
+FT                   /score="35"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=54%;
+FT                   ; E()=0.0; score=35; ; ; subject 4645-4722 bp;"
+FT   TBLASTX_HIT     complement(1256..1306)
+FT                   /colour="255 73 73"
+FT                   /label="B132222"
+FT                   /score="35"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=71%;
+FT                   ; E()=0.0; score=35; ; ; subject 2043-1993 bp;"
+FT   TBLASTX_HIT     5513..5665
+FT                   /colour="255 155 155"
+FT                   /label="B132222"
+FT                   /score="35"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=39%;
+FT                   ; E()=0.0; score=35; ; ; subject 6248-6400 bp;"
+FT   TBLASTX_HIT     complement(2136..2252)
+FT                   /colour="255 158 158"
+FT                   /label="B132222"
+FT                   /score="34"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=38%;
+FT                   ; E()=0.0; score=34; ; ; subject 1589-1473 bp;"
+FT   TBLASTX_HIT     complement(3153..3197)
+FT                   /colour="255 17 17"
+FT                   /label="B132222"
+FT                   /score="34"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=93%;
+FT                   ; E()=0.0; score=34; ; ; subject 3926-3882 bp;"
+FT   TBLASTX_HIT     4678..4803
+FT                   /colour="255 145 145"
+FT                   /label="B132222"
+FT                   /score="34"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=43%;
+FT                   ; E()=0.0; score=34; ; ; subject 5424-5549 bp;"
+FT   TBLASTX_HIT     1240..1302
+FT                   /colour="255 96 96"
+FT                   /label="B132222"
+FT                   /score="34"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=62%;
+FT                   ; E()=0.0; score=34; ; ; subject 1977-2039 bp;"
+FT   TBLASTX_HIT     complement(3016..3129)
+FT                   /colour="255 127 127"
+FT                   /label="B132222"
+FT                   /score="33"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=50%;
+FT                   ; E()=0.0; score=33; ; ; subject 3866-3753 bp;"
+FT   TBLASTX_HIT     complement(8756..8827)
+FT                   /colour="255 84 84"
+FT                   /label="B132222"
+FT                   /score="33"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=67%;
+FT                   ; E()=0.0; score=33; ; ; subject 9122-9051 bp;"
+FT   TBLASTX_HIT     complement(9230..9367)
+FT                   /colour="255 170 170"
+FT                   /label="B132222"
+FT                   /score="33"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=33%;
+FT                   ; E()=0.0; score=33; ; ; subject 9659-9522 bp;"
+FT   TBLASTX_HIT     complement(2426..2539)
+FT                   /colour="255 140 140"
+FT                   /label="B132222"
+FT                   /score="32"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=45%;
+FT                   ; E()=0.006; score=32; ; ; subject 1876-1763 bp;"
+FT   TBLASTX_HIT     1257..1307
+FT                   /colour="255 73 73"
+FT                   /label="B132222"
+FT                   /score="31"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=71%;
+FT                   ; E()=0.0; score=31; ; ; subject 1994-2044 bp;"
+FT   TBLASTX_HIT     complement(527..592)
+FT                   /colour="255 127 127"
+FT                   /label="B132222"
+FT                   /score="31"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=50%;
+FT                   ; E()=0.056; score=31; ; ; subject 14419-14484 bp;"
+FT   TBLASTX_HIT     complement(1240..1302)
+FT                   /colour="255 96 96"
+FT                   /label="B132222"
+FT                   /score="30"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=62%;
+FT                   ; E()=0.0; score=30; ; ; subject 2039-1977 bp;"
+FT   TBLASTX_HIT     6855..6923
+FT                   /colour="255 145 145"
+FT                   /label="B132222"
+FT                   /score="30"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=43%;
+FT                   ; E()=4e-09; score=30; ; ; subject 1185-1253 bp;"
+FT   TBLASTX_HIT     3732..3815
+FT                   /colour="255 117 117"
+FT                   /label="B132222"
+FT                   /score="30"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=54%;
+FT                   ; E()=0.0; score=30; ; ; subject 4461-4544 bp;"
+FT   TBLASTX_HIT     complement(563..628)
+FT                   /colour="255 127 127"
+FT                   /label="B132222"
+FT                   /score="29"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=50%;
+FT                   ; E()=0.006; score=29; ; ; subject 326-261 bp;"
+FT   TBLASTX_HIT     complement(2193..2234)
+FT                   /colour="255 91 91"
+FT                   /label="B132222"
+FT                   /score="29"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=64%;
+FT                   ; E()=0.27; score=29; ; ; subject 24185-24226 bp;"
+FT   TBLASTX_HIT     complement(9281..9397)
+FT                   /colour="255 170 170"
+FT                   /label="B132222"
+FT                   /score="29"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=33%;
+FT                   ; E()=0.006; score=29; ; ; subject 6460-6344 bp;"
+FT   TBLASTX_HIT     complement(12145..12216)
+FT                   /colour="255 147 147"
+FT                   /label="B132222"
+FT                   /score="29"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=42%;
+FT                   ; E()=0.0; score=29; ; ; subject 10044-9973 bp;"
+FT   TBLASTX_HIT     complement(5131..5262)
+FT                   /colour="255 150 150"
+FT                   /label="B132222"
+FT                   /score="28"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=41%;
+FT                   ; E()=0.0; score=28; ; ; subject 6181-6050 bp;"
+FT   TBLASTX_HIT     complement(12070..12141)
+FT                   /colour="255 137 137"
+FT                   /label="B132222"
+FT                   /score="28"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=46%;
+FT                   ; E()=0.37; score=28; ; ; subject 14428-14499 bp;"
+FT   TBLASTX_HIT     8525..8602
+FT                   /colour="255 158 158"
+FT                   /label="B132222"
+FT                   /score="28"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=38%;
+FT                   ; E()=4e-09; score=28; ; ; subject 8272-8349 bp;"
+FT   TBLASTX_HIT     6056..6142
+FT                   /colour="255 122 122"
+FT                   /label="B132222"
+FT                   /score="28"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=52%;
+FT                   ; E()=0.0; score=28; ; ; subject 6793-6879 bp;"
+FT   TBLASTX_HIT     complement(11275..11343)
+FT                   /colour="255 122 122"
+FT                   /label="B132222"
+FT                   /score="28"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=52%;
+FT                   ; E()=0.51; score=28; ; ; subject 16214-16282 bp;"
+FT   TBLASTX_HIT     13368..13463
+FT                   /colour="255 142 142"
+FT                   /label="B132222"
+FT                   /score="28"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=44%;
+FT                   ; E()=0.51; score=28; ; ; subject 12665-12760 bp;"
+FT   TBLASTX_HIT     8775..8831
+FT                   /colour="255 107 107"
+FT                   /label="B132222"
+FT                   /score="28"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=58%;
+FT                   ; E()=0.0; score=28; ; ; subject 9070-9126 bp;"
+FT   TBLASTX_HIT     9317..9403
+FT                   /colour="255 168 168"
+FT                   /label="B132222"
+FT                   /score="27"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=34%;
+FT                   ; E()=0.71; score=27; ; ; subject 17393-17307 bp;"
+FT   TBLASTX_HIT     2249..2281
+FT                   /colour="255 68 68"
+FT                   /label="B132222"
+FT                   /score="27"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=73%;
+FT                   ; E()=0.71; score=27; ; ; subject 2086-2118 bp;"
+FT   TBLASTX_HIT     14298..14372
+FT                   /colour="255 153 153"
+FT                   /label="B132222"
+FT                   /score="27"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=40%;
+FT                   ; E()=0.97; score=27; ; ; subject 12374-12300 bp;"
+FT   TBLASTX_HIT     2426..2497
+FT                   /colour="255 127 127"
+FT                   /label="B132222"
+FT                   /score="27"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=50%;
+FT                   ; E()=0.97; score=27; ; ; subject 1763-1834 bp;"
+FT   TBLASTX_HIT     complement(12831..12914)
+FT                   /colour="255 163 163"
+FT                   /label="B132222"
+FT                   /score="26"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=36%;
+FT                   ; E()=1.3; score=26; ; ; subject 286-203 bp;"
+FT   TBLASTX_HIT     complement(9289..9327)
+FT                   /colour="255 58 58"
+FT                   /label="B132222"
+FT                   /score="26"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=77%;
+FT                   ; E()=0.0; score=26; ; ; subject 9619-9581 bp;"
+FT   TBLASTX_HIT     complement(3741..3863)
+FT                   /colour="255 173 173"
+FT                   /label="B132222"
+FT                   /score="26"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=32%;
+FT                   ; E()=1.3; score=26; ; ; subject 6894-7016 bp;"
+FT   TBLASTX_HIT     4679..4768
+FT                   /colour="255 119 119"
+FT                   /label="B132222"
+FT                   /score="26"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=53%;
+FT                   ; E()=0.0; score=26; ; ; subject 5425-5514 bp;"
+FT   TBLASTX_HIT     11788..11850
+FT                   /colour="255 145 145"
+FT                   /label="B132222"
+FT                   /score="26"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=43%;
+FT                   ; E()=1.8; score=26; ; ; subject 971-909 bp;"
+FT   TBLASTX_HIT     complement(7998..8033)
+FT                   /colour="255 84 84"
+FT                   /label="B132222"
+FT                   /score="26"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=67%;
+FT                   ; E()=1.8; score=26; ; ; subject 13371-13406 bp;"
+FT   TBLASTX_HIT     complement(8206..8331)
+FT                   /colour="255 181 181"
+FT                   /label="B132222"
+FT                   /score="26"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=29%;
+FT                   ; E()=1.8; score=26; ; ; subject 13246-13371 bp;"
+FT   TBLASTX_HIT     9231..9338
+FT                   /colour="255 163 163"
+FT                   /label="B132222"
+FT                   /score="26"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=36%;
+FT                   ; E()=0.0; score=26; ; ; subject 9523-9630 bp;"
+FT   TBLASTX_HIT     1..39
+FT                   /colour="255 38 38"
+FT                   /label="B132222"
+FT                   /score="26"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=85%;
+FT                   ; E()=0.0; score=26; ; ; subject 1-39 bp;"
+FT   TBLASTX_HIT     complement(15118..15234)
+FT                   /colour="255 142 142"
+FT                   /label="B132222"
+FT                   /score="25"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=44%;
+FT                   ; E()=0.0; score=25; ; ; subject 14017-13901 bp;"
+FT   TBLASTX_HIT     8028..8144
+FT                   /colour="255 158 158"
+FT                   /label="B132222"
+FT                   /score="25"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=38%;
+FT                   ; E()=1e-139; score=25; ; ; subject 8323-8439 bp;"
+FT   TBLASTX_HIT     complement(2231..2323)
+FT                   /colour="255 147 147"
+FT                   /label="B132222"
+FT                   /score="25"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=42%;
+FT                   ; E()=2.5; score=25; ; ; subject 6004-6096 bp;"
+FT   TBLASTX_HIT     complement(10760..10813)
+FT                   /colour="255 112 112"
+FT                   /label="B132222"
+FT                   /score="25"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=56%;
+FT                   ; E()=3.5; score=25; ; ; subject 1411-1358 bp;"
+FT   TBLASTX_HIT     12064..12090
+FT                   /colour="255 56 56"
+FT                   /label="B132222"
+FT                   /score="25"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=78%;
+FT                   ; E()=3.5; score=25; ; ; subject 26097-26123 bp;"
+FT   TBLASTX_HIT     complement(7752..7859)
+FT                   /colour="255 175 175"
+FT                   /label="B132222"
+FT                   /score="25"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=31%;
+FT                   ; E()=3.5; score=25; ; ; subject 10047-9940 bp;"
+FT   TBLASTX_HIT     complement(10437..10487)
+FT                   /colour="255 135 135"
+FT                   /label="B132222"
+FT                   /score="25"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=47%;
+FT                   ; E()=0.006; score=25; ; ; subject 19550-19500 bp;"
+FT   TBLASTX_HIT     8109..8183
+FT                   /colour="255 163 163"
+FT                   /label="B132222"
+FT                   /score="25"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=36%;
+FT                   ; E()=3.5; score=25; ; ; subject 24757-24683 bp;"
+FT   TBLASTX_HIT     complement(2708..2761)
+FT                   /colour="255 99 99"
+FT                   /label="B132222"
+FT                   /score="25"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=61%;
+FT                   ; E()=3.5; score=25; ; ; subject 4457-4510 bp;"
+FT   TBLASTX_HIT     1862..1963
+FT                   /colour="255 165 165"
+FT                   /label="B132222"
+FT                   /score="25"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=35%;
+FT                   ; E()=0.0; score=25; ; ; subject 1232-1333 bp;"
+FT   TBLASTX_HIT     complement(7298..7420)
+FT                   /colour="255 160 160"
+FT                   /label="B132222"
+FT                   /score="25"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=37%;
+FT                   ; E()=3.5; score=25; ; ; subject 729-851 bp;"
+FT   TBLASTX_HIT     complement(366..581)
+FT                   /colour="255 198 198"
+FT                   /label="B132222"
+FT                   /score="24"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=22%;
+FT                   ; E()=4.7; score=24; ; ; subject 588-373 bp;"
+FT   TBLASTX_HIT     complement(6849..6923)
+FT                   /colour="255 142 142"
+FT                   /label="B132222"
+FT                   /score="24"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=44%;
+FT                   ; E()=0.006; score=24; ; ; subject 2211-2137 bp;"
+FT   TBLASTX_HIT     complement(9040..9102)
+FT                   /colour="255 158 158"
+FT                   /label="B132222"
+FT                   /score="24"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=38%;
+FT                   ; E()=4.7; score=24; ; ; subject 26100-26162 bp;"
+FT   TBLASTX_HIT     5368..5406
+FT                   /colour="255 137 137"
+FT                   /label="B132222"
+FT                   /score="24"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=46%;
+FT                   ; E()=4.7; score=24; ; ; subject 5063-5025 bp;"
+FT   TBLASTX_HIT     1742..1831
+FT                   /colour="255 153 153"
+FT                   /label="B132222"
+FT                   /score="24"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=40%;
+FT                   ; E()=4.7; score=24; ; ; subject 5162-5073 bp;"
+FT   TBLASTX_HIT     complement(381..440)
+FT                   /colour="255 127 127"
+FT                   /label="B132222"
+FT                   /score="24"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=50%;
+FT                   ; E()=4.7; score=24; ; ; subject 11266-11207 bp;"
+FT   TBLASTX_HIT     complement(13385..13486)
+FT                   /colour="255 150 150"
+FT                   /label="B132222"
+FT                   /score="24"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=41%;
+FT                   ; E()=0.0; score=24; ; ; subject 12783-12682 bp;"
+FT   TBLASTX_HIT     complement(1673..1714)
+FT                   /colour="255 163 163"
+FT                   /label="B132222"
+FT                   /score="24"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=36%;
+FT                   ; E()=4.7; score=24; ; ; subject 14783-14742 bp;"
+FT   TBLASTX_HIT     complement(735..791)
+FT                   /colour="255 135 135"
+FT                   /label="B132222"
+FT                   /score="24"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=47%;
+FT                   ; E()=4.7; score=24; ; ; subject 15204-15260 bp;"
+FT   TBLASTX_HIT     1292..1351
+FT                   /colour="255 140 140"
+FT                   /label="B132222"
+FT                   /score="24"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=45%;
+FT                   ; E()=4.7; score=24; ; ; subject 14947-15006 bp;"
+FT   TBLASTX_HIT     complement(10906..10929)
+FT                   /colour="255 0 0"
+FT                   /label="B132222"
+FT                   /score="24"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=100%;
+FT                   ; E()=4.7; score=24; ; ; subject 19556-19533 bp;"
+FT   TBLASTX_HIT     complement(8348..8437)
+FT                   /colour="255 178 178"
+FT                   /label="B132222"
+FT                   /score="24"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=30%;
+FT                   ; E()=4.7; score=24; ; ; subject 20933-20844 bp;"
+FT   TBLASTX_HIT     complement(663..827)
+FT                   /colour="255 181 181"
+FT                   /label="B132222"
+FT                   /score="24"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=29%;
+FT                   ; E()=4.7; score=24; ; ; subject 6172-6336 bp;"
+FT   TBLASTX_HIT     complement(13530..13577)
+FT                   /colour="255 112 112"
+FT                   /label="B132222"
+FT                   /score="24"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=56%;
+FT                   ; E()=0.0; score=24; ; ; subject 26153-26106 bp;"
+FT   TBLASTX_HIT     338..481
+FT                   /colour="255 175 175"
+FT                   /label="B132222"
+FT                   /score="24"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=31%;
+FT                   ; E()=4.7; score=24; ; ; subject 28233-28090 bp;"
+FT   TBLASTX_HIT     complement(14938..14991)
+FT                   /colour="255 99 99"
+FT                   /label="B132222"
+FT                   /score="24"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=61%;
+FT                   ; E()=0.0; score=24; ; ; subject 13780-13727 bp;"
+FT   TBLASTX_HIT     10465..10509
+FT                   /colour="255 119 119"
+FT                   /label="B132222"
+FT                   /score="24"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=53%;
+FT                   ; E()=6.5; score=24; ; ; subject 15316-15272 bp;"
+FT   TBLASTX_HIT     17946..18836
+FT                   /colour="255 45 45"
+FT                   /label="B132222"
+FT                   /score="596"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=82%;
+FT                   ; E()=0.0; score=596; ; ; subject 14468-15358 bp;"
+FT   TBLASTX_HIT     20468..21445
+FT                   /colour="255 56 56"
+FT                   /label="B132222"
+FT                   /score="581"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=78%;
+FT                   ; E()=0.0; score=581; ; ; subject 17055-18032 bp;"
+FT   TBLASTX_HIT     complement(20467..21444)
+FT                   /colour="255 66 66"
+FT                   /label="B132222"
+FT                   /score="525"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=74%;
+FT                   ; E()=0.0; score=525; ; ; subject 18031-17054 bp;"
+FT   TBLASTX_HIT     19442..20410
+FT                   /colour="255 76 76"
+FT                   /label="B132222"
+FT                   /score="507"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=70%;
+FT                   ; E()=0.0; score=507; ; ; subject 16032-17000 bp;"
+FT   TBLASTX_HIT     complement(18285..19370)
+FT                   /colour="255 112 112"
+FT                   /label="B132222"
+FT                   /score="461"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=56%;
+FT                   ; E()=0.0; score=461; ; ; subject 15892-14807 bp;"
+FT   TBLASTX_HIT     22791..23492
+FT                   /colour="255 66 66"
+FT                   /label="B132222"
+FT                   /score="420"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=74%;
+FT                   ; E()=0.0; score=420; ; ; subject 19373-20074 bp;"
+FT   TBLASTX_HIT     complement(19417..20397)
+FT                   /colour="255 99 99"
+FT                   /label="B132222"
+FT                   /score="403"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=61%;
+FT                   ; E()=0.0; score=403; ; ; subject 16987-16007 bp;"
+FT   TBLASTX_HIT     20473..21618
+FT                   /colour="255 135 135"
+FT                   /label="B132222"
+FT                   /score="342"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=47%;
+FT                   ; E()=0.0; score=342; ; ; subject 17060-18205 bp;"
+FT   TBLASTX_HIT     complement(18302..18835)
+FT                   /colour="255 43 43"
+FT                   /label="B132222"
+FT                   /score="326"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=83%;
+FT                   ; E()=0.0; score=326; ; ; subject 15357-14824 bp;"
+FT   TBLASTX_HIT     18292..19224
+FT                   /colour="255 114 114"
+FT                   /label="B132222"
+FT                   /score="325"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=55%;
+FT                   ; E()=0.0; score=325; ; ; subject 14814-15746 bp;"
+FT   TBLASTX_HIT     18855..19370
+FT                   /colour="255 66 66"
+FT                   /label="B132222"
+FT                   /score="323"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=74%;
+FT                   ; E()=0.0; score=323; ; ; subject 15377-15892 bp;"
+FT   TBLASTX_HIT     complement(18328..19134)
+FT                   /colour="255 112 112"
+FT                   /label="B132222"
+FT                   /score="302"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=56%;
+FT                   ; E()=0.0; score=302; ; ; subject 15656-14850 bp;"
+FT   TBLASTX_HIT     complement(19442..20425)
+FT                   /colour="255 137 137"
+FT                   /label="B132222"
+FT                   /score="295"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=46%;
+FT                   ; E()=0.0; score=295; ; ; subject 17015-16032 bp;"
+FT   TBLASTX_HIT     complement(22886..23494)
+FT                   /colour="255 84 84"
+FT                   /label="B132222"
+FT                   /score="288"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=67%;
+FT                   ; E()=0.0; score=288; ; ; subject 20076-19468 bp;"
+FT   TBLASTX_HIT     complement(21233..22063)
+FT                   /colour="255 135 135"
+FT                   /label="B132222"
+FT                   /score="270"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=47%;
+FT                   ; E()=0.0; score=270; ; ; subject 18650-17820 bp;"
+FT   TBLASTX_HIT     21602..22063
+FT                   /colour="255 81 81"
+FT                   /label="B132222"
+FT                   /score="268"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=68%;
+FT                   ; E()=0.0; score=268; ; ; subject 18189-18650 bp;"
+FT   TBLASTX_HIT     complement(20451..21179)
+FT                   /colour="255 119 119"
+FT                   /label="B132222"
+FT                   /score="255"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=53%;
+FT                   ; E()=0.0; score=255; ; ; subject 17766-17038 bp;"
+FT   TBLASTX_HIT     complement(20441..21166)
+FT                   /colour="255 124 124"
+FT                   /label="B132222"
+FT                   /score="255"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=51%;
+FT                   ; E()=0.0; score=255; ; ; subject 17753-17028 bp;"
+FT   TBLASTX_HIT     22312..22782
+FT                   /colour="255 104 104"
+FT                   /label="B132222"
+FT                   /score="232"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=59%;
+FT                   ; E()=0.0; score=232; ; ; subject 18891-19361 bp;"
+FT   TBLASTX_HIT     17622..17957
+FT                   /colour="255 53 53"
+FT                   /label="B132222"
+FT                   /score="210"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=79%;
+FT                   ; E()=0.0; score=210; ; ; subject 14153-14488 bp;"
+FT   TBLASTX_HIT     23589..23951
+FT                   /colour="255 73 73"
+FT                   /label="B132222"
+FT                   /score="204"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=71%;
+FT                   ; E()=0.0; score=204; ; ; subject 20174-20536 bp;"
+FT   TBLASTX_HIT     19530..20216
+FT                   /colour="255 140 140"
+FT                   /label="B132222"
+FT                   /score="197"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=45%;
+FT                   ; E()=0.0; score=197; ; ; subject 16120-16806 bp;"
+FT   TBLASTX_HIT     complement(22779..23483)
+FT                   /colour="255 153 153"
+FT                   /label="B132222"
+FT                   /score="183"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=40%;
+FT                   ; E()=0.0; score=183; ; ; subject 20065-19361 bp;"
+FT   TBLASTX_HIT     complement(21517..21996)
+FT                   /colour="255 112 112"
+FT                   /label="B132222"
+FT                   /score="182"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=56%;
+FT                   ; E()=0.0; score=182; ; ; subject 18583-18104 bp;"
+FT   TBLASTX_HIT     20715..21176
+FT                   /colour="255 112 112"
+FT                   /label="B132222"
+FT                   /score="173"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=56%;
+FT                   ; E()=0.0; score=173; ; ; subject 17302-17763 bp;"
+FT   TBLASTX_HIT     complement(19656..20294)
+FT                   /colour="255 140 140"
+FT                   /label="B132222"
+FT                   /score="172"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=45%;
+FT                   ; E()=0.0; score=172; ; ; subject 16884-16246 bp;"
+FT   TBLASTX_HIT     complement(17618..17908)
+FT                   /colour="255 56 56"
+FT                   /label="B132222"
+FT                   /score="166"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=78%;
+FT                   ; E()=0.0; score=166; ; ; subject 14439-14149 bp;"
+FT   TBLASTX_HIT     23216..23590
+FT                   /colour="255 117 117"
+FT                   /label="B132222"
+FT                   /score="145"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=54%;
+FT                   ; E()=0.0; score=145; ; ; subject 19798-20172 bp;"
+FT   TBLASTX_HIT     22073..22291
+FT                   /colour="255 56 56"
+FT                   /label="B132222"
+FT                   /score="141"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=78%;
+FT                   ; E()=0.0; score=141; ; ; subject 18657-18875 bp;"
+FT   TBLASTX_HIT     21228..21713
+FT                   /colour="255 127 127"
+FT                   /label="B132222"
+FT                   /score="140"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=50%;
+FT                   ; E()=0.0; score=140; ; ; subject 17815-18300 bp;"
+FT   TBLASTX_HIT     18611..18973
+FT                   /colour="255 109 109"
+FT                   /label="B132222"
+FT                   /score="140"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=57%;
+FT                   ; E()=0.0; score=140; ; ; subject 15133-15495 bp;"
+FT   TBLASTX_HIT     complement(23588..23899)
+FT                   /colour="255 89 89"
+FT                   /label="B132222"
+FT                   /score="134"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=65%;
+FT                   ; E()=0.0; score=134; ; ; subject 20484-20173 bp;"
+FT   TBLASTX_HIT     24036..24254
+FT                   /colour="255 94 94"
+FT                   /label="B132222"
+FT                   /score="133"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=63%;
+FT                   ; E()=0.0; score=133; ; ; subject 20609-20827 bp;"
+FT   TBLASTX_HIT     complement(17946..18239)
+FT                   /colour="255 112 112"
+FT                   /label="B132222"
+FT                   /score="129"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=56%;
+FT                   ; E()=0.0; score=129; ; ; subject 14761-14468 bp;"
+FT   TBLASTX_HIT     complement(17897..18226)
+FT                   /colour="255 109 109"
+FT                   /label="B132222"
+FT                   /score="127"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=57%;
+FT                   ; E()=0.0; score=127; ; ; subject 14748-14419 bp;"
+FT   TBLASTX_HIT     complement(23634..23951)
+FT                   /colour="255 109 109"
+FT                   /label="B132222"
+FT                   /score="126"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=57%;
+FT                   ; E()=0.0; score=126; ; ; subject 20536-20219 bp;"
+FT   TBLASTX_HIT     27769..28056
+FT                   /colour="255 124 124"
+FT                   /label="B132222"
+FT                   /score="121"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=51%;
+FT                   ; E()=0.0; score=121; ; ; subject 25471-25758 bp;"
+FT   TBLASTX_HIT     19678..19884
+FT                   /colour="255 73 73"
+FT                   /label="B132222"
+FT                   /score="117"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=71%;
+FT                   ; E()=0.0; score=117; ; ; subject 16268-16474 bp;"
+FT   TBLASTX_HIT     complement(24513..24734)
+FT                   /colour="255 104 104"
+FT                   /label="B132222"
+FT                   /score="116"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=59%;
+FT                   ; E()=0.0; score=116; ; ; subject 21668-21447 bp;"
+FT   TBLASTX_HIT     complement(23215..23559)
+FT                   /colour="255 119 119"
+FT                   /label="B132222"
+FT                   /score="116"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=53%;
+FT                   ; E()=0.0; score=116; ; ; subject 20141-19797 bp;"
+FT   TBLASTX_HIT     complement(17649..17948)
+FT                   /colour="255 124 124"
+FT                   /label="B132222"
+FT                   /score="112"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=51%;
+FT                   ; E()=0.0; score=112; ; ; subject 14479-14180 bp;"
+FT   TBLASTX_HIT     17614..17949
+FT                   /colour="255 130 130"
+FT                   /label="B132222"
+FT                   /score="111"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=49%;
+FT                   ; E()=0.0; score=111; ; ; subject 14145-14480 bp;"
+FT   TBLASTX_HIT     complement(17896..18273)
+FT                   /colour="255 130 130"
+FT                   /label="B132222"
+FT                   /score="104"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=49%;
+FT                   ; E()=3e-24; score=104; ; ; subject 14795-14418 bp;"
+FT   TBLASTX_HIT     complement(18854..19186)
+FT                   /colour="255 124 124"
+FT                   /label="B132222"
+FT                   /score="104"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=51%;
+FT                   ; E()=0.0; score=104; ; ; subject 15708-15376 bp;"
+FT   TBLASTX_HIT     18029..18274
+FT                   /colour="255 112 112"
+FT                   /label="B132222"
+FT                   /score="101"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=56%;
+FT                   ; E()=0.0; score=101; ; ; subject 14551-14796 bp;"
+FT   TBLASTX_HIT     complement(23629..23955)
+FT                   /colour="255 124 124"
+FT                   /label="B132222"
+FT                   /score="96"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=51%;
+FT                   ; E()=0.0; score=96; ; ; subject 20540-20214 bp;"
+FT   TBLASTX_HIT     23615..23935
+FT                   /colour="255 119 119"
+FT                   /label="B132222"
+FT                   /score="96"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=53%;
+FT                   ; E()=0.0; score=96; ; ; subject 20200-20520 bp;"
+FT   TBLASTX_HIT     21750..22064
+FT                   /colour="255 127 127"
+FT                   /label="B132222"
+FT                   /score="94"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=50%;
+FT                   ; E()=0.0; score=94; ; ; subject 18337-18651 bp;"
+FT   TBLASTX_HIT     complement(21237..21554)
+FT                   /colour="255 127 127"
+FT                   /label="B132222"
+FT                   /score="94"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=50%;
+FT                   ; E()=0.0; score=94; ; ; subject 18141-17824 bp;"
+FT   TBLASTX_HIT     complement(22073..22297)
+FT                   /colour="255 112 112"
+FT                   /label="B132222"
+FT                   /score="93"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=56%;
+FT                   ; E()=0.0; score=93; ; ; subject 18881-18657 bp;"
+FT   TBLASTX_HIT     23701..23949
+FT                   /colour="255 107 107"
+FT                   /label="B132222"
+FT                   /score="92"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=58%;
+FT                   ; E()=0.0; score=92; ; ; subject 20286-20534 bp;"
+FT   TBLASTX_HIT     29105..29311
+FT                   /colour="255 145 145"
+FT                   /label="B132222"
+FT                   /score="90"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=43%;
+FT                   ; E()=0.0; score=90; ; ; subject 27776-27982 bp;"
+FT   TBLASTX_HIT     17618..17884
+FT                   /colour="255 130 130"
+FT                   /label="B132222"
+FT                   /score="90"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=49%;
+FT                   ; E()=0.0; score=90; ; ; subject 14149-14415 bp;"
+FT   TBLASTX_HIT     28592..28867
+FT                   /colour="255 155 155"
+FT                   /label="B132222"
+FT                   /score="88"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=39%;
+FT                   ; E()=0.0; score=88; ; ; subject 27293-27568 bp;"
+FT   TBLASTX_HIT     complement(21789..22064)
+FT                   /colour="255 135 135"
+FT                   /label="B132222"
+FT                   /score="87"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=47%;
+FT                   ; E()=0.0; score=87; ; ; subject 18651-18376 bp;"
+FT   TBLASTX_HIT     29315..29569
+FT                   /colour="255 147 147"
+FT                   /label="B132222"
+FT                   /score="82"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=42%;
+FT                   ; E()=0.0; score=82; ; ; subject 28001-28255 bp;"
+FT   TBLASTX_HIT     17866..18168
+FT                   /colour="255 147 147"
+FT                   /label="B132222"
+FT                   /score="80"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=42%;
+FT                   ; E()=2e-20; score=80; ; ; subject 14388-14690 bp;"
+FT   TBLASTX_HIT     complement(17707..17907)
+FT                   /colour="255 114 114"
+FT                   /label="B132222"
+FT                   /score="79"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=55%;
+FT                   ; E()=0.0; score=79; ; ; subject 14438-14238 bp;"
+FT   TBLASTX_HIT     28865..29065
+FT                   /colour="255 114 114"
+FT                   /label="B132222"
+FT                   /score="78"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=55%;
+FT                   ; E()=0.0; score=78; ; ; subject 27563-27763 bp;"
+FT   TBLASTX_HIT     complement(27768..28022)
+FT                   /colour="255 124 124"
+FT                   /label="B132222"
+FT                   /score="76"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=51%;
+FT                   ; E()=0.0; score=76; ; ; subject 25724-25470 bp;"
+FT   TBLASTX_HIT     complement(23990..24232)
+FT                   /colour="255 124 124"
+FT                   /label="B132222"
+FT                   /score="75"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=51%;
+FT                   ; E()=0.0; score=75; ; ; subject 20805-20563 bp;"
+FT   TBLASTX_HIT     22834..23157
+FT                   /colour="255 137 137"
+FT                   /label="B132222"
+FT                   /score="72"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=46%;
+FT                   ; E()=0.0; score=72; ; ; subject 19416-19739 bp;"
+FT   TBLASTX_HIT     complement(24741..24938)
+FT                   /colour="255 150 150"
+FT                   /label="B132222"
+FT                   /score="69"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=41%;
+FT                   ; E()=0.0; score=69; ; ; subject 21869-21672 bp;"
+FT   TBLASTX_HIT     22080..22292
+FT                   /colour="255 117 117"
+FT                   /label="B132222"
+FT                   /score="68"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=54%;
+FT                   ; E()=0.0; score=68; ; ; subject 18664-18876 bp;"
+FT   TBLASTX_HIT     complement(22080..22289)
+FT                   /colour="255 127 127"
+FT                   /label="B132222"
+FT                   /score="67"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=50%;
+FT                   ; E()=0.0; score=67; ; ; subject 18873-18664 bp;"
+FT   TBLASTX_HIT     complement(19174..19365)
+FT                   /colour="255 132 132"
+FT                   /label="B132222"
+FT                   /score="66"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=48%;
+FT                   ; E()=0.0; score=66; ; ; subject 15887-15696 bp;"
+FT   TBLASTX_HIT     complement(22072..22215)
+FT                   /colour="255 73 73"
+FT                   /label="B132222"
+FT                   /score="66"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=71%;
+FT                   ; E()=0.0; score=66; ; ; subject 18799-18656 bp;"
+FT   TBLASTX_HIT     complement(29303..29563)
+FT                   /colour="255 153 153"
+FT                   /label="B132222"
+FT                   /score="65"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=40%;
+FT                   ; E()=0.0; score=65; ; ; subject 28249-27989 bp;"
+FT   TBLASTX_HIT     29654..29911
+FT                   /colour="255 160 160"
+FT                   /label="B132222"
+FT                   /score="62"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=37%;
+FT                   ; E()=0.0; score=62; ; ; subject 28337-28594 bp;"
+FT   TBLASTX_HIT     complement(24036..24221)
+FT                   /colour="255 135 135"
+FT                   /label="B132222"
+FT                   /score="62"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=47%;
+FT                   ; E()=0.0; score=62; ; ; subject 20794-20609 bp;"
+FT   TBLASTX_HIT     complement(22545..22748)
+FT                   /colour="255 135 135"
+FT                   /label="B132222"
+FT                   /score="60"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=47%;
+FT                   ; E()=0.0; score=60; ; ; subject 19327-19124 bp;"
+FT   TBLASTX_HIT     22072..22284
+FT                   /colour="255 140 140"
+FT                   /label="B132222"
+FT                   /score="57"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=45%;
+FT                   ; E()=0.0; score=57; ; ; subject 18656-18868 bp;"
+FT   TBLASTX_HIT     20442..20594
+FT                   /colour="255 114 114"
+FT                   /label="B132222"
+FT                   /score="56"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=55%;
+FT                   ; E()=0.0; score=56; ; ; subject 17029-17181 bp;"
+FT   TBLASTX_HIT     complement(25326..25484)
+FT                   /colour="255 140 140"
+FT                   /label="B132222"
+FT                   /score="56"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=45%;
+FT                   ; E()=0.0; score=56; ; ; subject 22442-22284 bp;"
+FT   TBLASTX_HIT     24517..24696
+FT                   /colour="255 132 132"
+FT                   /label="B132222"
+FT                   /score="56"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=48%;
+FT                   ; E()=0.0; score=56; ; ; subject 21451-21630 bp;"
+FT   TBLASTX_HIT     18359..18520
+FT                   /colour="255 137 137"
+FT                   /label="B132222"
+FT                   /score="56"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=46%;
+FT                   ; E()=0.0; score=56; ; ; subject 14881-15042 bp;"
+FT   TBLASTX_HIT     complement(22311..22469)
+FT                   /colour="255 114 114"
+FT                   /label="B132222"
+FT                   /score="53"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=55%;
+FT                   ; E()=0.0; score=53; ; ; subject 19048-18890 bp;"
+FT   TBLASTX_HIT     complement(27766..27948)
+FT                   /colour="255 158 158"
+FT                   /label="B132222"
+FT                   /score="52"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=38%;
+FT                   ; E()=0.0; score=52; ; ; subject 25650-25468 bp;"
+FT   TBLASTX_HIT     21910..22056
+FT                   /colour="255 130 130"
+FT                   /label="B132222"
+FT                   /score="48"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=49%;
+FT                   ; E()=0.0; score=48; ; ; subject 18497-18643 bp;"
+FT   TBLASTX_HIT     20238..20426
+FT                   /colour="255 145 145"
+FT                   /label="B132222"
+FT                   /score="48"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=43%;
+FT                   ; E()=0.0; score=48; ; ; subject 16828-17016 bp;"
+FT   TBLASTX_HIT     complement(19241..19366)
+FT                   /colour="255 122 122"
+FT                   /label="B132222"
+FT                   /score="48"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=52%;
+FT                   ; E()=0.0; score=48; ; ; subject 15888-15763 bp;"
+FT   TBLASTX_HIT     complement(27538..27756)
+FT                   /colour="255 153 153"
+FT                   /label="B132222"
+FT                   /score="47"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=40%;
+FT                   ; E()=0.0; score=47; ; ; subject 24874-24656 bp;"
+FT   TBLASTX_HIT     complement(29104..29238)
+FT                   /colour="255 119 119"
+FT                   /label="B132222"
+FT                   /score="47"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=53%;
+FT                   ; E()=0.0; score=47; ; ; subject 27909-27775 bp;"
+FT   TBLASTX_HIT     19250..19375
+FT                   /colour="255 127 127"
+FT                   /label="B132222"
+FT                   /score="46"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=50%;
+FT                   ; E()=0.0; score=46; ; ; subject 15772-15897 bp;"
+FT   TBLASTX_HIT     19252..19371
+FT                   /colour="255 109 109"
+FT                   /label="B132222"
+FT                   /score="46"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=57%;
+FT                   ; E()=0.0; score=46; ; ; subject 15774-15893 bp;"
+FT   TBLASTX_HIT     29332..29517
+FT                   /colour="255 160 160"
+FT                   /label="B132222"
+FT                   /score="45"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=37%;
+FT                   ; E()=0.0; score=45; ; ; subject 28018-28203 bp;"
+FT   TBLASTX_HIT     complement(29114..29326)
+FT                   /colour="255 178 178"
+FT                   /label="B132222"
+FT                   /score="43"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=30%;
+FT                   ; E()=0.0; score=43; ; ; subject 27997-27785 bp;"
+FT   TBLASTX_HIT     29313..29564
+FT                   /colour="255 165 165"
+FT                   /label="B132222"
+FT                   /score="42"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=35%;
+FT                   ; E()=2e-20; score=42; ; ; subject 27999-28250 bp;"
+FT   TBLASTX_HIT     24038..24154
+FT                   /colour="255 130 130"
+FT                   /label="B132222"
+FT                   /score="42"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=49%;
+FT                   ; E()=0.0; score=42; ; ; subject 20611-20727 bp;"
+FT   TBLASTX_HIT     complement(29331..29510)
+FT                   /colour="255 165 165"
+FT                   /label="B132222"
+FT                   /score="42"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=35%;
+FT                   ; E()=0.0; score=42; ; ; subject 28196-28017 bp;"
+FT   TBLASTX_HIT     complement(22312..22500)
+FT                   /colour="255 158 158"
+FT                   /label="B132222"
+FT                   /score="40"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=38%;
+FT                   ; E()=0.0; score=40; ; ; subject 19079-18891 bp;"
+FT   TBLASTX_HIT     complement(22528..22722)
+FT                   /colour="255 168 168"
+FT                   /label="B132222"
+FT                   /score="40"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=34%;
+FT                   ; E()=0.0; score=40; ; ; subject 19301-19107 bp;"
+FT   TBLASTX_HIT     complement(22999..23178)
+FT                   /colour="255 153 153"
+FT                   /label="B132222"
+FT                   /score="40"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=40%;
+FT                   ; E()=0.0; score=40; ; ; subject 19760-19581 bp;"
+FT   TBLASTX_HIT     27545..27664
+FT                   /colour="255 147 147"
+FT                   /label="B132222"
+FT                   /score="40"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=42%;
+FT                   ; E()=0.0; score=40; ; ; subject 24663-24782 bp;"
+FT   TBLASTX_HIT     23212..23382
+FT                   /colour="255 142 142"
+FT                   /label="B132222"
+FT                   /score="40"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=44%;
+FT                   ; E()=0.0; score=40; ; ; subject 19794-19964 bp;"
+FT   TBLASTX_HIT     21676..21861
+FT                   /colour="255 155 155"
+FT                   /label="B132222"
+FT                   /score="39"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=39%;
+FT                   ; E()=2e-20; score=39; ; ; subject 18263-18448 bp;"
+FT   TBLASTX_HIT     23550..23609
+FT                   /colour="255 63 63"
+FT                   /label="B132222"
+FT                   /score="38"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=75%;
+FT                   ; E()=0.0; score=38; ; ; subject 20132-20191 bp;"
+FT   TBLASTX_HIT     27064..27216
+FT                   /colour="255 175 175"
+FT                   /label="B132222"
+FT                   /score="38"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=31%;
+FT                   ; E()=0.0; score=38; ; ; subject 24493-24645 bp;"
+FT   TBLASTX_HIT     24037..24132
+FT                   /colour="255 112 112"
+FT                   /label="B132222"
+FT                   /score="38"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=56%;
+FT                   ; E()=0.0; score=38; ; ; subject 20610-20705 bp;"
+FT   TBLASTX_HIT     20038..20298
+FT                   /colour="255 168 168"
+FT                   /label="B132222"
+FT                   /score="38"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=34%;
+FT                   ; E()=0.0; score=38; ; ; subject 16628-16888 bp;"
+FT   TBLASTX_HIT     23066..23173
+FT                   /colour="255 135 135"
+FT                   /label="B132222"
+FT                   /score="37"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=47%;
+FT                   ; E()=0.0; score=37; ; ; subject 19648-19755 bp;"
+FT   TBLASTX_HIT     19429..19572
+FT                   /colour="255 153 153"
+FT                   /label="B132222"
+FT                   /score="37"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=40%;
+FT                   ; E()=0.0; score=37; ; ; subject 16019-16162 bp;"
+FT   TBLASTX_HIT     19022..19135
+FT                   /colour="255 135 135"
+FT                   /label="B132222"
+FT                   /score="36"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=47%;
+FT                   ; E()=0.0; score=36; ; ; subject 15544-15657 bp;"
+FT   TBLASTX_HIT     24705..24944
+FT                   /colour="255 178 178"
+FT                   /label="B132222"
+FT                   /score="35"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=30%;
+FT                   ; E()=0.0; score=35; ; ; subject 21636-21875 bp;"
+FT   TBLASTX_HIT     complement(24037..24129)
+FT                   /colour="255 122 122"
+FT                   /label="B132222"
+FT                   /score="35"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=52%;
+FT                   ; E()=0.0; score=35; ; ; subject 20702-20610 bp;"
+FT   TBLASTX_HIT     22304..22501
+FT                   /colour="255 170 170"
+FT                   /label="B132222"
+FT                   /score="34"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=33%;
+FT                   ; E()=0.0; score=34; ; ; subject 18883-19080 bp;"
+FT   TBLASTX_HIT     24748..24915
+FT                   /colour="255 158 158"
+FT                   /label="B132222"
+FT                   /score="33"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=38%;
+FT                   ; E()=0.0; score=33; ; ; subject 21679-21846 bp;"
+FT   TBLASTX_HIT     complement(28592..28867)
+FT                   /colour="255 198 198"
+FT                   /label="B132222"
+FT                   /score="33"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=22%;
+FT                   ; E()=0.0; score=33; ; ; subject 27568-27293 bp;"
+FT   TBLASTX_HIT     complement(17537..17593)
+FT                   /colour="255 119 119"
+FT                   /label="B132222"
+FT                   /score="31"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=53%;
+FT                   ; E()=0.0; score=31; ; ; subject 14125-14069 bp;"
+FT   TBLASTX_HIT     complement(28729..28857)
+FT                   /colour="255 130 130"
+FT                   /label="B132222"
+FT                   /score="31"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=49%;
+FT                   ; E()=0.0; score=31; ; ; subject 27558-27430 bp;"
+FT   TBLASTX_HIT     27713..27757
+FT                   /colour="255 102 102"
+FT                   /label="B132222"
+FT                   /score="31"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=60%;
+FT                   ; E()=0.0; score=31; ; ; subject 24831-24875 bp;"
+FT   TBLASTX_HIT     complement(19452..19571)
+FT                   /colour="255 147 147"
+FT                   /label="B132222"
+FT                   /score="31"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=42%;
+FT                   ; E()=0.0; score=31; ; ; subject 16161-16042 bp;"
+FT   TBLASTX_HIT     29333..29404
+FT                   /colour="255 137 137"
+FT                   /label="B132222"
+FT                   /score="30"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=46%;
+FT                   ; E()=0.004; score=30; ; ; subject 21839-21910 bp;"
+FT   TBLASTX_HIT     21979..22035
+FT                   /colour="255 107 107"
+FT                   /label="B132222"
+FT                   /score="30"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=58%;
+FT                   ; E()=0.004; score=30; ; ; subject 11810-11866 bp;"
+FT   TBLASTX_HIT     22886..22975
+FT                   /colour="255 119 119"
+FT                   /label="B132222"
+FT                   /score="30"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=53%;
+FT                   ; E()=0.0; score=30; ; ; subject 19468-19557 bp;"
+FT   TBLASTX_HIT     complement(27767..27949)
+FT                   /colour="255 168 168"
+FT                   /label="B132222"
+FT                   /score="29"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=34%;
+FT                   ; E()=0.27; score=29; ; ; subject 25651-25469 bp;"
+FT   TBLASTX_HIT     complement(21672..21719)
+FT                   /colour="255 79 79"
+FT                   /label="B132222"
+FT                   /score="28"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=69%;
+FT                   ; E()=0.0; score=28; ; ; subject 18306-18259 bp;"
+FT   TBLASTX_HIT     complement(22304..22447)
+FT                   /colour="255 181 181"
+FT                   /label="B132222"
+FT                   /score="28"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=29%;
+FT                   ; E()=0.0; score=28; ; ; subject 19026-18883 bp;"
+FT   TBLASTX_HIT     complement(28864..28944)
+FT                   /colour="255 112 112"
+FT                   /label="B132222"
+FT                   /score="28"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=56%;
+FT                   ; E()=0.0; score=28; ; ; subject 27642-27562 bp;"
+FT   TBLASTX_HIT     22955..22999
+FT                   /colour="255 102 102"
+FT                   /label="B132222"
+FT                   /score="27"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=60%;
+FT                   ; E()=0.71; score=27; ; ; subject 14828-14784 bp;"
+FT   TBLASTX_HIT     complement(21124..21273)
+FT                   /colour="255 173 173"
+FT                   /label="B132222"
+FT                   /score="27"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=32%;
+FT                   ; E()=0.97; score=27; ; ; subject 4776-4627 bp;"
+FT   TBLASTX_HIT     complement(17617..17679)
+FT                   /colour="255 109 109"
+FT                   /label="B132222"
+FT                   /score="27"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=57%;
+FT                   ; E()=0.0; score=27; ; ; subject 14210-14148 bp;"
+FT   TBLASTX_HIT     complement(20917..21060)
+FT                   /colour="255 181 181"
+FT                   /label="B132222"
+FT                   /score="27"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=29%;
+FT                   ; E()=0.97; score=27; ; ; subject 14976-14833 bp;"
+FT   TBLASTX_HIT     18529..18579
+FT                   /colour="255 135 135"
+FT                   /label="B132222"
+FT                   /score="27"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=47%;
+FT                   ; E()=0.004; score=27; ; ; subject 2068-2118 bp;"
+FT   TBLASTX_HIT     18319..18441
+FT                   /colour="255 173 173"
+FT                   /label="B132222"
+FT                   /score="26"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=32%;
+FT                   ; E()=1.3; score=26; ; ; subject 2847-2725 bp;"
+FT   TBLASTX_HIT     20400..20465
+FT                   /colour="255 163 163"
+FT                   /label="B132222"
+FT                   /score="26"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=36%;
+FT                   ; E()=0.004; score=26; ; ; subject 4383-4448 bp;"
+FT   TBLASTX_HIT     22447..22560
+FT                   /colour="255 168 168"
+FT                   /label="B132222"
+FT                   /score="26"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=34%;
+FT                   ; E()=0.004; score=26; ; ; subject 17754-17867 bp;"
+FT   TBLASTX_HIT     complement(23188..23283)
+FT                   /colour="255 175 175"
+FT                   /label="B132222"
+FT                   /score="26"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=31%;
+FT                   ; E()=1.8; score=26; ; ; subject 27706-27611 bp;"
+FT   TBLASTX_HIT     18802..18837
+FT                   /colour="255 84 84"
+FT                   /label="B132222"
+FT                   /score="25"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=67%;
+FT                   ; E()=2.5; score=25; ; ; subject 27105-27140 bp;"
+FT   TBLASTX_HIT     20702..20776
+FT                   /colour="255 142 142"
+FT                   /label="B132222"
+FT                   /score="25"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=44%;
+FT                   ; E()=2.5; score=25; ; ; subject 8563-8489 bp;"
+FT   TBLASTX_HIT     24498..24659
+FT                   /colour="255 188 188"
+FT                   /label="B132222"
+FT                   /score="25"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=26%;
+FT                   ; E()=0.0; score=25; ; ; subject 21432-21593 bp;"
+FT   TBLASTX_HIT     complement(19773..19847)
+FT                   /colour="255 153 153"
+FT                   /label="B132222"
+FT                   /score="25"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=40%;
+FT                   ; E()=3.5; score=25; ; ; subject 29385-29459 bp;"
+FT   TBLASTX_HIT     complement(29370..29459)
+FT                   /colour="255 170 170"
+FT                   /label="B132222"
+FT                   /score="25"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=33%;
+FT                   ; E()=3.5; score=25; ; ; subject 14577-14666 bp;"
+FT   TBLASTX_HIT     complement(16230..16304)
+FT                   /colour="255 163 163"
+FT                   /label="B132222"
+FT                   /score="25"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=36%;
+FT                   ; E()=3.5; score=25; ; ; subject 18383-18309 bp;"
+FT   TBLASTX_HIT     complement(22915..22947)
+FT                   /colour="255 45 45"
+FT                   /label="B132222"
+FT                   /score="25"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=82%;
+FT                   ; E()=0.0; score=25; ; ; subject 19529-19497 bp;"
+FT   TBLASTX_HIT     28374..28406
+FT                   /colour="255 91 91"
+FT                   /label="B132222"
+FT                   /score="25"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=64%;
+FT                   ; E()=3.5; score=25; ; ; subject 9925-9957 bp;"
+FT   TBLASTX_HIT     complement(25257..25325)
+FT                   /colour="255 165 165"
+FT                   /label="B132222"
+FT                   /score="25"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=35%;
+FT                   ; E()=0.0; score=25; ; ; subject 22295-22227 bp;"
+FT   TBLASTX_HIT     complement(25526..25591)
+FT                   /colour="255 140 140"
+FT                   /label="B132222"
+FT                   /score="25"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=45%;
+FT                   ; E()=3.5; score=25; ; ; subject 7895-7960 bp;"
+FT   TBLASTX_HIT     19632..19676
+FT                   /colour="255 153 153"
+FT                   /label="B132222"
+FT                   /score="25"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=40%;
+FT                   ; E()=3.5; score=25; ; ; subject 2089-2133 bp;"
+FT   TBLASTX_HIT     complement(27065..27106)
+FT                   /colour="255 91 91"
+FT                   /label="B132222"
+FT                   /score="24"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=64%;
+FT                   ; E()=4.7; score=24; ; ; subject 2771-2730 bp;"
+FT   TBLASTX_HIT     complement(20805..20846)
+FT                   /colour="255 109 109"
+FT                   /label="B132222"
+FT                   /score="24"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=57%;
+FT                   ; E()=4.7; score=24; ; ; subject 10524-10565 bp;"
+FT   TBLASTX_HIT     complement(20817..20861)
+FT                   /colour="255 119 119"
+FT                   /label="B132222"
+FT                   /score="24"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=53%;
+FT                   ; E()=4.7; score=24; ; ; subject 7003-7047 bp;"
+FT   TBLASTX_HIT     23427..23468
+FT                   /colour="255 91 91"
+FT                   /label="B132222"
+FT                   /score="24"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=64%;
+FT                   ; E()=4.7; score=24; ; ; subject 26808-26767 bp;"
+FT   TBLASTX_HIT     complement(19438..19566)
+FT                   /colour="255 170 170"
+FT                   /label="B132222"
+FT                   /score="24"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=33%;
+FT                   ; E()=6.5; score=24; ; ; subject 374-246 bp;"
+FT   TBLASTX_HIT     19036..19107
+FT                   /colour="255 127 127"
+FT                   /label="B132222"
+FT                   /score="24"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=50%;
+FT                   ; E()=6.5; score=24; ; ; subject 2757-2686 bp;"
+FT   TBLASTX_HIT     28109..28141
+FT                   /colour="255 91 91"
+FT                   /label="B132222"
+FT                   /score="24"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=64%;
+FT                   ; E()=0.0; score=24; ; ; subject 26762-26794 bp;"
+FT   TBLASTX_HIT     complement(31103..31201)
+FT                   /colour="255 178 178"
+FT                   /label="B132222"
+FT                   /score="24"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=30%;
+FT                   ; E()=6.5; score=24; ; ; subject 26211-26309 bp;"
+FT   TBLASTX_HIT     complement(21632..21724)
+FT                   /colour="255 181 181"
+FT                   /label="B132222"
+FT                   /score="24"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=29%;
+FT                   ; E()=6.5; score=24; ; ; subject 9973-9881 bp;"
+FT   TBLASTX_HIT     23551..23571
+FT                   /colour="255 0 0"
+FT                   /label="B132222"
+FT                   /score="24"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=100%;
+FT                   ; E()=0.0; score=24; ; ; subject 20133-20153 bp;"
+FT   TBLASTX_HIT     28115..28216
+FT                   /colour="255 181 181"
+FT                   /label="B132222"
+FT                   /score="24"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=29%;
+FT                   ; E()=2e-20; score=24; ; ; subject 19758-19859 bp;"
+FT   TBLASTX_HIT     complement(23112..23150)
+FT                   /colour="255 96 96"
+FT                   /label="B132222"
+FT                   /score="24"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=62%;
+FT                   ; E()=6.5; score=24; ; ; subject 14383-14421 bp;"
+FT   TBLASTX_HIT     complement(28371..28421)
+FT                   /colour="255 119 119"
+FT                   /label="B132222"
+FT                   /score="24"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=53%;
+FT                   ; E()=6.5; score=24; ; ; subject 19153-19103 bp;"
+FT   TBLASTX_HIT     complement(19632..19697)
+FT                   /colour="255 140 140"
+FT                   /label="B132222"
+FT                   /score="24"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=45%;
+FT                   ; E()=6.5; score=24; ; ; subject 20261-20196 bp;"
+FT   TBLASTX_HIT     23417..23467
+FT                   /colour="255 104 104"
+FT                   /label="B132222"
+FT                   /score="24"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=59%;
+FT                   ; E()=6.5; score=24; ; ; subject 4512-4562 bp;"
+FT   TBLASTX_HIT     complement(29884..29958)
+FT                   /colour="255 142 142"
+FT                   /label="B132222"
+FT                   /score="24"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=44%;
+FT                   ; E()=9.0; score=24; ; ; subject 1095-1021 bp;"
+FT   TBLASTX_HIT     complement(29376..29429)
+FT                   /colour="255 142 142"
+FT                   /label="B132222"
+FT                   /score="24"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=44%;
+FT                   ; E()=9.0; score=24; ; ; subject 28975-29028 bp;"
+FT   TBLASTX_HIT     complement(17350..17439)
+FT                   /colour="255 170 170"
+FT                   /label="B132222"
+FT                   /score="24"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=33%;
+FT                   ; E()=0.0; score=24; ; ; subject 3360-3271 bp;"
+FT   TBLASTX_HIT     complement(29373..29435)
+FT                   /colour="255 145 145"
+FT                   /label="B132222"
+FT                   /score="24"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=43%;
+FT                   ; E()=9.0; score=24; ; ; subject 27250-27312 bp;"
+FT   TBLASTX_HIT     23093..23146
+FT                   /colour="255 127 127"
+FT                   /label="B132222"
+FT                   /score="24"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=50%;
+FT                   ; E()=9.0; score=24; ; ; subject 5819-5766 bp;"
+FT   TBLASTX_HIT     complement(23256..23336)
+FT                   /colour="255 160 160"
+FT                   /label="B132222"
+FT                   /score="24"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=37%;
+FT                   ; E()=9.0; score=24; ; ; subject 21120-21200 bp;"
+FT   TBLASTX_HIT     17713..17754
+FT                   /colour="255 109 109"
+FT                   /label="B132222"
+FT                   /score="24"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=57%;
+FT                   ; E()=2e-20; score=24; ; ; subject 11046-11087 bp;"
+FT   TBLASTX_HIT     complement(24529..24564)
+FT                   /colour="255 107 107"
+FT                   /label="B132222"
+FT                   /score="24"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=58%;
+FT                   ; E()=9.0; score=24; ; ; subject 5809-5844 bp;"
+FT   TBLASTX_HIT     16846..16968
+FT                   /colour="255 193 193"
+FT                   /label="B132222"
+FT                   /score="24"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=24%;
+FT                   ; E()=0.0; score=24; ; ; subject 5048-5170 bp;"
+FT   TBLASTX_HIT     27667..27714
+FT                   /colour="255 127 127"
+FT                   /label="B132222"
+FT                   /score="24"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=50%;
+FT                   ; E()=9.0; score=24; ; ; subject 3245-3292 bp;"
+FT   TBLASTX_HIT     complement(23357..23398)
+FT                   /colour="255 127 127"
+FT                   /label="B132222"
+FT                   /score="24"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=50%;
+FT                   ; E()=9.0; score=24; ; ; subject 2350-2391 bp;"
+FT   TBLASTX_HIT     complement(24547..24645)
+FT                   /colour="255 186 186"
+FT                   /label="B132222"
+FT                   /score="23"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=27%;
+FT                   ; E()=0.0; score=23; ; ; subject 21579-21481 bp;"
+FT   TBLASTX_HIT     27809..27949
+FT                   /colour="255 168 168"
+FT                   /label="B132222"
+FT                   /score="23"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=34%;
+FT                   ; E()=0.0; score=23; ; ; subject 25511-25651 bp;"
+FT   TBLASTX_HIT     21481..21555
+FT                   /colour="255 163 163"
+FT                   /label="B132222"
+FT                   /score="23"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=36%;
+FT                   ; E()=0.0; score=23; ; ; subject 18122-18196 bp;"
+FT   TBLASTX_HIT     18817..18867
+FT                   /colour="255 150 150"
+FT                   /label="B132222"
+FT                   /score="22"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=41%;
+FT                   ; E()=2e-20; score=22; ; ; subject 17506-17556 bp;"
+FT   TBLASTX_HIT     complement(27577..27645)
+FT                   /colour="255 188 188"
+FT                   /label="B132222"
+FT                   /score="22"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=26%;
+FT                   ; E()=0.0; score=22; ; ; subject 23498-23430 bp;"
+FT   TBLASTX_HIT     complement(32860..32916)
+FT                   /colour="255 147 147"
+FT                   /label="B132222"
+FT                   /score="27"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=42%;
+FT                   ; E()=0.091; score=27; ; ; subject 15530-15474 bp;"
+FT   TBLASTX_HIT     33027..33080
+FT                   /colour="255 112 112"
+FT                   /label="B132222"
+FT                   /score="25"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=56%;
+FT                   ; E()=0.24; score=25; ; ; subject 5769-5716 bp;"
+FT   TBLASTX_HIT     32591..32647
+FT                   /colour="255 107 107"
+FT                   /label="B132222"
+FT                   /score="24"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=58%;
+FT                   ; E()=0.61; score=24; ; ; subject 26509-26565 bp;"
+FT   TBLASTX_HIT     32999..33037
+FT                   /colour="255 137 137"
+FT                   /label="B132222"
+FT                   /score="23"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=46%;
+FT                   ; E()=1.6; score=23; ; ; subject 15767-15729 bp;"
+FT   TBLASTX_HIT     32333..32371
+FT                   /colour="255 117 117"
+FT                   /label="B132222"
+FT                   /score="23"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=54%;
+FT                   ; E()=1.6; score=23; ; ; subject 9064-9102 bp;"
+FT   TBLASTX_HIT     complement(32872..32946)
+FT                   /colour="255 173 173"
+FT                   /label="B132222"
+FT                   /score="22"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=32%;
+FT                   ; E()=2.2; score=22; ; ; subject 164-90 bp;"
+FT   TBLASTX_HIT     32596..32655
+FT                   /colour="255 153 153"
+FT                   /label="B132222"
+FT                   /score="22"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=40%;
+FT                   ; E()=2.2; score=22; ; ; subject 7439-7380 bp;"
+FT   TBLASTX_HIT     complement(32878..32916)
+FT                   /colour="255 96 96"
+FT                   /label="B132222"
+FT                   /score="22"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=62%;
+FT                   ; E()=3.0; score=22; ; ; subject 8738-8776 bp;"
+FT   TBLASTX_HIT     complement(32564..32602)
+FT                   /colour="255 117 117"
+FT                   /label="B132222"
+FT                   /score="21"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=54%;
+FT                   ; E()=4.1; score=21; ; ; subject 408-370 bp;"
+FT   TBLASTX_HIT     32562..32606
+FT                   /colour="255 135 135"
+FT                   /label="B132222"
+FT                   /score="21"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=47%;
+FT                   ; E()=4.1; score=21; ; ; subject 10285-10329 bp;"
+FT   TBLASTX_HIT     33546..33572
+FT                   /colour="255 28 28"
+FT                   /label="B132222"
+FT                   /score="21"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=89%;
+FT                   ; E()=5.7; score=21; ; ; subject 30596-30622 bp;"
+FT   TBLASTX_HIT     33539..33574
+FT                   /colour="255 107 107"
+FT                   /label="B132222"
+FT                   /score="21"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=58%;
+FT                   ; E()=5.7; score=21; ; ; subject 30589-30624 bp;"
+FT   TBLASTX_HIT     32346..32369
+FT                   /colour="255 96 96"
+FT                   /label="B132222"
+FT                   /score="21"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=62%;
+FT                   ; E()=5.7; score=21; ; ; subject 17213-17190 bp;"
+FT   TBLASTX_HIT     32612..32695
+FT                   /colour="255 181 181"
+FT                   /label="B132222"
+FT                   /score="21"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=29%;
+FT                   ; E()=5.7; score=21; ; ; subject 1438-1521 bp;"
+FT   TBLASTX_HIT     32306..32380
+FT                   /colour="255 183 183"
+FT                   /label="B132222"
+FT                   /score="20"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=28%;
+FT                   ; E()=7.8; score=20; ; ; subject 920-846 bp;"
+FT   TBLASTX_HIT     complement(32098..32127)
+FT                   /colour="255 76 76"
+FT                   /label="B132222"
+FT                   /score="20"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=70%;
+FT                   ; E()=7.8; score=20; ; ; subject 12363-12392 bp;"
+FT   TBLASTX_HIT     complement(32428..32472)
+FT                   /colour="255 153 153"
+FT                   /label="B132222"
+FT                   /score="20"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=40%;
+FT                   ; E()=7.8; score=20; ; ; subject 24097-24053 bp;"
+FT   TBLASTX_HIT     complement(33539..33571)
+FT                   /colour="255 91 91"
+FT                   /label="B132222"
+FT                   /score="20"
+FT                   /similarity="tblastx; b132222.fasta ; ; U32222
+FT                   Bacteriophage 186, complete sequence.; B132222; ; id=64%;
+FT                   ; E()=7.8; score=20; ; ; subject 30621-30589 bp;"
+//

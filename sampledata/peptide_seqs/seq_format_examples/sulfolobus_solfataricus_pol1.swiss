@@ -1,0 +1,105 @@
+ID   DPO1_SULSO     STANDARD;      PRT;   882 AA.
+AC   P26811; O05707;
+DT   01-AUG-1992 (Rel. 23, Created)
+DT   16-OCT-2001 (Rel. 40, Last sequence update)
+DT   15-JUN-2002 (Rel. 41, Last annotation update)
+DE   DNA polymerase I (EC 2.7.7.7).
+GN   DPO1 OR POLS OR SSO0552.
+OS   Sulfolobus solfataricus.
+OC   Archaea; Crenarchaeota; Thermoprotei; Sulfolobales; Sulfolobaceae;
+OC   Sulfolobus.
+OX   NCBI_TaxID=2287;
+RN   [1]
+RP   SEQUENCE FROM N.A.
+RC   STRAIN=ATCC 49255 / DSM 5833 / MT-4;
+RX   MEDLINE=92310966; PubMed=1614858;
+RA   Pisani F.M., Martino C., Rossi M.;
+RT   "A DNA polymerase from the archaeon Sulfolobus solfataricus shows
+RT   sequence similarity to family B DNA polymerases.";
+RL   Nucleic Acids Res. 20:2711-2716(1992).
+RN   [2]
+RP   SEQUENCE FROM N.A.
+RC   STRAIN=ATCC 35092 / DSM 1617 / P2;
+RX   MEDLINE=97055432; PubMed=8899719;
+RA   Sensen C.W., Klenk H.-P., Singh R.K., Allard G., Chan C.C.-Y.,
+RA   Liu Q.Y., Penny S.L., Young F., Schenk M.E., Gaasterland T.,
+RA   Doolittle W.F., Ragan M.A., Charlebois R.L.;
+RT   "Organizational characteristics and information content of an
+RT   archaeal genome: 156 kb of sequence from Sulfolobus solfataricus
+RT   P2.";
+RL   Mol. Microbiol. 22:175-191(1996).
+RN   [3]
+RP   SEQUENCE FROM N.A.
+RC   STRAIN=ATCC 35092 / DSM 1617 / P2;
+RX   MEDLINE=20165948; PubMed=10701121;
+RA   Charlebois R.L., Singh R.K., Chan-Weiher C.C.-Y., Allard G., Chow C.,
+RA   Confalonieri F., Curtis B., Duguet M., Erauso G., Faguy D.,
+RA   Gaasterland T., Garrett R.A., Gordon P., Jeffries A.C., Kozera C.,
+RA   Kushwaha N., Lafleur E., Medina N., Peng X., Penny S.L., She Q.,
+RA   St Jean A., van der Oost J., Young F., Zivanovic Y., Doolittle W.F.,
+RA   Ragan M.A., Sensen C.W.;
+RT   "Gene content and organization of a 281-kbp contig from the genome of
+RT   the extremely thermophilic archaeon, Sulfolobus solfataricus P2.";
+RL   Genome 43:116-136(2000).
+RN   [4]
+RP   SEQUENCE FROM N.A.
+RC   STRAIN=ATCC 35092 / DSM 1617 / P2;
+RX   MEDLINE=21332296; PubMed=11427726;
+RA   She Q., Singh R.K., Confalonieri F., Zivanovic Y., Allard G.,
+RA   Awayez M.J., Chan-Weiher C.C.-Y., Clausen I.G., Curtis B.A.,
+RA   De Moors A., Erauso G., Fletcher C., Gordon P.M.K.,
+RA   Heikamp-de Jong I., Jeffries A.C., Kozera C.J., Medina N., Peng X.,
+RA   Thi-Ngoc H.P., Redder P., Schenk M.E., Theriault C., Tolstrup N.,
+RA   Charlebois R.L., Doolittle W.F., Duguet M., Gaasterland T.,
+RA   Garrett R.A., Ragan M.A., Sensen C.W., Van der Oost J.;
+RT   "The complete genome of the crenarchaeon Sulfolobus solfataricus P2.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 98:7835-7840(2001).
+CC   -!- FUNCTION: THIS POLYMERASE POSSESSES TWO ENZYMATIC ACTIVITIES:
+CC       DNA SYNTHESIS (POLYMERASE) AND AN EXONUCLEOLYTIC ACTIVITY THAT
+CC       DEGRADES SINGLE STRANDED DNA IN THE 3' TO 5' DIRECTION.
+CC   -!- CATALYTIC ACTIVITY: N deoxynucleoside triphosphate = N diphosphate
+CC       + {DNA}(N).
+CC   -!- SIMILARITY: BELONGS TO THE DNA POLYMERASE TYPE-B FAMILY.
+CC   --------------------------------------------------------------------------
+CC   This SWISS-PROT entry is copyright. It is produced through a collaboration
+CC   between  the Swiss Institute of Bioinformatics  and the  EMBL outstation -
+CC   the European Bioinformatics Institute.  There are no  restrictions on  its
+CC   use  by  non-profit  institutions as long  as its content  is  in  no  way
+CC   modified and this statement is not removed.  Usage  by  and for commercial
+CC   entities requires a license agreement (See http://www.isb-sib.ch/announce/
+CC   or send an email to license@isb-sib.ch).
+CC   --------------------------------------------------------------------------
+DR   EMBL; X64466; CAA45795.1; -.
+DR   EMBL; U92875; AAB53090.1; -.
+DR   EMBL; Y18930; CAB57747.1; -.
+DR   EMBL; AE006685; AAK40869.1; -.
+DR   PIR; S23019; S23019.
+DR   HSSP; P56689; 1TGO.
+DR   InterPro; IPR002064; DNA_pol_B.
+DR   Pfam; PF00136; DNA_pol_B; 1.
+DR   Pfam; PF03104; DNA_pol_B_exo; 1.
+DR   PRINTS; PR00106; DNAPOLB.
+DR   SMART; SM00486; POLBc; 1.
+DR   PROSITE; PS00116; DNA_POLYMERASE_B; 1.
+KW   Transferase; DNA-directed DNA polymerase; DNA replication;
+KW   DNA-binding; Hydrolase; Exonuclease; Complete proteome.
+FT   CONFLICT    139    139       L -> H (IN REF. 1).
+FT   CONFLICT    624    624       A -> R (IN REF. 1).
+SQ   SEQUENCE   882 AA;  101223 MW;  77E3ED975AA1C81A CRC64;
+     MTKQLTLFDI PSSKPAKSEQ NTQQSQQSAP VEEKKVVRRE WLEEAQENKI YFLLQVDYDG
+     KKGKAVCKLF DKETQKIYAL YDNTGHKPYF LVDLEPDKVG KIPKIVRDPS FDHIETVSKI
+     DPYTWNKFKL TKIVVRDPLA VRRLRNDVPK AYEAHIKYFN NYMYDIGLIP GMPYVVKNGK
+     LESVYLSLDE KDVEEIKKAF ADSDEMTRQM AVDWLPIFET EIPKIKRVAI DIEVYTPVKG
+     RIPDSQKAEF PIISIALAGS DGLKKVLVLN RNDVNEGSVK LDGISVERFN TEYELLGRFF
+     DILLEYPIVL TFNGDDFDLP YIYFRALKLG YFPEEIPIDV AGKDEAKYLA GLHIDLYKFF
+     FNKAVRNYAF EGKYNEYNLD AVAKALLGTS KVKVDTLISF LDVEKLIEYN FRDAEITLQL
+     TTFNNDLTMK LIVLFSRISR LGIEELTRTE ISTWVKNLYY WEHRKRNWLI PLKEEILAKS
+     SNIRTSALIK GKGYKGAVVI DPPAGIFFNI TVLDFASLYP SIIRTWNLSY ETVDIQQCKK
+     PYEVKDETGE VLHIVCMDRP GITAVITGLL RDFRVKIYKK KAKNPNNSEE QKLLYDVVQR
+     AMKVFINATY GVFGAETFPL YAPAVAESVT ALGRYVITST VKKAREEGLT VLYGDTDSLF
+     LLNPPKNSLE NIIKWVKTTF NLDLEVDKTY KFVAFSGLKK NYFGVYQDGK VDIKGMLVKK
+     RNTPEFVKKV FNEVKELMIS INSPNDVKEI KRKIVDVVKG SYEKLKNKGY NLDELAFKVM
+     LSKPLDAYKK NTPQHVKAAL QLRPFGVNVL PRDIIYYVKV RSKDGVKPVQ LAKVTEIDAE
+     KYLEALRSTF EQILRAFGVS WDEIAATMSI DSFFSYPSKG NS
+//
+

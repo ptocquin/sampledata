@@ -1,0 +1,41 @@
+
+Protein parsimony algorithm, version 3.68
+
+
+
+One most parsimonious tree found:
+
+
+
+
+                                +-----CCARSOX9B 
+        +-----------------------8  
+        !                       !  +--CAURSOX9B 
+        !                       +--9  
+        !                          +--DRERSOX9B 
+     +--7  
+     !  !                          +--TNIGUnm   
+     !  !        +----------------10  
+     !  !        !                 +--OLATSOX9B 
+     !  !        !  
+     !  +--------3     +--------------TNIGUnk   
+     !           !     !  
+     !           !     !     +--------ASTUSOX9  
+  +--2           +-----4  +-11  
+  !  !                 !  !  !  +-----HSAPSOX9  
+  !  !                 !  !  +-12  
+  !  !                 +--5     !  +--RRUGSOX9A 
+  !  !                    !     +--6  
+  1  !                    !        +--XTRPSOX9  
+  !  !                    !  
+  !  !                    +-----------OMYKSOX9  
+  !  !  
+  !  +--------------------------------CAURSOX9A 
+  !  
+  +-----------------------------------DRERSOX9A 
+
+  remember: this is an unrooted tree!
+
+
+requires a total of   1936.000
+

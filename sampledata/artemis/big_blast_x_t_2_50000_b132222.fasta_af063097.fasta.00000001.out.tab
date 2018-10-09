@@ -1,0 +1,1000 @@
+FT   TBLASTX_HIT      201..434
+FT                   /note="match to B132222 207..440  blast score 76.2  percent identity 50  U32222 Bacteriophage 186, complete sequence."
+FT                   /label=B132222
+FT                   /score=50
+FT                   /colour=255 127 127
+FT   TBLASTX_HIT      217..1173
+FT                   /note="match to B132222 223..1179  blast score 369  percent identity 53  U32222 Bacteriophage 186, complete sequence."
+FT                   /label=B132222
+FT                   /score=53
+FT                   /colour=255 119 119
+FT   TBLASTX_HIT      218..1159
+FT                   /note="match to B132222 224..1165  blast score 438  percent identity 67  U32222 Bacteriophage 186, complete sequence."
+FT                   /label=B132222
+FT                   /score=67
+FT                   /colour=255 84 84
+FT   TBLASTX_HIT      462..740
+FT                   /note="match to B132222 468..746  blast score 95.5  percent identity 54  U32222 Bacteriophage 186, complete sequence."
+FT                   /label=B132222
+FT                   /score=54
+FT                   /colour=255 117 117
+FT   TBLASTX_HIT      816..1157
+FT                   /note="match to B132222 822..1163  blast score 131  percent identity 58  U32222 Bacteriophage 186, complete sequence."
+FT                   /label=B132222
+FT                   /score=58
+FT                   /colour=255 107 107
+FT   TBLASTX_HIT      225..1172
+FT                   /note="match to B132222 231..1178  blast score 319  percent identity 52  U32222 Bacteriophage 186, complete sequence."
+FT                   /label=B132222
+FT                   /score=52
+FT                   /colour=255 122 122
+FT   TBLASTX_HIT      202..1203
+FT                   /note="match to B132222 208..1209  blast score 645  percent identity 78  U32222 Bacteriophage 186, complete sequence."
+FT                   /label=B132222
+FT                   /score=78
+FT                   /colour=255 56 56
+FT   TBLASTX_HIT      227..1216
+FT                   /note="match to B132222 233..1222  blast score 313  percent identity 50  U32222 Bacteriophage 186, complete sequence."
+FT                   /label=B132222
+FT                   /score=50
+FT                   /colour=255 127 127
+FT   TBLASTX_HIT      1241..1687
+FT                   /note="match to B132222 1978..2424  blast score 188  percent identity 56  U32222 Bacteriophage 186, complete sequence."
+FT                   /label=B132222
+FT                   /score=56
+FT                   /colour=255 112 112
+FT   TBLASTX_HIT      1375..3135
+FT                   /note="match to B132222 2112..3872  blast score 910  percent identity 72  U32222 Bacteriophage 186, complete sequence."
+FT                   /label=B132222
+FT                   /score=72
+FT                   /colour=255 71 71
+FT   TBLASTX_HIT      1389..2111
+FT                   /note="match to B132222 2126..2848  blast score 333  percent identity 60  U32222 Bacteriophage 186, complete sequence."
+FT                   /label=B132222
+FT                   /score=60
+FT                   /colour=255 102 102
+FT   TBLASTX_HIT      1397..1507
+FT                   /note="match to B132222 2134..2244  blast score 57.0  percent identity 68  U32222 Bacteriophage 186, complete sequence."
+FT                   /label=B132222
+FT                   /score=68
+FT                   /colour=255 81 81
+FT   TBLASTX_HIT      1354..1518
+FT                   /note="match to B132222 2091..2255  blast score 91.3  percent identity 64  U32222 Bacteriophage 186, complete sequence."
+FT                   /label=B132222
+FT                   /score=64
+FT                   /colour=255 91 91
+FT   TBLASTX_HIT      1739..2032
+FT                   /note="match to B132222 2476..2769  blast score 134  percent identity 61  U32222 Bacteriophage 186, complete sequence."
+FT                   /label=B132222
+FT                   /score=61
+FT                   /colour=255 99 99
+FT   TBLASTX_HIT      1881..2021
+FT                   /note="match to B132222 1251..1391  blast score 58.3  percent identity 45  U32222 Bacteriophage 186, complete sequence."
+FT                   /label=B132222
+FT                   /score=45
+FT                   /colour=255 140 140
+FT   TBLASTX_HIT      1594..2028
+FT                   /note="match to B132222 2331..2765  blast score 176  percent identity 55  U32222 Bacteriophage 186, complete sequence."
+FT                   /label=B132222
+FT                   /score=55
+FT                   /colour=255 114 114
+FT   TBLASTX_HIT      2084..2686
+FT                   /note="match to B132222 2821..3423  blast score 237  percent identity 57  U32222 Bacteriophage 186, complete sequence."
+FT                   /label=B132222
+FT                   /score=57
+FT                   /colour=255 109 109
+FT   TBLASTX_HIT      1574..2110
+FT                   /note="match to B132222 2311..2847  blast score 204  percent identity 55  U32222 Bacteriophage 186, complete sequence."
+FT                   /label=B132222
+FT                   /score=55
+FT                   /colour=255 114 114
+FT   TBLASTX_HIT      2160..3140
+FT                   /note="match to B132222 2897..3877  blast score 412  percent identity 58  U32222 Bacteriophage 186, complete sequence."
+FT                   /label=B132222
+FT                   /score=58
+FT                   /colour=255 107 107
+FT   TBLASTX_HIT      2104..2232
+FT                   /note="match to B132222 2841..2969  blast score 46.4  percent identity 49  U32222 Bacteriophage 186, complete sequence."
+FT                   /label=B132222
+FT                   /score=49
+FT                   /colour=255 130 130
+FT   TBLASTX_HIT      2328..2621
+FT                   /note="match to B132222 1665..1958  blast score 46.9  percent identity 29  U32222 Bacteriophage 186, complete sequence."
+FT                   /label=B132222
+FT                   /score=29
+FT                   /colour=255 181 181
+FT   TBLASTX_HIT      2335..2535
+FT                   /note="match to B132222 1672..1872  blast score 55.6  percent identity 46  U32222 Bacteriophage 186, complete sequence."
+FT                   /label=B132222
+FT                   /score=46
+FT                   /colour=255 137 137
+FT   TBLASTX_HIT      2328..2609
+FT                   /note="match to B132222 1665..1946  blast score 79.9  percent identity 44  U32222 Bacteriophage 186, complete sequence."
+FT                   /label=B132222
+FT                   /score=44
+FT                   /colour=255 142 142
+FT   TBLASTX_HIT      2260..2628
+FT                   /note="match to B132222 2997..3365  blast score 177  percent identity 62  U32222 Bacteriophage 186, complete sequence."
+FT                   /label=B132222
+FT                   /score=62
+FT                   /colour=255 96 96
+FT   TBLASTX_HIT      2159..2884
+FT                   /note="match to B132222 2896..3621  blast score 292  percent identity 56  U32222 Bacteriophage 186, complete sequence."
+FT                   /label=B132222
+FT                   /score=56
+FT                   /colour=255 112 112
+FT   TBLASTX_HIT      2897..3130
+FT                   /note="match to B132222 3634..3867  blast score 54.2  percent identity 40  U32222 Bacteriophage 186, complete sequence."
+FT                   /label=B132222
+FT                   /score=40
+FT                   /colour=255 153 153
+FT   TBLASTX_HIT      2749..2958
+FT                   /note="match to B132222 3486..3695  blast score 64.8  percent identity 46  U32222 Bacteriophage 186, complete sequence."
+FT                   /label=B132222
+FT                   /score=46
+FT                   /colour=255 137 137
+FT   TBLASTX_HIT      1263..3080
+FT                   /note="match to B132222 2000..3817  blast score 1261  percent identity 86  U32222 Bacteriophage 186, complete sequence."
+FT                   /label=B132222
+FT                   /score=86
+FT                   /colour=255 35 35
+FT   TBLASTX_HIT      2981..3139
+FT                   /note="match to B132222 3718..3876  blast score 62.5  percent identity 55  U32222 Bacteriophage 186, complete sequence."
+FT                   /label=B132222
+FT                   /score=55
+FT                   /colour=255 114 114
+FT   TBLASTX_HIT      3152..4021
+FT                   /note="match to B132222 3881..4750  blast score 541  percent identity 78  U32222 Bacteriophage 186, complete sequence."
+FT                   /label=B132222
+FT                   /score=78
+FT                   /colour=255 56 56
+FT   TBLASTX_HIT      3153..3428
+FT                   /note="match to B132222 3882..4157  blast score 130  percent identity 63  U32222 Bacteriophage 186, complete sequence."
+FT                   /label=B132222
+FT                   /score=63
+FT                   /colour=255 94 94
+FT   TBLASTX_HIT      3154..3813
+FT                   /note="match to B132222 3883..4542  blast score 256  percent identity 61  U32222 Bacteriophage 186, complete sequence."
+FT                   /label=B132222
+FT                   /score=61
+FT                   /colour=255 99 99
+FT   TBLASTX_HIT      3246..3422
+FT                   /note="match to B132222 3975..4151  blast score 80.3  percent identity 61  U32222 Bacteriophage 186, complete sequence."
+FT                   /label=B132222
+FT                   /score=61
+FT                   /colour=255 99 99
+FT   TBLASTX_HIT      3486..3686
+FT                   /note="match to B132222 4215..4415  blast score 72.5  percent identity 55  U32222 Bacteriophage 186, complete sequence."
+FT                   /label=B132222
+FT                   /score=55
+FT                   /colour=255 114 114
+FT   TBLASTX_HIT      3152..3943
+FT                   /note="match to B132222 3881..4672  blast score 365  percent identity 58  U32222 Bacteriophage 186, complete sequence."
+FT                   /label=B132222
+FT                   /score=58
+FT                   /colour=255 107 107
+FT   TBLASTX_HIT      3486..3983
+FT                   /note="match to B132222 4215..4712  blast score 182  percent identity 50  U32222 Bacteriophage 186, complete sequence."
+FT                   /label=B132222
+FT                   /score=50
+FT                   /colour=255 127 127
+FT   TBLASTX_HIT      3151..4020
+FT                   /note="match to B132222 3880..4749  blast score 408  percent identity 67  U32222 Bacteriophage 186, complete sequence."
+FT                   /label=B132222
+FT                   /score=67
+FT                   /colour=255 84 84
+FT   TBLASTX_HIT      4068..5126
+FT                   /note="match to B132222 4814..5872  blast score 651  percent identity 76  U32222 Bacteriophage 186, complete sequence."
+FT                   /label=B132222
+FT                   /score=76
+FT                   /colour=255 61 61
+FT   TBLASTX_HIT      4163..4636
+FT                   /note="match to B132222 4909..5382  blast score 144  percent identity 50  U32222 Bacteriophage 186, complete sequence."
+FT                   /label=B132222
+FT                   /score=50
+FT                   /colour=255 127 127
+FT   TBLASTX_HIT      4071..4283
+FT                   /note="match to B132222 4817..5029  blast score 91.8  percent identity 54  U32222 Bacteriophage 186, complete sequence."
+FT                   /label=B132222
+FT                   /score=54
+FT                   /colour=255 117 117
+FT   TBLASTX_HIT      4069..4287
+FT                   /note="match to B132222 4815..5033  blast score 73.0  percent identity 51  U32222 Bacteriophage 186, complete sequence."
+FT                   /label=B132222
+FT                   /score=51
+FT                   /colour=255 124 124
+FT   TBLASTX_HIT      4432..4647
+FT                   /note="match to B132222 5178..5393  blast score 83.5  percent identity 54  U32222 Bacteriophage 186, complete sequence."
+FT                   /label=B132222
+FT                   /score=54
+FT                   /colour=255 117 117
+FT   TBLASTX_HIT      4363..4647
+FT                   /note="match to B132222 5109..5393  blast score 95.5  percent identity 53  U32222 Bacteriophage 186, complete sequence."
+FT                   /label=B132222
+FT                   /score=53
+FT                   /colour=255 119 119
+FT   TBLASTX_HIT      4867..5049
+FT                   /note="match to B132222 5613..5795  blast score 63.4  percent identity 51  U32222 Bacteriophage 186, complete sequence."
+FT                   /label=B132222
+FT                   /score=51
+FT                   /colour=255 124 124
+FT   TBLASTX_HIT      4877..5050
+FT                   /note="match to B132222 5623..5796  blast score 79.9  percent identity 59  U32222 Bacteriophage 186, complete sequence."
+FT                   /label=B132222
+FT                   /score=59
+FT                   /colour=255 104 104
+FT   TBLASTX_HIT      4386..5015
+FT                   /note="match to B132222 5132..5761  blast score 252  percent identity 52  U32222 Bacteriophage 186, complete sequence."
+FT                   /label=B132222
+FT                   /score=52
+FT                   /colour=255 122 122
+FT   TBLASTX_HIT      4678..5079
+FT                   /note="match to B132222 5424..5825  blast score 133  percent identity 49  U32222 Bacteriophage 186, complete sequence."
+FT                   /label=B132222
+FT                   /score=49
+FT                   /colour=255 130 130
+FT   TBLASTX_HIT      4070..5125
+FT                   /note="match to B132222 4816..5871  blast score 434  percent identity 63  U32222 Bacteriophage 186, complete sequence."
+FT                   /label=B132222
+FT                   /score=63
+FT                   /colour=255 94 94
+FT   TBLASTX_HIT      5144..5248
+FT                   /note="match to B132222 5885..5989  blast score 53.3  percent identity 66  U32222 Bacteriophage 186, complete sequence."
+FT                   /label=B132222
+FT                   /score=66
+FT                   /colour=255 86 86
+FT   TBLASTX_HIT      5154..5495
+FT                   /note="match to B132222 5895..6236  blast score 191  percent identity 74  U32222 Bacteriophage 186, complete sequence."
+FT                   /label=B132222
+FT                   /score=74
+FT                   /colour=255 66 66
+FT   TBLASTX_HIT      5167..5505
+FT                   /note="match to B132222 5908..6246  blast score 133  percent identity 54  U32222 Bacteriophage 186, complete sequence."
+FT                   /label=B132222
+FT                   /score=54
+FT                   /colour=255 117 117
+FT   TBLASTX_HIT      5285..5488
+FT                   /note="match to B132222 6026..6229  blast score 65.2  percent identity 51  U32222 Bacteriophage 186, complete sequence."
+FT                   /label=B132222
+FT                   /score=51
+FT                   /colour=255 124 124
+FT   TBLASTX_HIT      5143..5487
+FT                   /note="match to B132222 5884..6228  blast score 113  percent identity 50  U32222 Bacteriophage 186, complete sequence."
+FT                   /label=B132222
+FT                   /score=50
+FT                   /colour=255 127 127
+FT   TBLASTX_HIT      5153..5494
+FT                   /note="match to B132222 5894..6235  blast score 125  percent identity 55  U32222 Bacteriophage 186, complete sequence."
+FT                   /label=B132222
+FT                   /score=55
+FT                   /colour=255 114 114
+FT   TBLASTX_HIT      5157..5495
+FT                   /note="match to B132222 5898..6236  blast score 154  percent identity 59  U32222 Bacteriophage 186, complete sequence."
+FT                   /label=B132222
+FT                   /score=59
+FT                   /colour=255 104 104
+FT   TBLASTX_HIT      5508..5897
+FT                   /note="match to B132222 6243..6632  blast score 89.0  percent identity 36  U32222 Bacteriophage 186, complete sequence."
+FT                   /label=B132222
+FT                   /score=36
+FT                   /colour=255 163 163
+FT   TBLASTX_HIT      5523..5789
+FT                   /note="match to B132222 6258..6524  blast score 62.5  percent identity 40  U32222 Bacteriophage 186, complete sequence."
+FT                   /label=B132222
+FT                   /score=40
+FT                   /colour=255 153 153
+FT   TBLASTX_HIT      5997..6713
+FT                   /note="match to B132222 6734..7450  blast score 337  percent identity 62  U32222 Bacteriophage 186, complete sequence."
+FT                   /label=B132222
+FT                   /score=62
+FT                   /colour=255 96 96
+FT   TBLASTX_HIT      6055..6564
+FT                   /note="match to B132222 6792..7301  blast score 105  percent identity 36  U32222 Bacteriophage 186, complete sequence."
+FT                   /label=B132222
+FT                   /score=36
+FT                   /colour=255 163 163
+FT   TBLASTX_HIT      6067..6441
+FT                   /note="match to B132222 6804..7178  blast score 108  percent identity 43  U32222 Bacteriophage 186, complete sequence."
+FT                   /label=B132222
+FT                   /score=43
+FT                   /colour=255 145 145
+FT   TBLASTX_HIT      6054..6449
+FT                   /note="match to B132222 6791..7186  blast score 108  percent identity 41  U32222 Bacteriophage 186, complete sequence."
+FT                   /label=B132222
+FT                   /score=41
+FT                   /colour=255 150 150
+FT   TBLASTX_HIT      6476..6712
+FT                   /note="match to B132222 7213..7449  blast score 138  percent identity 70  U32222 Bacteriophage 186, complete sequence."
+FT                   /label=B132222
+FT                   /score=70
+FT                   /colour=255 76 76
+FT   TBLASTX_HIT      6706..6978
+FT                   /note="match to B132222 7442..7714  blast score 130  percent identity 63  U32222 Bacteriophage 186, complete sequence."
+FT                   /label=B132222
+FT                   /score=63
+FT                   /colour=255 94 94
+FT   TBLASTX_HIT      5990..6712
+FT                   /note="match to B132222 6727..7449  blast score 275  percent identity 59  U32222 Bacteriophage 186, complete sequence."
+FT                   /label=B132222
+FT                   /score=59
+FT                   /colour=255 104 104
+FT   TBLASTX_HIT      6716..6985
+FT                   /note="match to B132222 7452..7721  blast score 188  percent identity 90  U32222 Bacteriophage 186, complete sequence."
+FT                   /label=B132222
+FT                   /score=90
+FT                   /colour=255 25 25
+FT   TBLASTX_HIT      6717..6965
+FT                   /note="match to B132222 7453..7701  blast score 124  percent identity 64  U32222 Bacteriophage 186, complete sequence."
+FT                   /label=B132222
+FT                   /score=64
+FT                   /colour=255 91 91
+FT   TBLASTX_HIT      6716..6961
+FT                   /note="match to B132222 7452..7697  blast score 136  percent identity 65  U32222 Bacteriophage 186, complete sequence."
+FT                   /label=B132222
+FT                   /score=65
+FT                   /colour=255 89 89
+FT   TBLASTX_HIT      6961..7494
+FT                   /note="match to B132222 7699..8232  blast score 391  percent identity 90  U32222 Bacteriophage 186, complete sequence."
+FT                   /label=B132222
+FT                   /score=90
+FT                   /colour=255 25 25
+FT   TBLASTX_HIT      6705..6977
+FT                   /note="match to B132222 7441..7713  blast score 123  percent identity 62  U32222 Bacteriophage 186, complete sequence."
+FT                   /label=B132222
+FT                   /score=62
+FT                   /colour=255 96 96
+FT   TBLASTX_HIT      6715..6978
+FT                   /note="match to B132222 7451..7714  blast score 173  percent identity 84  U32222 Bacteriophage 186, complete sequence."
+FT                   /label=B132222
+FT                   /score=84
+FT                   /colour=255 40 40
+FT   TBLASTX_HIT      6983..7486
+FT                   /note="match to B132222 7721..8224  blast score 167  percent identity 51  U32222 Bacteriophage 186, complete sequence."
+FT                   /label=B132222
+FT                   /score=51
+FT                   /colour=255 124 124
+FT   TBLASTX_HIT      7020..7511
+FT                   /note="match to B132222 7758..8249  blast score 138  percent identity 45  U32222 Bacteriophage 186, complete sequence."
+FT                   /label=B132222
+FT                   /score=45
+FT                   /colour=255 140 140
+FT   TBLASTX_HIT      6985..7485
+FT                   /note="match to B132222 7723..8223  blast score 189  percent identity 51  U32222 Bacteriophage 186, complete sequence."
+FT                   /label=B132222
+FT                   /score=51
+FT                   /colour=255 124 124
+FT   TBLASTX_HIT      6993..7490
+FT                   /note="match to B132222 7731..8228  blast score 266  percent identity 75  U32222 Bacteriophage 186, complete sequence."
+FT                   /label=B132222
+FT                   /score=75
+FT                   /colour=255 63 63
+FT   TBLASTX_HIT      7019..7507
+FT                   /note="match to B132222 7757..8245  blast score 146  percent identity 49  U32222 Bacteriophage 186, complete sequence."
+FT                   /label=B132222
+FT                   /score=49
+FT                   /colour=255 130 130
+FT   TBLASTX_HIT      7991..8827
+FT                   /note="match to B132222 8286..9122  blast score 286  percent identity 52  U32222 Bacteriophage 186, complete sequence."
+FT                   /label=B132222
+FT                   /score=52
+FT                   /colour=255 122 122
+FT   TBLASTX_HIT      8190..8627
+FT                   /note="match to B132222 8485..8922  blast score 209  percent identity 63  U32222 Bacteriophage 186, complete sequence."
+FT                   /label=B132222
+FT                   /score=63
+FT                   /colour=255 94 94
+FT   TBLASTX_HIT      8377..8925
+FT                   /note="match to B132222 8672..9220  blast score 220  percent identity 56  U32222 Bacteriophage 186, complete sequence."
+FT                   /label=B132222
+FT                   /score=56
+FT                   /colour=255 112 112
+FT   TBLASTX_HIT      8030..8716
+FT                   /note="match to B132222 8325..9011  blast score 206  percent identity 49  U32222 Bacteriophage 186, complete sequence."
+FT                   /label=B132222
+FT                   /score=49
+FT                   /colour=255 130 130
+FT   TBLASTX_HIT      8292..8726
+FT                   /note="match to B132222 8587..9021  blast score 170  percent identity 59  U32222 Bacteriophage 186, complete sequence."
+FT                   /label=B132222
+FT                   /score=59
+FT                   /colour=255 104 104
+FT   TBLASTX_HIT      8182..8835
+FT                   /note="match to B132222 8477..9130  blast score 230  percent identity 51  U32222 Bacteriophage 186, complete sequence."
+FT                   /label=B132222
+FT                   /score=51
+FT                   /colour=255 124 124
+FT   TBLASTX_HIT      8882..9205
+FT                   /note="match to B132222 9177..9500  blast score 143  percent identity 56  U32222 Bacteriophage 186, complete sequence."
+FT                   /label=B132222
+FT                   /score=56
+FT                   /colour=255 112 112
+FT   TBLASTX_HIT      9179..9367
+FT                   /note="match to B132222 9471..9659  blast score 71.6  percent identity 43  U32222 Bacteriophage 186, complete sequence."
+FT                   /label=B132222
+FT                   /score=43
+FT                   /colour=255 145 145
+FT   TBLASTX_HIT      8882..9205
+FT                   /note="match to B132222 9177..9500  blast score 51.9  percent identity 34  U32222 Bacteriophage 186, complete sequence."
+FT                   /label=B132222
+FT                   /score=34
+FT                   /colour=255 168 168
+FT   TBLASTX_HIT      10299..10922
+FT                   /note="match to B132222 9720..10343  blast score 363  percent identity 73  U32222 Bacteriophage 186, complete sequence."
+FT                   /label=B132222
+FT                   /score=73
+FT                   /colour=255 68 68
+FT   TBLASTX_HIT      10418..10879
+FT                   /note="match to B132222 9839..10300  blast score 126  percent identity 44  U32222 Bacteriophage 186, complete sequence."
+FT                   /label=B132222
+FT                   /score=44
+FT                   /colour=255 142 142
+FT   TBLASTX_HIT      10438..10668
+FT                   /note="match to B132222 9859..10089  blast score 64.3  percent identity 47  U32222 Bacteriophage 186, complete sequence."
+FT                   /label=B132222
+FT                   /score=47
+FT                   /colour=255 135 135
+FT   TBLASTX_HIT      10723..10932
+FT                   /note="match to B132222 10144..10353  blast score 80.8  percent identity 53  U32222 Bacteriophage 186, complete sequence."
+FT                   /label=B132222
+FT                   /score=53
+FT                   /colour=255 119 119
+FT   TBLASTX_HIT      10438..10746
+FT                   /note="match to B132222 9859..10167  blast score 95.0  percent identity 47  U32222 Bacteriophage 186, complete sequence."
+FT                   /label=B132222
+FT                   /score=47
+FT                   /colour=255 135 135
+FT   TBLASTX_HIT      10890..11126
+FT                   /note="match to B132222 10317..10553  blast score 53.8  percent identity 42  U32222 Bacteriophage 186, complete sequence."
+FT                   /label=B132222
+FT                   /score=42
+FT                   /colour=255 147 147
+FT   TBLASTX_HIT      10295..10921
+FT                   /note="match to B132222 9716..10342  blast score 274  percent identity 61  U32222 Bacteriophage 186, complete sequence."
+FT                   /label=B132222
+FT                   /score=61
+FT                   /colour=255 99 99
+FT   TBLASTX_HIT      10437..10931
+FT                   /note="match to B132222 9858..10352  blast score 175  percent identity 48  U32222 Bacteriophage 186, complete sequence."
+FT                   /label=B132222
+FT                   /score=48
+FT                   /colour=255 132 132
+FT   TBLASTX_HIT      10940..11287
+FT                   /note="match to B132222 10367..10714  blast score 168  percent identity 60  U32222 Bacteriophage 186, complete sequence."
+FT                   /label=B132222
+FT                   /score=60
+FT                   /colour=255 102 102
+FT   TBLASTX_HIT      10940..11128
+FT                   /note="match to B132222 10367..10555  blast score 73.9  percent identity 49  U32222 Bacteriophage 186, complete sequence."
+FT                   /label=B132222
+FT                   /score=49
+FT                   /colour=255 130 130
+FT   TBLASTX_HIT      10939..11283
+FT                   /note="match to B132222 10366..10710  blast score 123  percent identity 55  U32222 Bacteriophage 186, complete sequence."
+FT                   /label=B132222
+FT                   /score=55
+FT                   /colour=255 114 114
+FT   TBLASTX_HIT      11289..13484
+FT                   /note="match to B132222 10718..12913  blast score 962  percent identity 62  U32222 Bacteriophage 186, complete sequence."
+FT                   /label=B132222
+FT                   /score=62
+FT                   /colour=255 96 96
+FT   TBLASTX_HIT      11296..11556
+FT                   /note="match to B132222 10725..10985  blast score 74.8  percent identity 44  U32222 Bacteriophage 186, complete sequence."
+FT                   /label=B132222
+FT                   /score=44
+FT                   /colour=255 142 142
+FT   TBLASTX_HIT      11306..11821
+FT                   /note="match to B132222 10735..11250  blast score 138  percent identity 45  U32222 Bacteriophage 186, complete sequence."
+FT                   /label=B132222
+FT                   /score=45
+FT                   /colour=255 140 140
+FT   TBLASTX_HIT      11611..13143
+FT                   /note="match to B132222 11040..12572  blast score 634  percent identity 58  U32222 Bacteriophage 186, complete sequence."
+FT                   /label=B132222
+FT                   /score=58
+FT                   /colour=255 107 107
+FT   TBLASTX_HIT      11292..11750
+FT                   /note="match to B132222 10721..11179  blast score 112  percent identity 40  U32222 Bacteriophage 186, complete sequence."
+FT                   /label=B132222
+FT                   /score=40
+FT                   /colour=255 153 153
+FT   TBLASTX_HIT      11302..11826
+FT                   /note="match to B132222 10731..11255  blast score 140  percent identity 43  U32222 Bacteriophage 186, complete sequence."
+FT                   /label=B132222
+FT                   /score=43
+FT                   /colour=255 145 145
+FT   TBLASTX_HIT      12146..13486
+FT                   /note="match to B132222 11575..12915  blast score 646  percent identity 66  U32222 Bacteriophage 186, complete sequence."
+FT                   /label=B132222
+FT                   /score=66
+FT                   /colour=255 86 86
+FT   TBLASTX_HIT      11929..12237
+FT                   /note="match to B132222 11358..11666  blast score 78.0  percent identity 47  U32222 Bacteriophage 186, complete sequence."
+FT                   /label=B132222
+FT                   /score=47
+FT                   /colour=255 135 135
+FT   TBLASTX_HIT      11805..12566
+FT                   /note="match to B132222 11234..11995  blast score 302  percent identity 57  U32222 Bacteriophage 186, complete sequence."
+FT                   /label=B132222
+FT                   /score=57
+FT                   /colour=255 109 109
+FT   TBLASTX_HIT      11288..12670
+FT                   /note="match to B132222 10717..12099  blast score 476  percent identity 54  U32222 Bacteriophage 186, complete sequence."
+FT                   /label=B132222
+FT                   /score=54
+FT                   /colour=255 117 117
+FT   TBLASTX_HIT      12633..12767
+FT                   /note="match to B132222 12062..12196  blast score 71.6  percent identity 73  U32222 Bacteriophage 186, complete sequence."
+FT                   /label=B132222
+FT                   /score=73
+FT                   /colour=255 68 68
+FT   TBLASTX_HIT      12719..13102
+FT                   /note="match to B132222 12148..12531  blast score 151  percent identity 48  U32222 Bacteriophage 186, complete sequence."
+FT                   /label=B132222
+FT                   /score=48
+FT                   /colour=255 132 132
+FT   TBLASTX_HIT      13192..13479
+FT                   /note="match to B132222 12621..12908  blast score 66.1  percent identity 46  U32222 Bacteriophage 186, complete sequence."
+FT                   /label=B132222
+FT                   /score=46
+FT                   /colour=255 137 137
+FT   TBLASTX_HIT      13235..13354
+FT                   /note="match to B132222 12796..12915  blast score 53.8  percent identity 62  U32222 Bacteriophage 186, complete sequence."
+FT                   /label=B132222
+FT                   /score=62
+FT                   /colour=255 96 96
+FT   TBLASTX_HIT      13367..13486
+FT                   /note="match to B132222 12664..12783  blast score 57.0  percent identity 65  U32222 Bacteriophage 186, complete sequence."
+FT                   /label=B132222
+FT                   /score=65
+FT                   /colour=255 89 89
+FT   TBLASTX_HIT      12996..13418
+FT                   /note="match to B132222 12425..12847  blast score 115  percent identity 49  U32222 Bacteriophage 186, complete sequence."
+FT                   /label=B132222
+FT                   /score=49
+FT                   /colour=255 130 130
+FT   TBLASTX_HIT      12295..13479
+FT                   /note="match to B132222 11724..12908  blast score 521  percent identity 61  U32222 Bacteriophage 186, complete sequence."
+FT                   /label=B132222
+FT                   /score=61
+FT                   /colour=255 99 99
+FT   TBLASTX_HIT      13151..13480
+FT                   /note="match to B132222 12580..12909  blast score 108  percent identity 47  U32222 Bacteriophage 186, complete sequence."
+FT                   /label=B132222
+FT                   /score=47
+FT                   /colour=255 135 135
+FT   TBLASTX_HIT      13859..13975
+FT                   /note="match to B132222 12964..13080  blast score 50.1  percent identity 49  U32222 Bacteriophage 186, complete sequence."
+FT                   /label=B132222
+FT                   /score=49
+FT                   /colour=255 130 130
+FT   TBLASTX_HIT      15011..15235
+FT                   /note="match to B132222 13794..14018  blast score 76.2  percent identity 51  U32222 Bacteriophage 186, complete sequence."
+FT                   /label=B132222
+FT                   /score=51
+FT                   /colour=255 124 124
+FT   TBLASTX_HIT      17614..17949
+FT                   /note="match to B132222 14145..14480  blast score 111  percent identity 49  U32222 Bacteriophage 186, complete sequence."
+FT                   /label=B132222
+FT                   /score=49
+FT                   /colour=255 130 130
+FT   TBLASTX_HIT      17618..17884
+FT                   /note="match to B132222 14149..14415  blast score 89.5  percent identity 49  U32222 Bacteriophage 186, complete sequence."
+FT                   /label=B132222
+FT                   /score=49
+FT                   /colour=255 130 130
+FT   TBLASTX_HIT      17622..17957
+FT                   /note="match to B132222 14153..14488  blast score 210  percent identity 79  U32222 Bacteriophage 186, complete sequence."
+FT                   /label=B132222
+FT                   /score=79
+FT                   /colour=255 53 53
+FT   TBLASTX_HIT      17866..18168
+FT                   /note="match to B132222 14388..14690  blast score 80.3  percent identity 42  U32222 Bacteriophage 186, complete sequence."
+FT                   /label=B132222
+FT                   /score=42
+FT                   /colour=255 147 147
+FT   TBLASTX_HIT      17707..17907
+FT                   /note="match to B132222 14238..14438  blast score 79.4  percent identity 55  U32222 Bacteriophage 186, complete sequence."
+FT                   /label=B132222
+FT                   /score=55
+FT                   /colour=255 114 114
+FT   TBLASTX_HIT      17618..17908
+FT                   /note="match to B132222 14149..14439  blast score 166  percent identity 78  U32222 Bacteriophage 186, complete sequence."
+FT                   /label=B132222
+FT                   /score=78
+FT                   /colour=255 56 56
+FT   TBLASTX_HIT      17946..18836
+FT                   /note="match to B132222 14468..15358  blast score 596  percent identity 82  U32222 Bacteriophage 186, complete sequence."
+FT                   /label=B132222
+FT                   /score=82
+FT                   /colour=255 45 45
+FT   TBLASTX_HIT      17649..17948
+FT                   /note="match to B132222 14180..14479  blast score 112  percent identity 51  U32222 Bacteriophage 186, complete sequence."
+FT                   /label=B132222
+FT                   /score=51
+FT                   /colour=255 124 124
+FT   TBLASTX_HIT      18029..18274
+FT                   /note="match to B132222 14551..14796  blast score 101  percent identity 56  U32222 Bacteriophage 186, complete sequence."
+FT                   /label=B132222
+FT                   /score=56
+FT                   /colour=255 112 112
+FT   TBLASTX_HIT      17897..18226
+FT                   /note="match to B132222 14419..14748  blast score 127  percent identity 57  U32222 Bacteriophage 186, complete sequence."
+FT                   /label=B132222
+FT                   /score=57
+FT                   /colour=255 109 109
+FT   TBLASTX_HIT      17946..18239
+FT                   /note="match to B132222 14468..14761  blast score 129  percent identity 56  U32222 Bacteriophage 186, complete sequence."
+FT                   /label=B132222
+FT                   /score=56
+FT                   /colour=255 112 112
+FT   TBLASTX_HIT      17896..18273
+FT                   /note="match to B132222 14418..14795  blast score 104  percent identity 49  U32222 Bacteriophage 186, complete sequence."
+FT                   /label=B132222
+FT                   /score=49
+FT                   /colour=255 130 130
+FT   TBLASTX_HIT      18292..19224
+FT                   /note="match to B132222 14814..15746  blast score 325  percent identity 55  U32222 Bacteriophage 186, complete sequence."
+FT                   /label=B132222
+FT                   /score=55
+FT                   /colour=255 114 114
+FT   TBLASTX_HIT      18359..18520
+FT                   /note="match to B132222 14881..15042  blast score 55.6  percent identity 46  U32222 Bacteriophage 186, complete sequence."
+FT                   /label=B132222
+FT                   /score=46
+FT                   /colour=255 137 137
+FT   TBLASTX_HIT      18611..18973
+FT                   /note="match to B132222 15133..15495  blast score 140  percent identity 57  U32222 Bacteriophage 186, complete sequence."
+FT                   /label=B132222
+FT                   /score=57
+FT                   /colour=255 109 109
+FT   TBLASTX_HIT      18302..18835
+FT                   /note="match to B132222 14824..15357  blast score 326  percent identity 83  U32222 Bacteriophage 186, complete sequence."
+FT                   /label=B132222
+FT                   /score=83
+FT                   /colour=255 43 43
+FT   TBLASTX_HIT      18855..19370
+FT                   /note="match to B132222 15377..15892  blast score 323  percent identity 74  U32222 Bacteriophage 186, complete sequence."
+FT                   /label=B132222
+FT                   /score=74
+FT                   /colour=255 66 66
+FT   TBLASTX_HIT      18328..19134
+FT                   /note="match to B132222 14850..15656  blast score 302  percent identity 56  U32222 Bacteriophage 186, complete sequence."
+FT                   /label=B132222
+FT                   /score=56
+FT                   /colour=255 112 112
+FT   TBLASTX_HIT      18854..19186
+FT                   /note="match to B132222 15376..15708  blast score 104  percent identity 51  U32222 Bacteriophage 186, complete sequence."
+FT                   /label=B132222
+FT                   /score=51
+FT                   /colour=255 124 124
+FT   TBLASTX_HIT      19250..19375
+FT                   /note="match to B132222 15772..15897  blast score 46.0  percent identity 50  U32222 Bacteriophage 186, complete sequence."
+FT                   /label=B132222
+FT                   /score=50
+FT                   /colour=255 127 127
+FT   TBLASTX_HIT      19252..19371
+FT                   /note="match to B132222 15774..15893  blast score 46.0  percent identity 57  U32222 Bacteriophage 186, complete sequence."
+FT                   /label=B132222
+FT                   /score=57
+FT                   /colour=255 109 109
+FT   TBLASTX_HIT      19174..19365
+FT                   /note="match to B132222 15696..15887  blast score 65.7  percent identity 48  U32222 Bacteriophage 186, complete sequence."
+FT                   /label=B132222
+FT                   /score=48
+FT                   /colour=255 132 132
+FT   TBLASTX_HIT      19241..19366
+FT                   /note="match to B132222 15763..15888  blast score 47.8  percent identity 52  U32222 Bacteriophage 186, complete sequence."
+FT                   /label=B132222
+FT                   /score=52
+FT                   /colour=255 122 122
+FT   TBLASTX_HIT      18285..19370
+FT                   /note="match to B132222 14807..15892  blast score 461  percent identity 56  U32222 Bacteriophage 186, complete sequence."
+FT                   /label=B132222
+FT                   /score=56
+FT                   /colour=255 112 112
+FT   TBLASTX_HIT      19442..20410
+FT                   /note="match to B132222 16032..17000  blast score 507  percent identity 70  U32222 Bacteriophage 186, complete sequence."
+FT                   /label=B132222
+FT                   /score=70
+FT                   /colour=255 76 76
+FT   TBLASTX_HIT      19530..20216
+FT                   /note="match to B132222 16120..16806  blast score 197  percent identity 45  U32222 Bacteriophage 186, complete sequence."
+FT                   /label=B132222
+FT                   /score=45
+FT                   /colour=255 140 140
+FT   TBLASTX_HIT      19678..19884
+FT                   /note="match to B132222 16268..16474  blast score 117  percent identity 71  U32222 Bacteriophage 186, complete sequence."
+FT                   /label=B132222
+FT                   /score=71
+FT                   /colour=255 73 73
+FT   TBLASTX_HIT      20238..20426
+FT                   /note="match to B132222 16828..17016  blast score 47.8  percent identity 43  U32222 Bacteriophage 186, complete sequence."
+FT                   /label=B132222
+FT                   /score=43
+FT                   /colour=255 145 145
+FT   TBLASTX_HIT      19656..20294
+FT                   /note="match to B132222 16246..16884  blast score 172  percent identity 45  U32222 Bacteriophage 186, complete sequence."
+FT                   /label=B132222
+FT                   /score=45
+FT                   /colour=255 140 140
+FT   TBLASTX_HIT      19417..20397
+FT                   /note="match to B132222 16007..16987  blast score 403  percent identity 61  U32222 Bacteriophage 186, complete sequence."
+FT                   /label=B132222
+FT                   /score=61
+FT                   /colour=255 99 99
+FT   TBLASTX_HIT      19442..20425
+FT                   /note="match to B132222 16032..17015  blast score 295  percent identity 46  U32222 Bacteriophage 186, complete sequence."
+FT                   /label=B132222
+FT                   /score=46
+FT                   /colour=255 137 137
+FT   TBLASTX_HIT      20442..20594
+FT                   /note="match to B132222 17029..17181  blast score 56.5  percent identity 55  U32222 Bacteriophage 186, complete sequence."
+FT                   /label=B132222
+FT                   /score=55
+FT                   /colour=255 114 114
+FT   TBLASTX_HIT      20468..21445
+FT                   /note="match to B132222 17055..18032  blast score 581  percent identity 78  U32222 Bacteriophage 186, complete sequence."
+FT                   /label=B132222
+FT                   /score=78
+FT                   /colour=255 56 56
+FT   TBLASTX_HIT      20473..21618
+FT                   /note="match to B132222 17060..18205  blast score 342  percent identity 47  U32222 Bacteriophage 186, complete sequence."
+FT                   /label=B132222
+FT                   /score=47
+FT                   /colour=255 135 135
+FT   TBLASTX_HIT      20715..21176
+FT                   /note="match to B132222 17302..17763  blast score 173  percent identity 56  U32222 Bacteriophage 186, complete sequence."
+FT                   /label=B132222
+FT                   /score=56
+FT                   /colour=255 112 112
+FT   TBLASTX_HIT      20441..21166
+FT                   /note="match to B132222 17028..17753  blast score 255  percent identity 51  U32222 Bacteriophage 186, complete sequence."
+FT                   /label=B132222
+FT                   /score=51
+FT                   /colour=255 124 124
+FT   TBLASTX_HIT      20451..21179
+FT                   /note="match to B132222 17038..17766  blast score 255  percent identity 53  U32222 Bacteriophage 186, complete sequence."
+FT                   /label=B132222
+FT                   /score=53
+FT                   /colour=255 119 119
+FT   TBLASTX_HIT      21228..21713
+FT                   /note="match to B132222 17815..18300  blast score 140  percent identity 50  U32222 Bacteriophage 186, complete sequence."
+FT                   /label=B132222
+FT                   /score=50
+FT                   /colour=255 127 127
+FT   TBLASTX_HIT      20467..21444
+FT                   /note="match to B132222 17054..18031  blast score 525  percent identity 74  U32222 Bacteriophage 186, complete sequence."
+FT                   /label=B132222
+FT                   /score=74
+FT                   /colour=255 66 66
+FT   TBLASTX_HIT      21237..21554
+FT                   /note="match to B132222 17824..18141  blast score 93.6  percent identity 50  U32222 Bacteriophage 186, complete sequence."
+FT                   /label=B132222
+FT                   /score=50
+FT                   /colour=255 127 127
+FT   TBLASTX_HIT      21602..22063
+FT                   /note="match to B132222 18189..18650  blast score 268  percent identity 68  U32222 Bacteriophage 186, complete sequence."
+FT                   /label=B132222
+FT                   /score=68
+FT                   /colour=255 81 81
+FT   TBLASTX_HIT      21750..22064
+FT                   /note="match to B132222 18337..18651  blast score 94.5  percent identity 50  U32222 Bacteriophage 186, complete sequence."
+FT                   /label=B132222
+FT                   /score=50
+FT                   /colour=255 127 127
+FT   TBLASTX_HIT      21910..22056
+FT                   /note="match to B132222 18497..18643  blast score 47.8  percent identity 49  U32222 Bacteriophage 186, complete sequence."
+FT                   /label=B132222
+FT                   /score=49
+FT                   /colour=255 130 130
+FT   TBLASTX_HIT      21517..21996
+FT                   /note="match to B132222 18104..18583  blast score 182  percent identity 56  U32222 Bacteriophage 186, complete sequence."
+FT                   /label=B132222
+FT                   /score=56
+FT                   /colour=255 112 112
+FT   TBLASTX_HIT      21233..22063
+FT                   /note="match to B132222 17820..18650  blast score 270  percent identity 47  U32222 Bacteriophage 186, complete sequence."
+FT                   /label=B132222
+FT                   /score=47
+FT                   /colour=255 135 135
+FT   TBLASTX_HIT      21789..22064
+FT                   /note="match to B132222 18376..18651  blast score 87.2  percent identity 47  U32222 Bacteriophage 186, complete sequence."
+FT                   /label=B132222
+FT                   /score=47
+FT                   /colour=255 135 135
+FT   TBLASTX_HIT      22072..22284
+FT                   /note="match to B132222 18656..18868  blast score 57.0  percent identity 45  U32222 Bacteriophage 186, complete sequence."
+FT                   /label=B132222
+FT                   /score=45
+FT                   /colour=255 140 140
+FT   TBLASTX_HIT      22073..22291
+FT                   /note="match to B132222 18657..18875  blast score 141  percent identity 78  U32222 Bacteriophage 186, complete sequence."
+FT                   /label=B132222
+FT                   /score=78
+FT                   /colour=255 56 56
+FT   TBLASTX_HIT      22080..22292
+FT                   /note="match to B132222 18664..18876  blast score 68.4  percent identity 54  U32222 Bacteriophage 186, complete sequence."
+FT                   /label=B132222
+FT                   /score=54
+FT                   /colour=255 117 117
+FT   TBLASTX_HIT      22072..22215
+FT                   /note="match to B132222 18656..18799  blast score 65.7  percent identity 71  U32222 Bacteriophage 186, complete sequence."
+FT                   /label=B132222
+FT                   /score=71
+FT                   /colour=255 73 73
+FT   TBLASTX_HIT      22080..22289
+FT                   /note="match to B132222 18664..18873  blast score 66.6  percent identity 50  U32222 Bacteriophage 186, complete sequence."
+FT                   /label=B132222
+FT                   /score=50
+FT                   /colour=255 127 127
+FT   TBLASTX_HIT      22073..22297
+FT                   /note="match to B132222 18657..18881  blast score 92.7  percent identity 56  U32222 Bacteriophage 186, complete sequence."
+FT                   /label=B132222
+FT                   /score=56
+FT                   /colour=255 112 112
+FT   TBLASTX_HIT      22312..22782
+FT                   /note="match to B132222 18891..19361  blast score 232  percent identity 59  U32222 Bacteriophage 186, complete sequence."
+FT                   /label=B132222
+FT                   /score=59
+FT                   /colour=255 104 104
+FT   TBLASTX_HIT      22311..22469
+FT                   /note="match to B132222 18890..19048  blast score 52.8  percent identity 55  U32222 Bacteriophage 186, complete sequence."
+FT                   /label=B132222
+FT                   /score=55
+FT                   /colour=255 114 114
+FT   TBLASTX_HIT      22545..22748
+FT                   /note="match to B132222 19124..19327  blast score 60.2  percent identity 47  U32222 Bacteriophage 186, complete sequence."
+FT                   /label=B132222
+FT                   /score=47
+FT                   /colour=255 135 135
+FT   TBLASTX_HIT      22791..23492
+FT                   /note="match to B132222 19373..20074  blast score 420  percent identity 74  U32222 Bacteriophage 186, complete sequence."
+FT                   /label=B132222
+FT                   /score=74
+FT                   /colour=255 66 66
+FT   TBLASTX_HIT      22834..23157
+FT                   /note="match to B132222 19416..19739  blast score 72.1  percent identity 46  U32222 Bacteriophage 186, complete sequence."
+FT                   /label=B132222
+FT                   /score=46
+FT                   /colour=255 137 137
+FT   TBLASTX_HIT      23216..23590
+FT                   /note="match to B132222 19798..20172  blast score 145  percent identity 54  U32222 Bacteriophage 186, complete sequence."
+FT                   /label=B132222
+FT                   /score=54
+FT                   /colour=255 117 117
+FT   TBLASTX_HIT      22779..23483
+FT                   /note="match to B132222 19361..20065  blast score 183  percent identity 40  U32222 Bacteriophage 186, complete sequence."
+FT                   /label=B132222
+FT                   /score=40
+FT                   /colour=255 153 153
+FT   TBLASTX_HIT      22886..23494
+FT                   /note="match to B132222 19468..20076  blast score 288  percent identity 67  U32222 Bacteriophage 186, complete sequence."
+FT                   /label=B132222
+FT                   /score=67
+FT                   /colour=255 84 84
+FT   TBLASTX_HIT      23215..23559
+FT                   /note="match to B132222 19797..20141  blast score 116  percent identity 53  U32222 Bacteriophage 186, complete sequence."
+FT                   /label=B132222
+FT                   /score=53
+FT                   /colour=255 119 119
+FT   TBLASTX_HIT      23589..23951
+FT                   /note="match to B132222 20174..20536  blast score 204  percent identity 71  U32222 Bacteriophage 186, complete sequence."
+FT                   /label=B132222
+FT                   /score=71
+FT                   /colour=255 73 73
+FT   TBLASTX_HIT      23615..23935
+FT                   /note="match to B132222 20200..20520  blast score 95.5  percent identity 53  U32222 Bacteriophage 186, complete sequence."
+FT                   /label=B132222
+FT                   /score=53
+FT                   /colour=255 119 119
+FT   TBLASTX_HIT      23701..23949
+FT                   /note="match to B132222 20286..20534  blast score 91.8  percent identity 58  U32222 Bacteriophage 186, complete sequence."
+FT                   /label=B132222
+FT                   /score=58
+FT                   /colour=255 107 107
+FT   TBLASTX_HIT      23588..23899
+FT                   /note="match to B132222 20173..20484  blast score 134  percent identity 65  U32222 Bacteriophage 186, complete sequence."
+FT                   /label=B132222
+FT                   /score=65
+FT                   /colour=255 89 89
+FT   TBLASTX_HIT      23634..23951
+FT                   /note="match to B132222 20219..20536  blast score 126  percent identity 57  U32222 Bacteriophage 186, complete sequence."
+FT                   /label=B132222
+FT                   /score=57
+FT                   /colour=255 109 109
+FT   TBLASTX_HIT      23629..23955
+FT                   /note="match to B132222 20214..20540  blast score 96.4  percent identity 51  U32222 Bacteriophage 186, complete sequence."
+FT                   /label=B132222
+FT                   /score=51
+FT                   /colour=255 124 124
+FT   TBLASTX_HIT      24036..24254
+FT                   /note="match to B132222 20609..20827  blast score 133  percent identity 63  U32222 Bacteriophage 186, complete sequence."
+FT                   /label=B132222
+FT                   /score=63
+FT                   /colour=255 94 94
+FT   TBLASTX_HIT      24036..24221
+FT                   /note="match to B132222 20609..20794  blast score 61.6  percent identity 47  U32222 Bacteriophage 186, complete sequence."
+FT                   /label=B132222
+FT                   /score=47
+FT                   /colour=255 135 135
+FT   TBLASTX_HIT      23990..24232
+FT                   /note="match to B132222 20563..20805  blast score 75.3  percent identity 51  U32222 Bacteriophage 186, complete sequence."
+FT                   /label=B132222
+FT                   /score=51
+FT                   /colour=255 124 124
+FT   TBLASTX_HIT      24517..24696
+FT                   /note="match to B132222 21451..21630  blast score 56.1  percent identity 48  U32222 Bacteriophage 186, complete sequence."
+FT                   /label=B132222
+FT                   /score=48
+FT                   /colour=255 132 132
+FT   TBLASTX_HIT      24513..24734
+FT                   /note="match to B132222 21447..21668  blast score 116  percent identity 59  U32222 Bacteriophage 186, complete sequence."
+FT                   /label=B132222
+FT                   /score=59
+FT                   /colour=255 104 104
+FT   TBLASTX_HIT      24741..24938
+FT                   /note="match to B132222 21672..21869  blast score 69.3  percent identity 41  U32222 Bacteriophage 186, complete sequence."
+FT                   /label=B132222
+FT                   /score=41
+FT                   /colour=255 150 150
+FT   TBLASTX_HIT      25326..25484
+FT                   /note="match to B132222 22284..22442  blast score 56.5  percent identity 45  U32222 Bacteriophage 186, complete sequence."
+FT                   /label=B132222
+FT                   /score=45
+FT                   /colour=255 140 140
+FT   TBLASTX_HIT      27538..27756
+FT                   /note="match to B132222 24656..24874  blast score 46.9  percent identity 40  U32222 Bacteriophage 186, complete sequence."
+FT                   /label=B132222
+FT                   /score=40
+FT                   /colour=255 153 153
+FT   TBLASTX_HIT      27769..28056
+FT                   /note="match to B132222 25471..25758  blast score 121  percent identity 51  U32222 Bacteriophage 186, complete sequence."
+FT                   /label=B132222
+FT                   /score=51
+FT                   /colour=255 124 124
+FT   TBLASTX_HIT      27766..27948
+FT                   /note="match to B132222 25468..25650  blast score 51.9  percent identity 38  U32222 Bacteriophage 186, complete sequence."
+FT                   /label=B132222
+FT                   /score=38
+FT                   /colour=255 158 158
+FT   TBLASTX_HIT      27768..28022
+FT                   /note="match to B132222 25470..25724  blast score 75.8  percent identity 51  U32222 Bacteriophage 186, complete sequence."
+FT                   /label=B132222
+FT                   /score=51
+FT                   /colour=255 124 124
+FT   TBLASTX_HIT      28592..28867
+FT                   /note="match to B132222 27293..27568  blast score 88.1  percent identity 39  U32222 Bacteriophage 186, complete sequence."
+FT                   /label=B132222
+FT                   /score=39
+FT                   /colour=255 155 155
+FT   TBLASTX_HIT      28865..29065
+FT                   /note="match to B132222 27563..27763  blast score 78.5  percent identity 55  U32222 Bacteriophage 186, complete sequence."
+FT                   /label=B132222
+FT                   /score=55
+FT                   /colour=255 114 114
+FT   TBLASTX_HIT      29105..29311
+FT                   /note="match to B132222 27776..27982  blast score 89.5  percent identity 43  U32222 Bacteriophage 186, complete sequence."
+FT                   /label=B132222
+FT                   /score=43
+FT                   /colour=255 145 145
+FT   TBLASTX_HIT      29104..29238
+FT                   /note="match to B132222 27775..27909  blast score 46.9  percent identity 53  U32222 Bacteriophage 186, complete sequence."
+FT                   /label=B132222
+FT                   /score=53
+FT                   /colour=255 119 119
+FT   TBLASTX_HIT      29315..29569
+FT                   /note="match to B132222 28001..28255  blast score 81.7  percent identity 42  U32222 Bacteriophage 186, complete sequence."
+FT                   /label=B132222
+FT                   /score=42
+FT                   /colour=255 147 147
+FT   TBLASTX_HIT      29303..29563
+FT                   /note="match to B132222 27989..28249  blast score 64.8  percent identity 40  U32222 Bacteriophage 186, complete sequence."
+FT                   /label=B132222
+FT                   /score=40
+FT                   /colour=255 153 153
+FT   TBLASTX_HIT      29654..29911
+FT                   /note="match to B132222 28337..28594  blast score 62.0  percent identity 37  U32222 Bacteriophage 186, complete sequence."
+FT                   /label=B132222
+FT                   /score=37
+FT                   /colour=255 160 160

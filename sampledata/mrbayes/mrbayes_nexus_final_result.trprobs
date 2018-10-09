@@ -1,0 +1,31 @@
+#NEXUS
+
+[ID: 7486971749]
+[This file contains the trees that were found during the MCMC
+search, sorted by posterior probability. "p" indicates the
+posterior probability of the tree whereas "P" indicates the
+cumulative posterior probability.]
+
+begin trees;
+   translate
+    1 DRERSOX9A,
+    2 CAURSOX9A,
+    3 OMYKSOX9,
+    4 OLATSOX9B,
+    5 TNIGUnk,
+    6 XTRPSOX9,
+    7 RRUGSOX9A,
+    8 DRERSOX9B,
+    9 CCARSOX9B,
+   10 CAURSOX9B,
+   11 TNIGUnm,
+   12 ASTUSOX9,
+   13 HSAPSOX9;
+   tree tree_1 [p = 0.545, P = 0.545] = [&W 0.544546] (1,2,(5,((3,((9,(8,10)),(4,11))),(12,(13,(6,7))))));
+   tree tree_2 [p = 0.229, P = 0.774] = [&W 0.229298] (1,2,(5,((9,(8,10)),((12,(13,(6,7))),(3,(4,11))))));
+   tree tree_3 [p = 0.206, P = 0.980] = [&W 0.206453] (1,2,((5,(9,(8,10))),((12,(13,(6,7))),(3,(4,11)))));
+   tree tree_4 [p = 0.013, P = 0.993] = [&W 0.012564] (1,2,(5,((9,(8,10)),(3,((12,(13,(6,7))),(4,11))))));
+   tree tree_5 [p = 0.003, P = 0.995] = [&W 0.002570] (1,2,(5,(((3,(9,(8,10))),(4,11)),(12,(13,(6,7))))));
+   tree tree_6 [p = 0.002, P = 0.998] = [&W 0.002284] (1,2,(5,(((9,(8,10)),(3,(4,11))),(12,(13,(6,7))))));
+   tree tree_7 [p = 0.002, P = 1.000] = [&W 0.002284] (1,2,(5,((9,(8,10)),((3,(12,(13,(6,7)))),(4,11)))));
+end;

@@ -1,0 +1,1046 @@
+
+fastDNAml, version 1.2.2, January 3, 2000,
+Copyright (C) 1998, 1999, 2000 by Gary J. Olsen
+
+Based in part on Joseph Felsenstein's
+
+   Nucleic acid sequence Maximum Likelihood method, version 3.3
+
+
+74 Species, 529 Sites
+
+Quick add (only local branches initially optimized) in effect
+
+Rearrangements of partial trees may cross 1 branch.
+Rearrangements of full tree may cross 1 branch.
+
+Total weight of positions in analysis = 529
+There are 197 distinct data patterns (columns)
+
+Empirical Base Frequencies:
+
+   A       0.23287
+   C       0.31498
+   G       0.23860
+  T(U)     0.21355
+
+Transition/transversion ratio =   2.000000
+
+(Transition/transversion parameter =   1.532110)
+
+Adding species:
+   woking
+   maples
+   logiejan00
+   sera71
+      Tested 3 alternative trees
+      Ln Likelihood =    -780.42392
+   bovey
+      Tested 5 alternative trees
+      Ln Likelihood =    -780.42455
+      Doing local rearrangements
+      Tested 4 alternative trees
+   bridgewate
+      Tested 7 alternative trees
+      Ln Likelihood =    -791.24994
+      Doing local rearrangements
+      Tested 6 alternative trees
+   pennycombe
+      Tested 9 alternative trees
+      Ln Likelihood =    -845.02628
+      Doing local rearrangements
+      Tested 8 alternative trees
+   skomerbone
+      Tested 11 alternative trees
+      Ln Likelihood =    -848.18560
+      Doing local rearrangements
+      Tested 10 alternative trees
+   dornock1
+      Tested 13 alternative trees
+      Ln Likelihood =    -858.88460
+      Doing local rearrangements
+      Tested 12 alternative trees
+   srm132
+      Tested 15 alternative trees
+      Ln Likelihood =    -870.58831
+      Doing local rearrangements
+      Tested 14 alternative trees
+   srm134
+      Tested 17 alternative trees
+      Ln Likelihood =    -870.58893
+      Doing local rearrangements
+      Tested 16 alternative trees
+   hornoak
+      Tested 19 alternative trees
+      Ln Likelihood =    -870.60023
+      Doing local rearrangements
+      Tested 18 alternative trees
+   whitelands
+      Tested 21 alternative trees
+      Ln Likelihood =    -870.60085
+      Doing local rearrangements
+      Tested 20 alternative trees
+   mellowmay9
+      Tested 23 alternative trees
+      Ln Likelihood =    -870.60147
+      Doing local rearrangements
+      Tested 22 alternative trees
+   logieoct99
+      Tested 25 alternative trees
+      Ln Likelihood =    -870.60210
+      Doing local rearrangements
+      Tested 24 alternative trees
+      Ln Likelihood =    -870.60210
+      Tested 24 alternative trees
+      Ln Likelihood =    -870.60210
+      Tested 24 alternative trees
+   exminsters
+      Tested 27 alternative trees
+      Ln Likelihood =    -870.60272
+      Doing local rearrangements
+      Tested 26 alternative trees
+   logiesept9
+      Tested 29 alternative trees
+      Ln Likelihood =    -879.42820
+      Doing local rearrangements
+      Tested 28 alternative trees
+      Tested 28 alternative trees
+      Ln Likelihood =    -879.42820
+      Tested 28 alternative trees
+   mellowoct9
+      Tested 31 alternative trees
+      Ln Likelihood =    -886.89398
+      Doing local rearrangements
+      Tested 30 alternative trees
+      Ln Likelihood =    -886.89398
+      Tested 30 alternative trees
+      Ln Likelihood =    -886.89398
+      Tested 30 alternative trees
+      Ln Likelihood =    -886.89398
+      Tested 30 alternative trees
+      Tested 30 alternative trees
+      Ln Likelihood =    -886.89398
+      Tested 30 alternative trees
+   mellowsept
+      Tested 33 alternative trees
+      Ln Likelihood =    -894.35949
+      Doing local rearrangements
+      Tested 32 alternative trees
+      Tested 32 alternative trees
+   winchester
+      Tested 35 alternative trees
+      Ln Likelihood =    -902.04090
+      Doing local rearrangements
+      Tested 34 alternative trees
+      Ln Likelihood =    -902.04090
+      Tested 34 alternative trees
+   logienov99
+      Tested 37 alternative trees
+      Ln Likelihood =    -916.36273
+      Doing local rearrangements
+      Tested 36 alternative trees
+      Ln Likelihood =    -916.36273
+      Tested 36 alternative trees
+   cornwall
+      Tested 39 alternative trees
+      Ln Likelihood =    -937.89815
+      Doing local rearrangements
+      Tested 38 alternative trees
+      Ln Likelihood =    -937.89815
+      Tested 38 alternative trees
+   braunton
+      Tested 41 alternative trees
+      Ln Likelihood =    -953.29503
+      Doing local rearrangements
+      Tested 40 alternative trees
+   dornock2
+      Tested 43 alternative trees
+      Ln Likelihood =    -974.24260
+      Doing local rearrangements
+      Tested 42 alternative trees
+      Tested 42 alternative trees
+      Ln Likelihood =    -974.24260
+      Tested 42 alternative trees
+      Tested 42 alternative trees
+      Tested 42 alternative trees
+      Ln Likelihood =    -974.24260
+      Tested 42 alternative trees
+   sera74
+      Tested 45 alternative trees
+      Ln Likelihood =   -1114.06271
+      Doing local rearrangements
+      Tested 44 alternative trees
+   sera76
+      Tested 47 alternative trees
+      Ln Likelihood =   -1121.71768
+      Doing local rearrangements
+      Tested 46 alternative trees
+      Ln Likelihood =   -1121.71768
+      Tested 46 alternative trees
+      Tested 46 alternative trees
+      Tested 46 alternative trees
+      Ln Likelihood =   -1121.71768
+      Tested 46 alternative trees
+   spain89
+      Tested 49 alternative trees
+      Ln Likelihood =   -1136.89284
+      Doing local rearrangements
+      Tested 48 alternative trees
+      Ln Likelihood =   -1136.89284
+      Tested 48 alternative trees
+   france89
+      Tested 51 alternative trees
+      Ln Likelihood =   -1163.75694
+      Doing local rearrangements
+      Tested 50 alternative trees
+      Ln Likelihood =   -1163.75694
+      Tested 50 alternative trees
+      Ln Likelihood =   -1163.75694
+      Tested 50 alternative trees
+      Tested 50 alternative trees
+      Ln Likelihood =   -1163.75694
+      Tested 50 alternative trees
+      Tested 50 alternative trees
+      Tested 50 alternative trees
+      Tested 50 alternative trees
+      Ln Likelihood =   -1163.75694
+      Tested 50 alternative trees
+   china89
+      Tested 53 alternative trees
+      Ln Likelihood =   -1185.97094
+      Doing local rearrangements
+      Tested 52 alternative trees
+      Ln Likelihood =   -1185.97094
+      Tested 52 alternative trees
+   czech87
+      Tested 55 alternative trees
+      Ln Likelihood =   -1267.78626
+      Doing local rearrangements
+      Tested 54 alternative trees
+      Ln Likelihood =   -1267.78626
+      Tested 54 alternative trees
+      Ln Likelihood =   -1267.78626
+      Tested 54 alternative trees
+      Ln Likelihood =   -1267.78626
+      Tested 54 alternative trees
+      Ln Likelihood =   -1267.78626
+      Tested 54 alternative trees
+      Ln Likelihood =   -1267.78626
+      Tested 54 alternative trees
+   srm127
+      Tested 57 alternative trees
+      Ln Likelihood =   -1363.79121
+      Doing local rearrangements
+      Tested 56 alternative trees
+      Ln Likelihood =   -1363.79121
+      Tested 56 alternative trees
+      Ln Likelihood =   -1363.79121
+      Tested 56 alternative trees
+      Ln Likelihood =   -1363.79121
+      Tested 56 alternative trees
+      Ln Likelihood =   -1363.79121
+      Tested 56 alternative trees
+   srm129
+      Tested 59 alternative trees
+      Ln Likelihood =   -1363.79184
+      Doing local rearrangements
+      Tested 58 alternative trees
+   ramsey9699
+      Tested 61 alternative trees
+      Ln Likelihood =   -1371.44898
+      Doing local rearrangements
+      Tested 60 alternative trees
+      Ln Likelihood =   -1371.44898
+      Tested 60 alternative trees
+   ramsey8699
+      Tested 63 alternative trees
+      Ln Likelihood =   -1387.12851
+      Doing local rearrangements
+      Tested 62 alternative trees
+   austria95a
+      Tested 65 alternative trees
+      Ln Likelihood =   -1411.07840
+      Doing local rearrangements
+      Tested 64 alternative trees
+      Ln Likelihood =   -1410.53987
+      Tested 64 alternative trees
+      Ln Likelihood =   -1410.53987
+      Tested 64 alternative trees
+      Ln Likelihood =   -1410.53987
+      Tested 64 alternative trees
+      Ln Likelihood =   -1410.53987
+      Tested 64 alternative trees
+      Ln Likelihood =   -1410.53987
+      Tested 64 alternative trees
+   austria95b
+      Tested 67 alternative trees
+      Ln Likelihood =   -1417.65615
+      Doing local rearrangements
+      Tested 66 alternative trees
+      Ln Likelihood =   -1417.65615
+      Tested 66 alternative trees
+      Ln Likelihood =   -1417.65615
+      Tested 66 alternative trees
+      Ln Likelihood =   -1417.65615
+      Tested 66 alternative trees
+   germany94a
+      Tested 69 alternative trees
+      Ln Likelihood =   -1426.29653
+      Doing local rearrangements
+      Tested 68 alternative trees
+      Ln Likelihood =   -1426.29653
+      Tested 68 alternative trees
+      Ln Likelihood =   -1426.29653
+      Tested 68 alternative trees
+      Ln Likelihood =   -1426.29653
+      Tested 68 alternative trees
+   wreizen
+      Tested 71 alternative trees
+      Ln Likelihood =   -1480.43904
+      Doing local rearrangements
+      Tested 70 alternative trees
+      Ln Likelihood =   -1480.43904
+      Tested 70 alternative trees
+      Ln Likelihood =   -1480.43904
+      Tested 70 alternative trees
+   germany94b
+      Tested 73 alternative trees
+      Ln Likelihood =   -1487.60132
+      Doing local rearrangements
+      Tested 72 alternative trees
+      Ln Likelihood =   -1487.60132
+      Tested 72 alternative trees
+      Ln Likelihood =   -1487.60132
+      Tested 72 alternative trees
+   ireland95a
+      Tested 75 alternative trees
+      Ln Likelihood =   -1502.88068
+      Doing local rearrangements
+      Tested 74 alternative trees
+      Ln Likelihood =   -1502.88067
+      Tested 74 alternative trees
+      Ln Likelihood =   -1502.88067
+      Tested 74 alternative trees
+      Ln Likelihood =   -1502.88067
+      Tested 74 alternative trees
+      Ln Likelihood =   -1502.88067
+      Tested 74 alternative trees
+      Ln Likelihood =   -1502.88067
+      Tested 74 alternative trees
+      Ln Likelihood =   -1502.88067
+      Tested 74 alternative trees
+      Ln Likelihood =   -1502.88067
+      Tested 74 alternative trees
+      Ln Likelihood =   -1502.88067
+      Tested 74 alternative trees
+      Ln Likelihood =   -1502.88067
+      Tested 74 alternative trees
+      Ln Likelihood =   -1502.88067
+      Tested 74 alternative trees
+      Ln Likelihood =   -1502.88067
+      Tested 74 alternative trees
+   sand
+      Tested 77 alternative trees
+      Ln Likelihood =   -1525.56295
+      Doing local rearrangements
+      Tested 76 alternative trees
+      Ln Likelihood =   -1525.56295
+      Tested 76 alternative trees
+      Ln Likelihood =   -1525.56295
+      Tested 76 alternative trees
+      Ln Likelihood =   -1525.56295
+      Tested 76 alternative trees
+      Ln Likelihood =   -1525.56295
+      Tested 76 alternative trees
+      Ln Likelihood =   -1525.56295
+      Tested 76 alternative trees
+      Ln Likelihood =   -1525.56295
+      Tested 76 alternative trees
+      Ln Likelihood =   -1525.56295
+      Tested 76 alternative trees
+      Ln Likelihood =   -1525.56295
+      Tested 76 alternative trees
+      Ln Likelihood =   -1525.56295
+      Tested 76 alternative trees
+      Ln Likelihood =   -1525.56295
+      Tested 76 alternative trees
+      Ln Likelihood =   -1525.56295
+      Tested 76 alternative trees
+      Ln Likelihood =   -1525.56295
+      Tested 76 alternative trees
+      Ln Likelihood =   -1525.56295
+      Tested 76 alternative trees
+      Ln Likelihood =   -1525.56295
+      Tested 76 alternative trees
+      Ln Likelihood =   -1525.56295
+      Tested 76 alternative trees
+      Ln Likelihood =   -1525.56295
+      Tested 76 alternative trees
+      Ln Likelihood =   -1525.56295
+      Tested 76 alternative trees
+      Ln Likelihood =   -1525.56295
+      Tested 76 alternative trees
+      Ln Likelihood =   -1525.56295
+      Tested 76 alternative trees
+      Ln Likelihood =   -1525.56295
+      Tested 76 alternative trees
+   UK94
+      Tested 79 alternative trees
+      Ln Likelihood =   -1527.19380
+      Doing local rearrangements
+      Tested 78 alternative trees
+      Ln Likelihood =   -1527.19380
+      Tested 78 alternative trees
+      Ln Likelihood =   -1527.19380
+      Tested 78 alternative trees
+      Ln Likelihood =   -1527.19380
+      Tested 78 alternative trees
+   ireland95b
+      Tested 81 alternative trees
+      Ln Likelihood =   -1541.07785
+      Doing local rearrangements
+      Tested 80 alternative trees
+      Ln Likelihood =   -1541.07783
+      Tested 80 alternative trees
+      Ln Likelihood =   -1541.07783
+      Tested 80 alternative trees
+      Ln Likelihood =   -1541.07783
+      Tested 80 alternative trees
+      Ln Likelihood =   -1541.07783
+      Tested 80 alternative trees
+      Tested 80 alternative trees
+      Ln Likelihood =   -1541.07783
+      Tested 80 alternative trees
+   sweden94
+      Tested 83 alternative trees
+      Ln Likelihood =   -1548.19154
+      Doing local rearrangements
+      Tested 82 alternative trees
+      Ln Likelihood =   -1548.19154
+      Tested 82 alternative trees
+      Ln Likelihood =   -1548.19154
+      Tested 82 alternative trees
+      Ln Likelihood =   -1548.19154
+      Tested 82 alternative trees
+      Tested 82 alternative trees
+   switzerlan
+      Tested 85 alternative trees
+      Ln Likelihood =   -1565.84086
+      Doing local rearrangements
+      Tested 84 alternative trees
+      Ln Likelihood =   -1565.84086
+      Tested 84 alternative trees
+   switzerlan
+      Tested 87 alternative trees
+      Ln Likelihood =   -1595.10195
+      Doing local rearrangements
+      Tested 86 alternative trees
+      Ln Likelihood =   -1595.10195
+      Tested 86 alternative trees
+      Ln Likelihood =   -1595.10195
+      Tested 86 alternative trees
+      Ln Likelihood =   -1595.10195
+      Tested 86 alternative trees
+      Ln Likelihood =   -1595.10195
+      Tested 86 alternative trees
+   rainham
+      Tested 89 alternative trees
+      Ln Likelihood =   -1636.16529
+      Doing local rearrangements
+      Tested 88 alternative trees
+      Ln Likelihood =   -1636.16529
+      Tested 88 alternative trees
+      Ln Likelihood =   -1636.16529
+      Tested 88 alternative trees
+      Ln Likelihood =   -1636.16529
+      Tested 88 alternative trees
+      Ln Likelihood =   -1636.16529
+      Tested 88 alternative trees
+      Ln Likelihood =   -1636.16529
+      Tested 88 alternative trees
+      Ln Likelihood =   -1636.16529
+      Tested 88 alternative trees
+      Ln Likelihood =   -1636.16529
+      Tested 88 alternative trees
+      Ln Likelihood =   -1636.16529
+      Tested 88 alternative trees
+   srm133
+      Tested 91 alternative trees
+      Ln Likelihood =   -1683.45161
+      Doing local rearrangements
+      Tested 90 alternative trees
+      Ln Likelihood =   -1681.27324
+      Tested 90 alternative trees
+      Ln Likelihood =   -1681.27324
+      Tested 90 alternative trees
+      Ln Likelihood =   -1681.27324
+      Tested 90 alternative trees
+      Ln Likelihood =   -1681.27324
+      Tested 90 alternative trees
+      Tested 90 alternative trees
+      Ln Likelihood =   -1681.27324
+      Tested 90 alternative trees
+      Ln Likelihood =   -1681.27324
+      Tested 90 alternative trees
+   sera80
+      Tested 93 alternative trees
+      Ln Likelihood =   -1681.27386
+      Doing local rearrangements
+      Tested 92 alternative trees
+      Ln Likelihood =   -1681.27386
+      Tested 92 alternative trees
+   ascot
+      Tested 95 alternative trees
+      Ln Likelihood =   -1681.27448
+      Doing local rearrangements
+      Tested 94 alternative trees
+      Ln Likelihood =   -1681.27448
+      Tested 94 alternative trees
+      Ln Likelihood =   -1681.27448
+      Tested 94 alternative trees
+   thetfordde
+      Tested 97 alternative trees
+      Ln Likelihood =   -1681.27510
+      Doing local rearrangements
+      Tested 96 alternative trees
+      Ln Likelihood =   -1681.27510
+      Tested 96 alternative trees
+   whitehill
+      Tested 99 alternative trees
+      Ln Likelihood =   -1681.27573
+      Doing local rearrangements
+      Tested 98 alternative trees
+      Ln Likelihood =   -1681.27573
+      Tested 98 alternative trees
+   skomeraug9
+      Tested 101 alternative trees
+      Ln Likelihood =   -1681.27635
+      Doing local rearrangements
+      Tested 100 alternative trees
+      Ln Likelihood =   -1681.27635
+      Tested 100 alternative trees
+      Ln Likelihood =   -1681.27635
+      Tested 100 alternative trees
+      Ln Likelihood =   -1681.27635
+      Tested 100 alternative trees
+      Ln Likelihood =   -1681.27635
+      Tested 100 alternative trees
+      Ln Likelihood =   -1681.27635
+      Tested 100 alternative trees
+   whitelands
+      Tested 103 alternative trees
+      Ln Likelihood =   -1690.09938
+      Doing local rearrangements
+      Tested 102 alternative trees
+   brauntonbo
+      Tested 105 alternative trees
+      Ln Likelihood =   -1690.10000
+      Doing local rearrangements
+      Tested 104 alternative trees
+      Ln Likelihood =   -1690.10000
+      Tested 104 alternative trees
+      Ln Likelihood =   -1690.10000
+      Tested 104 alternative trees
+   perth
+      Tested 107 alternative trees
+      Ln Likelihood =   -1690.10062
+      Doing local rearrangements
+      Tested 106 alternative trees
+      Ln Likelihood =   -1690.10062
+      Tested 106 alternative trees
+   cavenham
+      Tested 109 alternative trees
+      Ln Likelihood =   -1690.10125
+      Doing local rearrangements
+      Tested 108 alternative trees
+      Tested 108 alternative trees
+      Tested 108 alternative trees
+      Ln Likelihood =   -1690.10125
+      Tested 108 alternative trees
+      Tested 108 alternative trees
+   moray
+      Tested 111 alternative trees
+      Ln Likelihood =   -1690.10187
+      Doing local rearrangements
+      Tested 110 alternative trees
+      Tested 110 alternative trees
+      Tested 110 alternative trees
+      Tested 110 alternative trees
+      Ln Likelihood =   -1690.10187
+      Tested 110 alternative trees
+      Tested 110 alternative trees
+   exminsterm
+      Tested 113 alternative trees
+      Ln Likelihood =   -1690.10249
+      Doing local rearrangements
+      Tested 112 alternative trees
+      Ln Likelihood =   -1690.10249
+      Tested 112 alternative trees
+   whitelands
+      Tested 115 alternative trees
+      Ln Likelihood =   -1706.93823
+      Doing local rearrangements
+      Tested 114 alternative trees
+      Ln Likelihood =   -1706.93823
+      Tested 114 alternative trees
+      Ln Likelihood =   -1706.93823
+      Tested 114 alternative trees
+   skomersept
+      Tested 117 alternative trees
+      Ln Likelihood =   -1706.93885
+      Doing local rearrangements
+      Tested 116 alternative trees
+      Ln Likelihood =   -1706.93885
+      Tested 116 alternative trees
+      Ln Likelihood =   -1706.93885
+      Tested 116 alternative trees
+   holyisland
+      Tested 119 alternative trees
+      Ln Likelihood =   -1706.93947
+      Doing local rearrangements
+      Tested 118 alternative trees
+      Ln Likelihood =   -1706.93947
+      Tested 118 alternative trees
+      Tested 118 alternative trees
+      Tested 118 alternative trees
+      Tested 118 alternative trees
+   thetfordja
+      Tested 121 alternative trees
+      Ln Likelihood =   -1714.61901
+      Doing local rearrangements
+      Tested 120 alternative trees
+      Ln Likelihood =   -1714.61901
+      Tested 120 alternative trees
+      Ln Likelihood =   -1714.61901
+      Tested 120 alternative trees
+   kincardin
+      Tested 123 alternative trees
+      Ln Likelihood =   -1722.27593
+      Doing local rearrangements
+      Tested 122 alternative trees
+   srm131
+      Tested 125 alternative trees
+      Ln Likelihood =   -1742.36153
+      Doing local rearrangements
+      Tested 124 alternative trees
+      Ln Likelihood =   -1742.36153
+      Tested 124 alternative trees
+      Ln Likelihood =   -1742.36153
+      Tested 124 alternative trees
+      Tested 124 alternative trees
+      Ln Likelihood =   -1742.36153
+      Tested 124 alternative trees
+      Ln Likelihood =   -1742.36153
+      Tested 124 alternative trees
+   exminsterj
+      Tested 127 alternative trees
+      Ln Likelihood =   -1756.30898
+      Doing local rearrangements
+      Tested 126 alternative trees
+      Ln Likelihood =   -1756.30898
+      Tested 126 alternative trees
+   belgium90
+      Tested 129 alternative trees
+      Ln Likelihood =   -1768.77668
+      Doing local rearrangements
+      Tested 128 alternative trees
+      Ln Likelihood =   -1767.64362
+      Tested 128 alternative trees
+      Ln Likelihood =   -1767.64362
+      Tested 128 alternative trees
+      Ln Likelihood =   -1767.64362
+      Tested 128 alternative trees
+   germany90
+      Tested 131 alternative trees
+      Ln Likelihood =   -1779.89488
+      Doing local rearrangements
+      Tested 130 alternative trees
+      Ln Likelihood =   -1779.89488
+      Tested 130 alternative trees
+      Ln Likelihood =   -1779.89488
+      Tested 130 alternative trees
+      Ln Likelihood =   -1779.89488
+      Tested 130 alternative trees
+   italy90b
+      Tested 133 alternative trees
+      Ln Likelihood =   -1786.83375
+      Doing local rearrangements
+      Tested 132 alternative trees
+      Ln Likelihood =   -1786.83375
+      Tested 132 alternative trees
+      Ln Likelihood =   -1786.83375
+      Tested 132 alternative trees
+      Ln Likelihood =   -1786.83375
+      Tested 132 alternative trees
+      Ln Likelihood =   -1786.83375
+      Tested 132 alternative trees
+   italy89
+      Tested 135 alternative trees
+      Ln Likelihood =   -1820.67295
+      Doing local rearrangements
+      Tested 134 alternative trees
+      Ln Likelihood =   -1820.67295
+      Tested 134 alternative trees
+      Ln Likelihood =   -1820.67295
+      Tested 134 alternative trees
+      Ln Likelihood =   -1820.67295
+      Tested 134 alternative trees
+      Ln Likelihood =   -1820.67295
+      Tested 134 alternative trees
+      Ln Likelihood =   -1820.67295
+      Tested 134 alternative trees
+   belgium95
+      Tested 137 alternative trees
+      Ln Likelihood =   -1839.67107
+      Doing local rearrangements
+      Tested 136 alternative trees
+      Ln Likelihood =   -1839.67107
+      Tested 136 alternative trees
+   ashington
+      Tested 139 alternative trees
+      Ln Likelihood =   -2150.81790
+      Doing local rearrangements
+      Tested 138 alternative trees
+      Ln Likelihood =   -2150.81790
+      Tested 138 alternative trees
+      Ln Likelihood =   -2150.81790
+      Tested 138 alternative trees
+      Ln Likelihood =   -2150.81790
+      Tested 138 alternative trees
+   rcv
+      Tested 141 alternative trees
+      Ln Likelihood =   -2412.15707
+      Doing local rearrangements
+      Tested 140 alternative trees
+      Ln Likelihood =   -2409.95637
+      Tested 140 alternative trees
+      Ln Likelihood =   -2409.95617
+      Tested 140 alternative trees
+      Ln Likelihood =   -2409.95615
+      Tested 140 alternative trees
+      Ln Likelihood =   -2409.66106
+      Tested 140 alternative trees
+      Ln Likelihood =   -2408.28577
+      Tested 140 alternative trees
+      Ln Likelihood =   -2408.28577
+      Tested 140 alternative trees
+   ebhsv
+      Tested 143 alternative trees
+      Ln Likelihood =   -2959.68327
+      Doing local rearrangements
+      Tested 142 alternative trees
+      Ln Likelihood =   -2959.68327
+      Tested 142 alternative trees
+      Ln Likelihood =   -2959.68327
+      Tested 142 alternative trees
+      Ln Likelihood =   -2959.68327
+      Tested 142 alternative trees
+
+Examined 26368 trees
+
+   + maples
+   !  
+   !     + bridgewate
+   !  +--4  
+   !  !  !  + bovey
+   !  !  +--3  
+   !  !     + sera71
+   !  !  
+   !  !           + logienov99
+   !  !        +-19  
+   !  !        !  !  + mellowsept
+   !  !        !  +-17  
+   !  !        !     + logiesept9
+   !  !        !  
+   !  !        !        + logieoct99
+   !  !        !     +-14  
+   !  !     +-10     !  + whitelands
+   !  !     !  !  +-13  
+   !  !     !  !  !  !  + hornoak
+   !  !     !  !  !  +-12  
+   !  !     !  !  !     + exminsters
+   !  !     !  !  !  
+   !  !     !  !  !        + cornwall
+   !  !     !  +-15     +-20  
+   !  !     !     !     !  !  + winchester
+   !  !     !     !     !  +-18  
+   !  !     !     !  +-16     + mellowoct9
+---1  !     !     !  !  !  
+   !  !     !     !  !  !  + srm134
+   !  !     !     +-11  +--9  
+   !  !     !        !     + srm132
+   !  !     !        !  
+   !  !     !        + mellowmay9
+   !  !     !  
+   !  !     !                 + germany94a
+   !  !     !              +-35  
+   !  !     !              !  !  + austria95b
+   !  !     !              !  +-34  
+   !  !     !              !     + austria95a
+   !  !     !              !  
+   !  !     !              !     +- sweden94
+   !  !     !              !     !  
+   !  !     !              !     !     + germany94b
+   !  !     !              !     !  +-37  
+   !  !     !           +-43  +-42  !  + wreizen
+   !  !     !           !  !  !  !  !  
+   !  !     !           !  !  !  !  !        + sand
+   !  !     !           !  !  !  !  !     +-39  
+   !  !     !           !  !  !  +-36     !  + ireland95a
+   !  !     !           !  !  !     !  +-38  
+   !  !     !           !  !  !     !  !  !  + ramsey9699
+   !  !     !           !  !  !     !  !  +-31  
+   !  !     !           !  !  !     !  !     !  + ramsey8699
+   !  !     !           !  +-33     !  !     +-32  
+   !  !     !           !     !     +-40        !  + srm129
+   +--2     !           !     !        !        +-30  
+   !  !     !           !     !        !           + srm127
+   !  !     !           !     !        !  
+   !  !     !        +-29     !        !  + ireland95b
+   !  !     !        !  !     !        +-41  
+   !  !     !        !  !     !           + UK94
+   !  !     !        !  !     !  
+   !  !     !        !  !     +- switzerlan
+   !  !     !        !  !  
+   !  !     !        !  !     + rainham
+   !  !     !        !  !  +-45  
+   !  !     !        !  !  !  + switzerlan
+   !  !     !        !  !  !  
+   !  !     !        !  !  !  +- italy89
+   !  !     !        !  !  !  !  
+   !  !     !        !  !  !  !     + srm131
+   !  !  +--8        !  !  !  !     !  
+   !  !  !  !        !  !  !  !     !        + skomeraug9
+   !  !  !  !        !  +-44  !     !        !  
+   !  !  !  !        !     !  !     !     +-50     + thetfordde
+   !  !  !  !        !     !  !     !     !  !  +-51  
+   !  !  !  !        !     !  !     !     !  +-49  + whitehill
+   !  !  !  !        !     !  !  +-63  +-47     !  
+   !  !  !  !        !     !  !  !  !  !  !     + ascot
+   !  !  !  !        !     !  !  !  !  !  !  
+   !  !  !  !        !     !  !  !  !  !  !  + srm133
+   !  !  !  !        !     +-68  !  !  !  +-48  
+   !  !  !  !        !        !  !  !  !     + sera80
+   !  !  !  !        !        !  !  !  !  
+   !  !  !  !        !        !  !  +-58     +- exminsterj
+   !  !  !  !        !        !  !     !  +-64  
+   !  !  !  !        !        !  !     !  !  !  + kincardin
+   !  !  !  !        !        !  !     !  !  +-62  
+   !  !  !  !        !        !  !     !  !     !  + thetfordja
+   !  !  !  !        !        !  !     !  !     +-61  
+   !  !  !  !        !        !  !     !  !        !  + whitelands
+   !  !  !  !        !        !  !     +-52        +-59  
+   !  !  !  !        !        !  !        !           !  + skomersept
+   !  !  !  !        !        !  !        !           +-60  
+   !  !  !  !        !        !  !        !              + holyisland
+   !  !  !  !        !        +-46        !  
+   !  !  !  !     +-23           !        !  + moray
+   !  !  !  !     !  !           !        +-53  
+   !  !  !  !     !  !           !           !  + brauntonbo
+   !  !  !  !     !  !           !           +-56  
+   !  !  !  !     !  !           !              !  + exminsterm
+   !  !  !  !     !  !           !              +-54  
+   !  !  !  !     !  !           !                 !  + cavenham
+   !  !  !  !     !  !           !                 +-55  
+   !  !  !  !     !  !           !                    !  + perth
+   !  !  !  !     !  !           !                    +-57  
+   !  !  !  !     !  !           !                       + whitelands
+   !  +--5  !     !  !           !  
+   !     !  !     !  !           !     +- belgium95
+   !     !  !     !  !           !  +-69  
+   !     !  !     !  !           !  !  + italy90b
+   !     !  !     !  !           !  !  
+   !     !  !     !  !           !  !     + china89
+   !     !  !     !  !           !  !     !  
+   !     !  !     !  !           +-70     !        +- france89
+   !     !  !     !  !              !  +-27     +-26  
+   !     !  !  +-22  !              !  !  !     !  + spain89
+   !     !  !  !  !  !              !  !  !  +-24  
+   !     !  !  !  !  !              !  !  !  !  !  + sera74
+   !     !  !  !  !  !              !  !  +-28  +-25  
+   !     !  !  !  !  !              +-67     !     + sera76
+   !     !  !  !  !  !                 !     !  
+   !     !  !  !  !  !                 !     +- czech87
+   !     !  !  !  !  !                 !  
+   !     !  !  !  !  !                 !  + belgium90
+   !     !  !  !  !  !                 !  !  
+   !     !  !  !  !  !                 +-65     +------------------------------------------------ ebhsv
+   !     !  +--7  !  !                    !  +-72  
+   !     !     !  !  !                    !  !  !    +--------- rcv
+   !     !     !  !  !                    +-66  +---71  
+   !     !     !  !  !                       !       +---------- ashington
+   !     !     !  !  !                       !  
+   !     !     !  !  !                       + germany90
+   !     !     !  !  !  
+   !     !     !  !  + dornock2
+   !     !     !  !  
+   !     !     !  + dornock1
+   !     !     !  
+   !     !     !  + skomerbone
+   !     !     +--6  
+   !     !        !  + braunton
+   !     !        +-21  
+   !     !           + pennycombe
+   !     !  
+   !     + logiejan00
+   !  
+   + woking
+
+Remember: this is an unrooted tree!
+
+Ln Likelihood =   -2959.68327
+
+ Between        And             Length      Approx. Confidence Limits
+ -------        ---             ------      ------- ---------- ------
+   1          maples            0.00000     (     zero,     0.00364)
+   1             2              0.00000     (     zero,     0.00367)
+   2             4              0.00573     (     zero,     0.01225) **
+   4          bridgewate        0.00190     (     zero,     0.00565) **
+   4             3              0.00380     (     zero,     0.00911) **
+   3          bovey             0.00000     (     zero,     0.00364)
+   3          sera71            0.00000     (     zero,     0.00364)
+   2             5              0.00380     (     zero,     0.00909) **
+   5             8              0.01145     (  0.00233,     0.02071) **
+   8            10              0.00000     (     zero,     0.00367)
+  10            19              0.00190     (     zero,     0.00563) **
+  19          logienov99        0.00379     (     zero,     0.00908) **
+  19            17              0.00000     (     zero,     0.00419)
+  17          mellowsept        0.00190     (     zero,     0.00563) **
+  17          logiesept9        0.00000     (     zero,     0.00364)
+  10            15              0.00000     (     zero,     0.00364)
+  15            13              0.00000     (     zero,     0.00364)
+  13            14              0.00000     (     zero,     0.00364)
+  14          logieoct99        0.00000     (     zero,     0.00364)
+  14          whitelands        0.00000     (     zero,     0.00364)
+  13            12              0.00000     (     zero,     0.00364)
+  12          hornoak           0.00000     (     zero,     0.00364)
+  12          exminsters        0.00000     (     zero,     0.00364)
+  15            11              0.00000     (     zero,     0.00364)
+  11            16              0.00000     (     zero,     0.00364)
+  16            20              0.00000     (     zero,     0.00366)
+  20          cornwall          0.00570     (     zero,     0.01220) **
+  20            18              0.00190     (     zero,     0.00562) **
+  18          winchester        0.00190     (     zero,     0.00563) **
+  18          mellowoct9        0.00000     (     zero,     0.00365)
+  16             9              0.00190     (     zero,     0.00563) **
+   9          srm134            0.00000     (     zero,     0.00364)
+   9          srm132            0.00000     (     zero,     0.00364)
+  11          mellowmay9        0.00000     (     zero,     0.00364)
+   8             7              0.00190     (     zero,     0.00563) **
+   7            22              0.00190     (     zero,     0.00563) **
+  22            23              0.00208     (     zero,     0.00636) *
+  23            29              0.03483     (  0.01865,     0.05147) **
+  29            43              0.00182     (     zero,     0.00629)
+  43            35              0.00803     (     zero,     0.01930) **
+  35          germany94a        0.00399     (     zero,     0.01190) **
+  35            34              0.00397     (     zero,     0.01186) **
+  34          austria95b        0.00397     (     zero,     0.01180) **
+  34          austria95a        0.00000     (     zero,     0.00766)
+  43            33              0.00000     (     zero,     0.00428)
+  33            42              0.00000     (     zero,     0.00427)
+  42          sweden94          0.00398     (     zero,     0.01183) **
+  42            36              0.00000     (     zero,     0.00428)
+  36            37              0.00566     (     zero,     0.01446) **
+  37          germany94b        0.00395     (     zero,     0.01186) **
+  37          wreizen           0.01130     (  0.00091,     0.02187) **
+  36            40              0.00309     (     zero,     0.00851) **
+  40            38              0.00306     (     zero,     0.00850) **
+  38            39              0.00572     (     zero,     0.01228) **
+  39          sand              0.00000     (     zero,     0.00653)
+  39          ireland95a        0.00398     (     zero,     0.01183) **
+  38            31              0.01150     (  0.00233,     0.02081) **
+  31          ramsey9699        0.00000     (     zero,     0.00368)
+  31            32              0.00190     (     zero,     0.00563) **
+  32          ramsey8699        0.00380     (     zero,     0.00909) **
+  32            30              0.00000     (     zero,     0.00365)
+  30          srm129            0.00000     (     zero,     0.00364)
+  30          srm127            0.00000     (     zero,     0.00364)
+  40            41              0.00000     (     zero,     0.00769)
+  41          ireland95b        0.00800     (     zero,     0.01922) **
+  41          UK94              0.00000     (     zero,     0.00764)
+  33          switzerlan        0.01198     (     zero,     0.02575) **
+  29            44              0.01441     (  0.00366,     0.02536) **
+  44            45              0.01277     (  0.00225,     0.02348) **
+  45          rainham           0.00412     (     zero,     0.01138) **
+  45          switzerlan        0.00401     (     zero,     0.01194) **
+  44            68              0.00187     (     zero,     0.00584)
+  68          italy89           0.00915     (  0.00082,     0.01760) **
+  68            46              0.00450     (     zero,     0.01074) **
+  46            63              0.00743     (     zero,     0.01501) **
+  63          srm131            0.00571     (     zero,     0.01221) **
+  63            58              0.00000     (     zero,     0.00368)
+  58            47              0.00000     (     zero,     0.00365)
+  47            50              0.00000     (     zero,     0.00365)
+  50          skomeraug9        0.00000     (     zero,     0.00365)
+  50            49              0.00000     (     zero,     0.00365)
+  49            51              0.00000     (     zero,     0.00365)
+  51          thetfordde        0.00000     (     zero,     0.00365)
+  51          whitehill         0.00000     (     zero,     0.00365)
+  49          ascot             0.00000     (     zero,     0.00365)
+  47            48              0.00000     (     zero,     0.00365)
+  48          srm133            0.00000     (     zero,     0.00365)
+  48          sera80            0.00000     (     zero,     0.00365)
+  58            52              0.00000     (     zero,     0.00365)
+  52            64              0.00381     (     zero,     0.00911) **
+  64          exminsterj        0.00380     (     zero,     0.00910) **
+  64            62              0.00000     (     zero,     0.00366)
+  62          kincardin         0.00000     (     zero,     0.00365)
+  62            61              0.00190     (     zero,     0.00564) **
+  61          thetfordja        0.00000     (     zero,     0.00365)
+  61            59              0.00190     (     zero,     0.00564) **
+  59          whitelands        0.00000     (     zero,     0.00365)
+  59            60              0.00000     (     zero,     0.00365)
+  60          skomersept        0.00000     (     zero,     0.00365)
+  60          holyisland        0.00000     (     zero,     0.00365)
+  52            53              0.00190     (     zero,     0.00564) **
+  53          moray             0.00000     (     zero,     0.00365)
+  53            56              0.00000     (     zero,     0.00365)
+  56          brauntonbo        0.00000     (     zero,     0.00365)
+  56            54              0.00000     (     zero,     0.00365)
+  54          exminsterm        0.00000     (     zero,     0.00365)
+  54            55              0.00000     (     zero,     0.00365)
+  55          cavenham          0.00000     (     zero,     0.00365)
+  55            57              0.00000     (     zero,     0.00365)
+  57          perth             0.00000     (     zero,     0.00365)
+  57          whitelands        0.00000     (     zero,     0.00365)
+  46            70              0.00394     (     zero,     0.00985) **
+  70            69              0.00398     (     zero,     0.01185) **
+  69          belgium95         0.01203     (     zero,     0.02585) **
+  69          italy90b          0.00000     (     zero,     0.00773)
+  70            67              0.00000     (     zero,     0.00518)
+  67            27              0.01114     (  0.00154,     0.02090) **
+  27          china89           0.00000     (     zero,     0.00772)
+  27            28              0.00243     (     zero,     0.00777)
+  28            24              0.02170     (  0.00888,     0.03480) **
+  24            26              0.00189     (     zero,     0.00564) **
+  26          france89          0.00764     (  0.00018,     0.01519) **
+  26          spain89           0.00191     (     zero,     0.00569) **
+  24            25              0.00000     (     zero,     0.00378)
+  25          sera74            0.00000     (     zero,     0.00365)
+  25          sera76            0.00190     (     zero,     0.00564) **
+  28          czech87           0.02146     (  0.00872,     0.03448) **
+  67            65              0.00308     (     zero,     0.00911) **
+  65          belgium90         0.00000     (     zero,     0.00769)
+  65            66              0.00321     (     zero,     0.00972) *
+  66            72              0.02921     (  0.00477,     0.05470) **
+  72          ebhsv             0.51325     (  0.42832,     0.61247) **
+  72            71              0.05100     (  0.02431,     0.07895) **
+  71          rcv               0.10182     (  0.07019,     0.13525) **
+  71          ashington         0.12221     (  0.08779,     0.15876) **
+  66          germany90         0.00383     (     zero,     0.01203)
+  23          dornock2          0.00363     (     zero,     0.00906) **
+  22          dornock1          0.00000     (     zero,     0.00365)
+   7             6              0.00190     (     zero,     0.00564) **
+   6          skomerbone        0.00000     (     zero,     0.00364)
+   6            21              0.00190     (     zero,     0.00563) **
+  21          braunton          0.00380     (     zero,     0.00909) **
+  21          pennycombe        0.00000     (     zero,     0.00364)
+   5          logiejan00        0.00000     (     zero,     0.00368)
+   1          woking            0.00190     (     zero,     0.00564) **
+
+     *  = significantly positive, P < 0.05
+     ** = significantly positive, P < 0.01
+
+
+Tree also written to treefile.7013
+

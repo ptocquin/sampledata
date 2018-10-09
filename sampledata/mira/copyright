@@ -1,0 +1,53 @@
+Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Contact: Bastien Chevreux <bach@chevreux.org>
+Source: http://jaist.dl.sourceforge.net/project/mira-assembler/MIRA/V3rc2/mira-3rc2.tar.bz2
+
+Files: *
+Copyright: © 1997-2000 for MIRA V1.x and EdIt: Bastien Chevreux, Thomas Pfisterer, Deutsches Krebsforschungszentrum Heidelberg -- Dept. of Molecula Biophysics.
+           © 2001-2013 for MIRA V2.x: Bastien Chevreux <bach@chevreux.org>
+License: GPL-2+
+Comment: 
+ Author of MIRA
+ .
+  Bastien Chevreux, formerly at the German Cancer Research Center (Deutsches
+                    Krebsforschungsinstitut, DKFZ) in Heidelberg, DE
+                    Now at DSM Nutritional Products AG, Kaiseraugst, CH
+ .
+ .
+ Author of EdIt
+ .
+ Thomas Pfisterer, formerly at the German Cancer Research Center (Deutsches
+                   Krebsforschungsinstitut, DKFZ) in Heidelberg. DE
+                   Now at MWG Biotech AG, Ebersberg, DE
+
+Files: src/io/scf.H
+Copyright: © Medical Research Council 1994
+License: staden
+ Permission to use, copy, modify and distribute this software and its
+ documentation for any purpose is hereby granted without fee, provided that
+ this copyright and notice appears in all copies.
+ .
+ This file was written by James Bonfield, Simon Dear, Rodger Staden,
+ as part of the Staden Package at the MRC Laboratory of Molecular
+ Biology, Hills Road, Cambridge, CB2 2QH, United Kingdom.
+ .
+ MRC disclaims all warranties with regard to this software.
+Comment: uses part of a file from the `Staden package'.
+
+License: GPL-2+
+ This package is free software; you can redistribute it and/or modify
+ it under the terms of the GNU General Public License as published by
+ the Free Software Foundation; either version 2 of the License, or
+ (at your option) any later version.
+ .
+ This package is distributed in the hope that it will be useful,
+ but WITHOUT ANY WARRANTY; without even the implied warranty of
+ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ GNU General Public License for more details.
+ .
+ You should have received a copy of the GNU General Public License
+ along with this package; if not, write to the Free Software
+ Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA  02110-1301 USA
+Comment: On Debian systems, the complete text of the GNU General Public
+ License version 2 can be found in `/usr/share/common-licenses/GPL-2'.
+

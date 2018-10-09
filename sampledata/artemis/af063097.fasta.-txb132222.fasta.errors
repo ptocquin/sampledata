@@ -1,0 +1,2 @@
+[blastall] WARNING:  [000.000]  AF063097:offset::0:: Reached max 200 HSPs in BlastSaveCurrentHsp, continuing with this limit
+[blastall] WARNING:  [000.000]  AF063097:offset::16000:: Reached max 200 HSPs in BlastSaveCurrentHsp, continuing with this limit

@@ -1,0 +1,556 @@
+Mon 21 Oct 15:38:17 2002 [28287] opening ro...
+Mon 21 Oct 15:38:17 2002 [28287] ...opened
+Mon 21 Oct 15:38:18 2002 [28287] > Register id=1
+Mon 21 Oct 15:38:18 2002 [28287] Database information
+Mon 21 Oct 15:38:43 2002 [28287] > Deregister id=1 cnum=1: Contig selector
+Mon 21 Oct 15:38:43 2002 [28287] close database
+Mon 21 Oct 15:38:43 2002 [28287] closing...
+Mon 21 Oct 15:38:43 2002 [28287] ...closed
+Wed 20 Nov 15:27:09 2002 [1814] opening ro...
+Wed 20 Nov 15:27:10 2002 [1814] ...opened
+Wed 20 Nov 15:27:35 2002 [1814] > Register id=1
+Wed 20 Nov 15:27:36 2002 [1814] Database information
+Wed 20 Nov 15:28:36 2002 [1814] edit contig
+Wed 20 Nov 15:28:41 2002 [1814] > Register id=2
+Mon 12 May 17:36:42 2003 [2074331] opening rw...
+Mon 12 May 17:36:42 2003 [2074331] ...opened
+Mon 12 May 17:36:42 2003 [2074331] check database
+Mon 12 May 17:36:44 2003 [2074331] > Register id=1
+Mon 12 May 17:36:44 2003 [2074331] Database information
+Mon 12 May 17:36:46 2003 [2074331] edit contig
+Mon 12 May 17:36:48 2003 [2074331] > Register id=2
+Mon 12 May 17:40:51 2003 [2074331] > Deregister id=2 cnum=3: Contig editor @ 59
+Mon 12 May 17:40:57 2003 [2074331] > Deregister id=1 cnum=1: Contig selector
+Mon 12 May 17:40:57 2003 [2074331] close database
+Mon 12 May 17:40:57 2003 [2074331] closing...
+Mon 12 May 17:40:57 2003 [2074331] ...closed
+Mon 12 May 17:41:38 2003 [2074486] opening rw...
+Mon 12 May 17:41:38 2003 [2074486] ...opened
+Mon 12 May 17:41:38 2003 [2074486] check database
+Mon 12 May 17:41:38 2003 [2074486] > Register id=1
+Mon 12 May 17:41:38 2003 [2074486] Database information
+Mon 12 May 17:41:42 2003 [2074486] edit contig
+Mon 12 May 17:41:43 2003 [2074486] > Register id=2
+Mon 12 May 17:41:53 2003 [2074486] > Deregister id=2 cnum=3: Contig editor @ 59
+Mon 12 May 17:41:58 2003 [2074486] > Deregister id=1 cnum=1: Contig selector
+Mon 12 May 17:41:58 2003 [2074486] close database
+Mon 12 May 17:41:58 2003 [2074486] closing...
+Mon 12 May 17:41:58 2003 [2074486] ...closed
+Tue 13 May 09:26:25 2003 [1645792] opening rw...
+Tue 13 May 09:26:25 2003 [1645792] ...opened
+Tue 13 May 09:26:25 2003 [1645792] check database
+Tue 13 May 09:26:25 2003 [1645792] > Register id=1
+Tue 13 May 09:26:25 2003 [1645792] Database information
+Tue 13 May 09:26:26 2003 [1645792] edit contig
+Tue 13 May 09:26:27 2003 [1645792] > Register id=2
+Tue 13 May 09:26:43 2003 [1645792] > Deregister id=2 cnum=3: Contig editor @ 59
+Tue 13 May 09:26:46 2003 [1645792] > Deregister id=1 cnum=1: Contig selector
+Tue 13 May 09:26:46 2003 [1645792] close database
+Tue 13 May 09:26:46 2003 [1645792] closing...
+Tue 13 May 09:26:46 2003 [1645792] ...closed
+Tue 13 May 15:08:43 2003 [1739360] opening rw...
+Tue 13 May 15:08:44 2003 [1739360] ...opened
+Tue 13 May 15:08:44 2003 [1739360] check database
+Tue 13 May 15:08:44 2003 [1739360] > Register id=1
+Tue 13 May 15:08:44 2003 [1739360] Database information
+Tue 13 May 15:08:47 2003 [1739360] edit contig
+Tue 13 May 15:08:47 2003 [1739360] > Register id=2
+Tue 13 May 15:14:44 2003 [1739360] > Deregister id=2 cnum=3: Contig editor @ 59
+Tue 13 May 15:14:46 2003 [1739360] > Deregister id=1 cnum=1: Contig selector
+Tue 13 May 15:14:46 2003 [1739360] close database
+Tue 13 May 15:14:46 2003 [1739360] closing...
+Tue 13 May 15:14:46 2003 [1739360] ...closed
+Thu 15 May 16:52:29 2003 [30757] opening ro...
+Thu 15 May 16:52:29 2003 [30757] ...opened
+Thu 15 May 16:52:30 2003 [30757] > Register id=1
+Thu 15 May 16:52:30 2003 [30757] Database information
+Thu 15 May 16:52:33 2003 [30757] Program terminated unexpectedly with signal 2.
+Thu 15 May 16:52:47 2003 [30764] opening ro...
+Thu 15 May 16:52:47 2003 [30764] ...opened
+Thu 15 May 16:52:48 2003 [30764] > Register id=1
+Thu 15 May 16:52:48 2003 [30764] Database information
+Thu 15 May 16:53:11 2003 [30764] find internal joins
+Thu 15 May 16:53:11 2003 [30764] > Register id=3
+Thu 15 May 16:53:12 2003 [30764] > Register id=4
+Thu 15 May 16:53:12 2003 [30764] > Register id=5
+Thu 29 May 09:57:46 2003 [30157] opening rw...
+Thu 29 May 09:57:46 2003 [30157] ...opened
+Thu 29 May 09:57:47 2003 [30157] check database
+Thu 29 May 09:57:47 2003 [30157] > Register id=1
+Thu 29 May 09:57:47 2003 [30157] Database information
+Thu 29 May 09:57:49 2003 [30157] Program terminated unexpectedly with signal 2.
+Thu 29 May 09:57:59 2003 [30166] opening rw...
+Thu 29 May 09:57:59 2003 [30166] ...opened
+Thu 29 May 09:58:00 2003 [30166] check database
+Thu 29 May 09:58:00 2003 [30166] > Register id=1
+Thu 29 May 09:58:00 2003 [30166] Database information
+Thu 29 May 09:58:03 2003 [30166] edit contig
+Thu 29 May 09:58:04 2003 [30166] > Register id=2
+Thu 29 May 10:05:27 2003 [30239] opening rw...
+Thu 29 May 10:05:27 2003 [30239] ...opened
+Thu 29 May 10:05:28 2003 [30239] check database
+Thu 29 May 10:05:28 2003 [30239] > Register id=1
+Thu 29 May 10:05:28 2003 [30239] Database information
+Thu 29 May 10:05:32 2003 [30239] edit contig
+Thu 29 May 10:05:32 2003 [30239] > Register id=2
+Thu 29 May 10:06:30 2003 [30239] > Deregister id=2 cnum=2: Contig editor @ 2
+Thu 29 May 10:06:43 2003 [30244] opening rw...
+Thu 29 May 10:06:43 2003 [30244] ...opened
+Thu 29 May 10:06:44 2003 [30244] check database
+Thu 29 May 10:06:44 2003 [30244] > Register id=1
+Thu 29 May 10:06:44 2003 [30244] Database information
+Thu 29 May 10:06:47 2003 [30244] edit contig
+Thu 29 May 10:06:48 2003 [30244] > Register id=2
+Thu 29 May 10:09:20 2003 [753270] opening rw...
+Thu 29 May 10:09:20 2003 [753270] ...opened
+Thu 29 May 10:09:21 2003 [753270] check database
+Thu 29 May 10:09:21 2003 [753270] > Register id=1
+Thu 29 May 10:09:21 2003 [753270] Database information
+Thu 29 May 10:09:25 2003 [753270] edit contig
+Thu 29 May 10:09:26 2003 [753270] > Register id=2
+Thu 29 May 10:09:46 2003 [753270] > Deregister id=2 cnum=2: Contig editor @ 2
+Thu 29 May 10:09:49 2003 [753270] > Deregister id=1 cnum=1: Contig selector
+Thu 29 May 10:09:49 2003 [753270] close database
+Thu 29 May 10:09:49 2003 [753270] closing...
+Thu 29 May 10:09:49 2003 [753270] ...closed
+Thu 29 May 10:10:49 2003 [30255] opening rw...
+Thu 29 May 10:10:49 2003 [30255] ...opened
+Thu 29 May 10:10:50 2003 [30255] check database
+Thu 29 May 10:10:50 2003 [30255] > Register id=1
+Thu 29 May 10:10:50 2003 [30255] Database information
+Thu 29 May 10:10:52 2003 [30255] edit contig
+Thu 29 May 10:10:52 2003 [30255] > Register id=2
+Thu 29 May 10:13:07 2003 [30275] opening rw...
+Thu 29 May 10:13:07 2003 [30275] ...opened
+Thu 29 May 10:13:08 2003 [30275] check database
+Thu 29 May 10:13:08 2003 [30275] > Register id=1
+Thu 29 May 10:13:08 2003 [30275] Database information
+Thu 29 May 10:13:11 2003 [30275] edit contig
+Thu 29 May 10:13:11 2003 [30275] > Register id=2
+Thu 29 May 10:13:53 2003 [30275] > Deregister id=2 cnum=2: Contig editor @ 2
+Thu 29 May 10:14:02 2003 [30275] > Deregister id=1 cnum=1: Contig selector
+Thu 29 May 10:14:02 2003 [30275] close database
+Thu 29 May 10:14:02 2003 [30275] closing...
+Thu 29 May 10:14:02 2003 [30275] ...closed
+Thu 29 May 10:21:33 2003 [30285] opening rw...
+Thu 29 May 10:21:33 2003 [30285] ...opened
+Thu 29 May 10:21:34 2003 [30285] check database
+Thu 29 May 10:21:34 2003 [30285] > Register id=1
+Thu 29 May 10:21:34 2003 [30285] Database information
+Thu 29 May 10:21:41 2003 [30285] > Deregister id=1 cnum=1: Contig selector
+Thu 29 May 10:21:41 2003 [30285] close database
+Thu 29 May 10:21:41 2003 [30285] closing...
+Thu 29 May 10:21:41 2003 [30285] ...closed
+Thu 29 May 10:21:58 2003 [30295] opening rw...
+Thu 29 May 10:21:58 2003 [30295] ...opened
+Thu 29 May 10:21:59 2003 [30295] check database
+Thu 29 May 10:21:59 2003 [30295] > Register id=1
+Thu 29 May 10:21:59 2003 [30295] Database information
+Thu 29 May 10:22:04 2003 [30295] edit contig
+Thu 29 May 10:22:04 2003 [30295] > Register id=2
+Thu 29 May 10:24:18 2003 [30295] > Deregister id=2 cnum=3: Contig editor @ 59
+Thu 29 May 10:24:21 2003 [30295] > Deregister id=1 cnum=1: Contig selector
+Thu 29 May 10:24:21 2003 [30295] close database
+Thu 29 May 10:24:21 2003 [30295] closing...
+Thu 29 May 10:24:21 2003 [30295] ...closed
+Thu 29 May 17:13:49 2003 [1196812] opening rw...
+Thu 29 May 17:13:49 2003 [1196812] ...opened
+Thu 29 May 17:13:51 2003 [1196812] check database
+Thu 29 May 17:13:51 2003 [1196812] > Register id=1
+Thu 29 May 17:13:51 2003 [1196812] Database information
+Thu 29 May 17:13:58 2003 [1196812] Program terminated unexpectedly with signal 2.
+Thu 29 May 17:14:02 2003 [1196962] opening rw...
+Thu 29 May 17:14:02 2003 [1196962] ...opened
+Thu 29 May 17:14:03 2003 [1196962] check database
+Thu 29 May 17:14:03 2003 [1196962] > Register id=1
+Thu 29 May 17:14:03 2003 [1196962] Database information
+Thu 29 May 17:14:06 2003 [1196962] edit contig
+Thu 29 May 17:14:06 2003 [1196962] > Register id=2
+Thu 29 May 17:14:24 2003 [1196962] Oligo details
+Thu 29 May 17:14:56 2003 [1196962] > Deregister id=2 cnum=3: Contig editor @ 59
+Thu 29 May 17:15:15 2003 [1196962] edit contig
+Thu 29 May 17:15:15 2003 [1196962] > Register id=3
+Thu 29 May 17:15:43 2003 [1196962] > Deregister id=3 cnum=3: Contig editor @ 59
+Thu 29 May 17:15:46 2003 [1196962] > Deregister id=1 cnum=1: Contig selector
+Thu 29 May 17:15:46 2003 [1196962] close database
+Thu 29 May 17:15:46 2003 [1196962] closing...
+Thu 29 May 17:15:46 2003 [1196962] ...closed
+Tue 03 Jun 10:26:33 2003 [1576679] opening rw...
+Tue 03 Jun 10:26:33 2003 [1576679] ...opened
+Tue 03 Jun 10:26:33 2003 [1576679] check database
+Tue 03 Jun 10:26:34 2003 [1576679] > Register id=1
+Tue 03 Jun 10:26:34 2003 [1576679] Database information
+Tue 03 Jun 10:26:41 2003 [1576679] > Register id=2
+Tue 03 Jun 10:26:47 2003 [1576679] > Deregister id=1 cnum=1: Contig selector
+Tue 03 Jun 10:26:47 2003 [1576679] > Deregister id=2 cnum=0: 
+Tue 03 Jun 10:26:47 2003 [1576679] close database
+Tue 03 Jun 10:26:47 2003 [1576679] closing...
+Tue 03 Jun 10:26:47 2003 [1576679] ...closed
+Mon 16 Jun 15:28:16 2003 [913893] opening rw...
+Mon 16 Jun 15:28:16 2003 [913893] ...opened
+Mon 16 Jun 15:28:17 2003 [913893] check database
+Mon 16 Jun 15:28:17 2003 [913893] > Register id=1
+Mon 16 Jun 15:28:17 2003 [913893] Database information
+Mon 16 Jun 15:28:20 2003 [913893] template display
+Mon 16 Jun 15:28:20 2003 [913893] > Register id=2
+Mon 16 Jun 15:28:22 2003 [913893] > Deregister id=2 cnum=2: Template display
+Mon 16 Jun 15:28:23 2003 [913893] edit contig
+Mon 16 Jun 15:28:23 2003 [913893] > Register id=3
+Mon 16 Jun 15:29:09 2003 [913893] > Deregister id=3 cnum=3: Contig editor @ 59
+Mon 16 Jun 15:29:11 2003 [913893] > Deregister id=1 cnum=1: Contig selector
+Mon 16 Jun 15:29:11 2003 [913893] close database
+Mon 16 Jun 15:29:11 2003 [913893] closing...
+Mon 16 Jun 15:29:11 2003 [913893] ...closed
+Mon 16 Jun 15:30:08 2003 [913718] opening rw...
+Mon 16 Jun 15:30:08 2003 [913718] ...opened
+Mon 16 Jun 15:30:09 2003 [913718] check database
+Mon 16 Jun 15:30:09 2003 [913718] > Register id=1
+Mon 16 Jun 15:30:09 2003 [913718] Database information
+Mon 16 Jun 15:30:12 2003 [913718] edit contig
+Mon 16 Jun 15:30:12 2003 [913718] > Register id=2
+Mon 16 Jun 15:30:32 2003 [913718] > Deregister id=2 cnum=2: Contig editor @ 2
+Mon 16 Jun 15:30:34 2003 [913718] > Deregister id=1 cnum=1: Contig selector
+Mon 16 Jun 15:30:34 2003 [913718] close database
+Mon 16 Jun 15:30:34 2003 [913718] closing...
+Mon 16 Jun 15:30:34 2003 [913718] ...closed
+Mon 23 Jun 17:20:37 2003 [1329500] opening rw...
+Mon 23 Jun 17:20:37 2003 [1329500] ...opened
+Mon 23 Jun 17:20:37 2003 [1329500] check database
+Mon 23 Jun 17:20:37 2003 [1329500] > Register id=1
+Mon 23 Jun 17:20:37 2003 [1329500] Database information
+Mon 23 Jun 17:20:40 2003 [1329500] edit contig
+Mon 23 Jun 17:20:40 2003 [1329500] > Register id=2
+Mon 23 Jun 17:20:56 2003 [1329500] > Deregister id=2 cnum=2: Contig editor @ 2
+Mon 23 Jun 17:20:58 2003 [1329500] > Deregister id=1 cnum=1: Contig selector
+Mon 23 Jun 17:20:58 2003 [1329500] close database
+Mon 23 Jun 17:20:58 2003 [1329500] closing...
+Mon 23 Jun 17:20:58 2003 [1329500] ...closed
+Mon 23 Jun 17:21:05 2003 [1329357] opening rw...
+Mon 23 Jun 17:21:05 2003 [1329357] ...opened
+Mon 23 Jun 17:21:06 2003 [1329357] check database
+Mon 23 Jun 17:21:06 2003 [1329357] > Register id=1
+Mon 23 Jun 17:21:06 2003 [1329357] Database information
+Mon 23 Jun 17:21:09 2003 [1329357] edit contig
+Mon 23 Jun 17:21:09 2003 [1329357] > Register id=2
+Mon 23 Jun 17:21:19 2003 [1329357] > Deregister id=2 cnum=2: Contig editor @ 2
+Mon 23 Jun 17:21:21 2003 [1329357] > Deregister id=1 cnum=1: Contig selector
+Mon 23 Jun 17:21:21 2003 [1329357] close database
+Mon 23 Jun 17:21:21 2003 [1329357] closing...
+Mon 23 Jun 17:21:21 2003 [1329357] ...closed
+Mon 23 Jun 17:21:23 2003 [1329522] opening rw...
+Mon 23 Jun 17:21:23 2003 [1329522] ...opened
+Mon 23 Jun 17:21:23 2003 [1329522] check database
+Mon 23 Jun 17:21:23 2003 [1329522] > Register id=1
+Mon 23 Jun 17:21:24 2003 [1329522] Database information
+Mon 23 Jun 17:21:27 2003 [1329522] edit contig
+Mon 23 Jun 17:21:27 2003 [1329522] > Register id=2
+Mon 23 Jun 17:21:36 2003 [1329522] > Deregister id=2 cnum=2: Contig editor @ 2
+Mon 23 Jun 17:21:37 2003 [1329522] > Deregister id=1 cnum=1: Contig selector
+Mon 23 Jun 17:21:37 2003 [1329522] close database
+Mon 23 Jun 17:21:37 2003 [1329522] closing...
+Mon 23 Jun 17:21:37 2003 [1329522] ...closed
+Fri 09 Jun 10:05:34 2006 [17046@deskpro16133] opening ro... by jkb(205)
+Fri 09 Jun 10:05:34 2006 [17046@deskpro16133] ...opened
+Fri 09 Jun 10:05:34 2006 [17046@deskpro16133] > Register id=1 cnum=1 func=0x407aa3f0 data=0x8336830 :Contig selector
+Fri 09 Jun 10:05:34 2006 [17046@deskpro16133] Database information
+Fri 09 Jun 10:05:36 2006 [17046@deskpro16133] > Deregister id=1 cnum=1 func=0x407aa3f0 data=0x8336830 :Contig selector
+Fri 09 Jun 10:05:36 2006 [17046@deskpro16133] close database
+Fri 09 Jun 10:05:36 2006 [17046@deskpro16133] closing...
+Fri 09 Jun 10:05:36 2006 [17046@deskpro16133] ...closed
+Wed 28 Jun 14:15:05 2006 [2069955@cbi1c.internal.sanger.ac.uk] opening rw... by jkb(205)
+Wed 28 Jun 14:15:05 2006 [2069955@cbi1c.internal.sanger.ac.uk] ...opened
+Wed 28 Jun 14:15:06 2006 [2069955@cbi1c.internal.sanger.ac.uk] check database
+Wed 28 Jun 14:15:06 2006 [2069955@cbi1c.internal.sanger.ac.uk] > Register id=1 cnum=1 func=300048893c4 data=1404f6600 :Contig selector
+Wed 28 Jun 14:15:06 2006 [2069955@cbi1c.internal.sanger.ac.uk] Database information
+Wed 28 Jun 14:22:40 2006 [2069955@cbi1c.internal.sanger.ac.uk] edit contig
+Wed 28 Jun 14:22:40 2006 [2069955@cbi1c.internal.sanger.ac.uk] > Register id=2 cnum=3 func=300048ebcd4 data=1405ff400 :Contig editor @ =3
+Wed 28 Jun 14:27:45 2006 [2069955@cbi1c.internal.sanger.ac.uk] > Deregister id=2 cnum=3 func=300048ebcd4 data=1405ff400 :Contig editor @ 59
+Wed 28 Jun 14:27:46 2006 [2069955@cbi1c.internal.sanger.ac.uk] > Deregister id=1 cnum=1 func=300048893c4 data=1404f6600 :Contig selector
+Wed 28 Jun 14:27:46 2006 [2069955@cbi1c.internal.sanger.ac.uk] close database
+Wed 28 Jun 14:27:46 2006 [2069955@cbi1c.internal.sanger.ac.uk] closing...
+Wed 28 Jun 14:27:46 2006 [2069955@cbi1c.internal.sanger.ac.uk] ...closed
+Wed 28 Jun 14:33:57 2006 [2070419@cbi1c.internal.sanger.ac.uk] opening rw... by jkb(205)
+Wed 28 Jun 14:33:57 2006 [2070419@cbi1c.internal.sanger.ac.uk] ...opened
+Wed 28 Jun 14:33:57 2006 [2070419@cbi1c.internal.sanger.ac.uk] check database
+Wed 28 Jun 14:33:57 2006 [2070419@cbi1c.internal.sanger.ac.uk] > Register id=1 cnum=1 func=300048893c4 data=1404fa800 :Contig selector
+Wed 28 Jun 14:33:57 2006 [2070419@cbi1c.internal.sanger.ac.uk] Database information
+Wed 28 Jun 14:33:59 2006 [2070419@cbi1c.internal.sanger.ac.uk] edit contig
+Wed 28 Jun 14:33:59 2006 [2070419@cbi1c.internal.sanger.ac.uk] > Register id=2 cnum=3 func=300048ebcd4 data=140536300 :Contig editor @ =3
+Wed 28 Jun 14:34:01 2006 [2070419@cbi1c.internal.sanger.ac.uk] edit contig
+Wed 28 Jun 14:34:57 2006 [2070419@cbi1c.internal.sanger.ac.uk] > Deregister id=2 cnum=3 func=300048ebcd4 data=140536300 :Contig editor @ 59
+Wed 28 Jun 14:34:59 2006 [2070419@cbi1c.internal.sanger.ac.uk] edit contig
+Wed 28 Jun 14:34:59 2006 [2070419@cbi1c.internal.sanger.ac.uk] > Register id=3 cnum=3 func=300048ebcd4 data=140597300 :Contig editor @ =3
+Wed 28 Jun 14:35:04 2006 [2070419@cbi1c.internal.sanger.ac.uk] > Deregister id=3 cnum=3 func=300048ebcd4 data=140597300 :Contig editor @ 59
+Wed 28 Jun 14:35:04 2006 [2070419@cbi1c.internal.sanger.ac.uk] > Deregister id=1 cnum=1 func=300048893c4 data=1404fa800 :Contig selector
+Wed 28 Jun 14:35:04 2006 [2070419@cbi1c.internal.sanger.ac.uk] > Deregister id=3 cnum=3 func=300048ebcd4 data=140597300 :Contig editor @ 59
+Wed 28 Jun 14:35:04 2006 [2070419@cbi1c.internal.sanger.ac.uk] break contig
+Wed 28 Jun 14:35:05 2006 [2070419@cbi1c.internal.sanger.ac.uk] > Register id=4 cnum=1 func=300048893c4 data=14027cc00 :Contig selector
+Wed 28 Jun 14:35:05 2006 [2070419@cbi1c.internal.sanger.ac.uk] edit contig
+Wed 28 Jun 14:35:05 2006 [2070419@cbi1c.internal.sanger.ac.uk] > Register id=5 cnum=3 func=300048ebcd4 data=1405a5800 :Contig editor @ =3
+Wed 28 Jun 14:35:05 2006 [2070419@cbi1c.internal.sanger.ac.uk] edit contig
+Wed 28 Jun 14:35:05 2006 [2070419@cbi1c.internal.sanger.ac.uk] > Register id=6 cnum=7 func=300048ebcd4 data=1405f2500 :Contig editor @ =7
+Wed 28 Jun 14:35:24 2006 [2070419@cbi1c.internal.sanger.ac.uk] > Register id=7 cnum=0 func=300048408a4 data=140806fc0 :
+Wed 28 Jun 14:35:26 2006 [2070419@cbi1c.internal.sanger.ac.uk] > Deregister id=7 cnum=0 func=300048408a4 data=140806fc0 :
+Wed 28 Jun 14:35:28 2006 [2070419@cbi1c.internal.sanger.ac.uk] find internal joins
+Wed 28 Jun 14:35:29 2006 [2070419@cbi1c.internal.sanger.ac.uk] > Register id=9 cnum=1 func=30004876c54 data=140854800 :Find Internal Joins
+Wed 28 Jun 14:35:37 2006 [2070419@cbi1c.internal.sanger.ac.uk] Align contigs (join editor)
+Wed 28 Jun 14:35:56 2006 [2070419@cbi1c.internal.sanger.ac.uk] > Deregister id=6 cnum=7 func=300048ebcd4 data=1405f2500 :Contig editor @ 102
+Wed 28 Jun 14:35:56 2006 [2070419@cbi1c.internal.sanger.ac.uk] > Register_join cfrom=7 cto=3
+
+Wed 28 Jun 14:35:56 2006 [2070419@cbi1c.internal.sanger.ac.uk] > Register_join done
+Wed 28 Jun 14:35:56 2006 [2070419@cbi1c.internal.sanger.ac.uk] > Delete contig. Renumber 7 (last) to 7 (deleting)
+Wed 28 Jun 14:35:56 2006 [2070419@cbi1c.internal.sanger.ac.uk] > Deregister id=5 cnum=3 func=300048ebcd4 data=1405a5800 :Contig editor @ 59
+Wed 28 Jun 14:35:56 2006 [2070419@cbi1c.internal.sanger.ac.uk] > Register id=5 cnum=3 func=300048ebcd4 data=1405a5800 :Contig editor @ 59
+Wed 28 Jun 14:37:23 2006 [2070419@cbi1c.internal.sanger.ac.uk] edit contig
+Wed 28 Jun 14:37:23 2006 [2070419@cbi1c.internal.sanger.ac.uk] > Register id=10 cnum=3 func=300048ebcd4 data=14089e900 :Contig editor @ =3
+Wed 28 Jun 14:44:09 2006 [2070419@cbi1c.internal.sanger.ac.uk] > Deregister id=10 cnum=3 func=300048ebcd4 data=14089e900 :Contig editor @ 59
+Wed 28 Jun 14:44:31 2006 [2070419@cbi1c.internal.sanger.ac.uk] edit contig
+Wed 28 Jun 14:44:32 2006 [2070419@cbi1c.internal.sanger.ac.uk] > Register id=11 cnum=3 func=300048ebcd4 data=14089e900 :Contig editor @ =3
+Wed 28 Jun 14:44:42 2006 [2070419@cbi1c.internal.sanger.ac.uk] > Deregister id=11 cnum=3 func=300048ebcd4 data=14089e900 :Contig editor @ 59
+Wed 28 Jun 16:12:17 2006 [2070419@cbi1c.internal.sanger.ac.uk] edit contig
+Wed 28 Jun 16:12:18 2006 [2070419@cbi1c.internal.sanger.ac.uk] > Register id=12 cnum=2 func=300048ebcd4 data=140309700 :Contig editor @ =2
+Wed 28 Jun 16:14:44 2006 [2070419@cbi1c.internal.sanger.ac.uk] > Deregister id=12 cnum=2 func=300048ebcd4 data=140309700 :Contig editor @ 2
+Wed 28 Jun 16:14:45 2006 [2070419@cbi1c.internal.sanger.ac.uk] > Deregister id=9 cnum=1 func=30004876c54 data=140854800 :Find Internal Joins
+Wed 28 Jun 16:14:45 2006 [2070419@cbi1c.internal.sanger.ac.uk] > Deregister id=4 cnum=1 func=300048893c4 data=14027cc00 :Contig selector
+Wed 28 Jun 16:14:47 2006 [2070419@cbi1c.internal.sanger.ac.uk] close database
+Wed 28 Jun 16:14:47 2006 [2070419@cbi1c.internal.sanger.ac.uk] closing...
+Wed 28 Jun 16:14:47 2006 [2070419@cbi1c.internal.sanger.ac.uk] ...closed
+Wed 28 Jun 16:48:13 2006 [2077230@cbi1c.internal.sanger.ac.uk] opening rw... by jkb(205)
+Wed 28 Jun 16:48:13 2006 [2077230@cbi1c.internal.sanger.ac.uk] ...opened
+Wed 28 Jun 16:48:13 2006 [2077230@cbi1c.internal.sanger.ac.uk] check database
+Wed 28 Jun 16:48:14 2006 [2077230@cbi1c.internal.sanger.ac.uk] > Register id=1 cnum=1 func=300048893c4 data=1404f0600 :Contig selector
+Wed 28 Jun 16:48:14 2006 [2077230@cbi1c.internal.sanger.ac.uk] Database information
+Wed 28 Jun 16:48:26 2006 [2077230@cbi1c.internal.sanger.ac.uk] > Deregister id=1 cnum=1 func=300048893c4 data=1404f0600 :Contig selector
+Wed 28 Jun 16:48:26 2006 [2077230@cbi1c.internal.sanger.ac.uk] close database
+Wed 28 Jun 16:48:26 2006 [2077230@cbi1c.internal.sanger.ac.uk] closing...
+Wed 28 Jun 16:48:26 2006 [2077230@cbi1c.internal.sanger.ac.uk] ...closed
+Wed 28 Jun 16:48:29 2006 [2077249@cbi1c.internal.sanger.ac.uk] opening rw... by jkb(205)
+Wed 28 Jun 16:48:29 2006 [2077249@cbi1c.internal.sanger.ac.uk] ...opened
+Wed 28 Jun 16:48:29 2006 [2077249@cbi1c.internal.sanger.ac.uk] check database
+Wed 28 Jun 16:48:29 2006 [2077249@cbi1c.internal.sanger.ac.uk] > Register id=1 cnum=1 func=300048893c4 data=1404f0600 :Contig selector
+Wed 28 Jun 16:48:29 2006 [2077249@cbi1c.internal.sanger.ac.uk] Database information
+Wed 28 Jun 16:49:33 2006 [2077249@cbi1c.internal.sanger.ac.uk] > Deregister id=1 cnum=1 func=300048893c4 data=1404f0600 :Contig selector
+Wed 28 Jun 16:49:33 2006 [2077249@cbi1c.internal.sanger.ac.uk] close database
+Wed 28 Jun 16:49:33 2006 [2077249@cbi1c.internal.sanger.ac.uk] closing...
+Wed 28 Jun 16:49:33 2006 [2077249@cbi1c.internal.sanger.ac.uk] ...closed
+Wed 28 Jun 16:49:36 2006 [2077383@cbi1c.internal.sanger.ac.uk] opening rw... by jkb(205)
+Wed 28 Jun 16:49:36 2006 [2077383@cbi1c.internal.sanger.ac.uk] ...opened
+Wed 28 Jun 16:49:36 2006 [2077383@cbi1c.internal.sanger.ac.uk] check database
+Wed 28 Jun 16:49:36 2006 [2077383@cbi1c.internal.sanger.ac.uk] > Register id=1 cnum=1 func=300048893c4 data=1404f6600 :Contig selector
+Wed 28 Jun 16:49:37 2006 [2077383@cbi1c.internal.sanger.ac.uk] Database information
+Wed 28 Jun 16:49:41 2006 [2077383@cbi1c.internal.sanger.ac.uk] > Register id=2 cnum=3 func=300048408a4 data=1405ba980 :
+Wed 28 Jun 17:14:23 2006 [2077383@cbi1c.internal.sanger.ac.uk] > Deregister id=2 cnum=3 func=300048408a4 data=1405ba980 :
+Wed 28 Jun 17:14:30 2006 [2077383@cbi1c.internal.sanger.ac.uk] Contig Navigation
+Wed 28 Jun 17:16:08 2006 [2077383@cbi1c.internal.sanger.ac.uk] > Register id=3 cnum=0 func=300048408a4 data=140766120 :
+Wed 28 Jun 17:16:11 2006 [2077383@cbi1c.internal.sanger.ac.uk] > Deregister id=3 cnum=0 func=300048408a4 data=140766120 :
+Wed 28 Jun 17:25:12 2006 [2077383@cbi1c.internal.sanger.ac.uk] > Deregister id=1 cnum=1 func=300048893c4 data=1404f6600 :Contig selector
+Wed 28 Jun 17:25:12 2006 [2077383@cbi1c.internal.sanger.ac.uk] close database
+Wed 28 Jun 17:25:12 2006 [2077383@cbi1c.internal.sanger.ac.uk] closing...
+Wed 28 Jun 17:25:12 2006 [2077383@cbi1c.internal.sanger.ac.uk] ...closed
+Wed 28 Jun 17:26:23 2006 [2078111@cbi1c.internal.sanger.ac.uk] opening rw... by jkb(205)
+Wed 28 Jun 17:26:23 2006 [2078111@cbi1c.internal.sanger.ac.uk] ...opened
+Wed 28 Jun 17:26:23 2006 [2078111@cbi1c.internal.sanger.ac.uk] check database
+Wed 28 Jun 17:26:23 2006 [2078111@cbi1c.internal.sanger.ac.uk] > Register id=1 cnum=1 func=300048893c4 data=1404ec400 :Contig selector
+Wed 28 Jun 17:26:23 2006 [2078111@cbi1c.internal.sanger.ac.uk] Database information
+Wed 28 Jun 17:26:34 2006 [2078111@cbi1c.internal.sanger.ac.uk] > Deregister id=1 cnum=1 func=300048893c4 data=1404ec400 :Contig selector
+Wed 28 Jun 17:26:34 2006 [2078111@cbi1c.internal.sanger.ac.uk] close database
+Wed 28 Jun 17:26:34 2006 [2078111@cbi1c.internal.sanger.ac.uk] closing...
+Wed 28 Jun 17:26:34 2006 [2078111@cbi1c.internal.sanger.ac.uk] ...closed
+Wed 28 Jun 17:26:55 2006 [2078119@cbi1c.internal.sanger.ac.uk] opening rw... by jkb(205)
+Wed 28 Jun 17:26:55 2006 [2078119@cbi1c.internal.sanger.ac.uk] ...opened
+Wed 28 Jun 17:26:55 2006 [2078119@cbi1c.internal.sanger.ac.uk] check database
+Wed 28 Jun 17:26:55 2006 [2078119@cbi1c.internal.sanger.ac.uk] > Register id=1 cnum=1 func=300048893c4 data=1404f8600 :Contig selector
+Wed 28 Jun 17:26:55 2006 [2078119@cbi1c.internal.sanger.ac.uk] Database information
+Wed 28 Jun 17:27:20 2006 [2078119@cbi1c.internal.sanger.ac.uk] Program terminated unexpectedly with signal 2.
+Wed 28 Jun 17:27:21 2006 [2078134@cbi1c.internal.sanger.ac.uk] opening rw... by jkb(205)
+Wed 28 Jun 17:27:21 2006 [2078134@cbi1c.internal.sanger.ac.uk] ...opened
+Wed 28 Jun 17:27:21 2006 [2078134@cbi1c.internal.sanger.ac.uk] check database
+Wed 28 Jun 17:27:21 2006 [2078134@cbi1c.internal.sanger.ac.uk] > Register id=1 cnum=1 func=300048893c4 data=1404ec200 :Contig selector
+Wed 28 Jun 17:27:21 2006 [2078134@cbi1c.internal.sanger.ac.uk] Database information
+Wed 28 Jun 17:27:27 2006 [2078134@cbi1c.internal.sanger.ac.uk] Program terminated unexpectedly with signal 11.
+Wed 28 Jun 17:27:27 2006 [2078134@cbi1c.internal.sanger.ac.uk] This is probably a bug.
+Wed 28 Jun 17:27:27 2006 [2078134@cbi1c.internal.sanger.ac.uk] Please report all bug reports at https://sourceforge.net/projects/staden/
+Wed 28 Jun 17:27:38 2006 [2078078@cbi1c.internal.sanger.ac.uk] opening rw... by jkb(205)
+Wed 28 Jun 17:27:38 2006 [2078078@cbi1c.internal.sanger.ac.uk] ...opened
+Wed 28 Jun 17:27:38 2006 [2078078@cbi1c.internal.sanger.ac.uk] check database
+Wed 28 Jun 17:27:38 2006 [2078078@cbi1c.internal.sanger.ac.uk] > Register id=1 cnum=1 func=300048893c4 data=1404ec600 :Contig selector
+Wed 28 Jun 17:27:38 2006 [2078078@cbi1c.internal.sanger.ac.uk] Database information
+Wed 28 Jun 17:27:40 2006 [2078078@cbi1c.internal.sanger.ac.uk] Program terminated unexpectedly with signal 11.
+Wed 28 Jun 17:27:40 2006 [2078078@cbi1c.internal.sanger.ac.uk] This is probably a bug.
+Wed 28 Jun 17:27:40 2006 [2078078@cbi1c.internal.sanger.ac.uk] Please report all bug reports at https://sourceforge.net/projects/staden/
+Fri 30 Jun 09:42:31 2006 [30197@deskpro16133] opening rw... by jkb(205)
+Fri 30 Jun 09:42:31 2006 [30197@deskpro16133] ...opened
+Fri 30 Jun 09:42:32 2006 [30197@deskpro16133] check database
+Fri 30 Jun 09:42:32 2006 [30197@deskpro16133] > Register id=1 cnum=1 func=0x407aa4ac data=0x8348280 :Contig selector
+Fri 30 Jun 09:42:32 2006 [30197@deskpro16133] Database information
+Fri 30 Jun 09:42:49 2006 [30197@deskpro16133] > Deregister id=1 cnum=1 func=0x407aa4ac data=0x8348280 :Contig selector
+Fri 30 Jun 09:42:49 2006 [30197@deskpro16133] close database
+Fri 30 Jun 09:42:49 2006 [30197@deskpro16133] closing...
+Fri 30 Jun 09:42:49 2006 [30197@deskpro16133] ...closed
+Fri 30 Jun 09:42:54 2006 [30213@deskpro16133] opening rw... by jkb(205)
+Fri 30 Jun 09:42:54 2006 [30213@deskpro16133] ...opened
+Fri 30 Jun 09:42:54 2006 [30213@deskpro16133] check database
+Fri 30 Jun 09:42:54 2006 [30213@deskpro16133] > Register id=1 cnum=1 func=0x407aa4ac data=0x8348270 :Contig selector
+Fri 30 Jun 09:42:54 2006 [30213@deskpro16133] Database information
+Fri 30 Jun 09:43:24 2006 [30213@deskpro16133] Program terminated unexpectedly with signal 2.
+Fri 30 Jun 09:51:57 2006 [30269@deskpro16133] opening rw... by jkb(205)
+Fri 30 Jun 09:51:57 2006 [30269@deskpro16133] ...opened
+Fri 30 Jun 09:51:57 2006 [30269@deskpro16133] check database
+Fri 30 Jun 09:51:57 2006 [30269@deskpro16133] > Register id=1 cnum=1 func=0x407aa4ac data=0x8348600 :Contig selector
+Fri 30 Jun 09:51:57 2006 [30269@deskpro16133] Database information
+Fri 30 Jun 09:52:03 2006 [30269@deskpro16133] > Deregister id=1 cnum=1 func=0x407aa4ac data=0x8348600 :Contig selector
+Fri 30 Jun 09:52:03 2006 [30269@deskpro16133] close database
+Fri 30 Jun 09:52:03 2006 [30269@deskpro16133] closing...
+Fri 30 Jun 09:52:03 2006 [30269@deskpro16133] ...closed
+Fri 30 Jun 09:52:07 2006 [30274@deskpro16133] opening rw... by jkb(205)
+Fri 30 Jun 09:52:07 2006 [30274@deskpro16133] ...opened
+Fri 30 Jun 09:52:07 2006 [30274@deskpro16133] check database
+Fri 30 Jun 09:52:07 2006 [30274@deskpro16133] > Register id=1 cnum=1 func=0x407aa4ac data=0x8348270 :Contig selector
+Fri 30 Jun 09:52:07 2006 [30274@deskpro16133] Database information
+Fri 30 Jun 09:52:46 2006 [30274@deskpro16133] Program terminated unexpectedly with signal 2.
+Fri 30 Jun 09:52:55 2006 [30284@deskpro16133] opening rw... by jkb(205)
+Fri 30 Jun 09:52:55 2006 [30284@deskpro16133] ...opened
+Fri 30 Jun 09:52:56 2006 [30284@deskpro16133] check database
+Fri 30 Jun 09:52:56 2006 [30284@deskpro16133] > Register id=1 cnum=1 func=0x407aa4ac data=0x8348280 :Contig selector
+Fri 30 Jun 09:52:56 2006 [30284@deskpro16133] Database information
+Fri 30 Jun 09:53:15 2006 [30284@deskpro16133] Program terminated unexpectedly with signal 2.
+Fri 30 Jun 09:53:44 2006 [30296@deskpro16133] opening rw... by jkb(205)
+Fri 30 Jun 09:53:44 2006 [30296@deskpro16133] ...opened
+Fri 30 Jun 09:53:44 2006 [30296@deskpro16133] check database
+Fri 30 Jun 09:53:44 2006 [30296@deskpro16133] > Register id=1 cnum=1 func=0x407aa4ac data=0x8348280 :Contig selector
+Fri 30 Jun 09:53:44 2006 [30296@deskpro16133] Database information
+Fri 30 Jun 09:53:48 2006 [30296@deskpro16133] > Register id=2 cnum=3 func=0x407696a3 data=0x83705a0 :
+Fri 30 Jun 09:54:03 2006 [30296@deskpro16133] find internal joins
+Fri 30 Jun 09:54:03 2006 [30296@deskpro16133] > Register id=4 cnum=1 func=0x407989c7 data=0x839d378 :Find Internal Joins
+Fri 30 Jun 09:54:16 2006 [30296@deskpro16133] > Register id=5 cnum=4 func=0x407696a3 data=0x8393578 :
+Fri 30 Jun 09:54:22 2006 [30296@deskpro16133] Program terminated unexpectedly with signal 11.
+Fri 30 Jun 09:54:22 2006 [30296@deskpro16133] This is probably a bug.
+Fri 30 Jun 09:54:22 2006 [30296@deskpro16133] Please report all bug reports at https://sourceforge.net/projects/staden/
+Fri 30 Jun 09:54:36 2006 [30304@deskpro16133] opening rw... by jkb(205)
+Fri 30 Jun 09:54:36 2006 [30304@deskpro16133] ...opened
+Fri 30 Jun 09:54:36 2006 [30304@deskpro16133] check database
+Fri 30 Jun 09:54:36 2006 [30304@deskpro16133] > Register id=1 cnum=1 func=0x407aa4ac data=0x83482f0 :Contig selector
+Fri 30 Jun 09:54:36 2006 [30304@deskpro16133] Database information
+Fri 30 Jun 09:54:41 2006 [30304@deskpro16133] > Register id=2 cnum=3 func=0x407696a3 data=0x8367310 :
+Fri 30 Jun 09:54:45 2006 [30304@deskpro16133] Program terminated unexpectedly with signal 11.
+Fri 30 Jun 09:54:45 2006 [30304@deskpro16133] This is probably a bug.
+Fri 30 Jun 09:54:45 2006 [30304@deskpro16133] Please report all bug reports at https://sourceforge.net/projects/staden/
+Fri 30 Jun 09:54:50 2006 [30312@deskpro16133] opening rw... by jkb(205)
+Fri 30 Jun 09:54:50 2006 [30312@deskpro16133] ...opened
+Fri 30 Jun 09:54:51 2006 [30312@deskpro16133] check database
+Fri 30 Jun 09:54:51 2006 [30312@deskpro16133] > Register id=1 cnum=1 func=0x407aa4ac data=0x8348280 :Contig selector
+Fri 30 Jun 09:54:51 2006 [30312@deskpro16133] Database information
+Fri 30 Jun 09:54:57 2006 [30312@deskpro16133] > Register id=2 cnum=3 func=0x407696a3 data=0x83653b0 :
+Fri 30 Jun 09:55:11 2006 [30312@deskpro16133] Program terminated unexpectedly with signal 11.
+Fri 30 Jun 09:55:11 2006 [30312@deskpro16133] This is probably a bug.
+Fri 30 Jun 09:55:11 2006 [30312@deskpro16133] Please report all bug reports at https://sourceforge.net/projects/staden/
+Fri 30 Jun 09:57:18 2006 [30323@deskpro16133] opening rw... by jkb(205)
+Fri 30 Jun 09:57:18 2006 [30323@deskpro16133] ...opened
+Fri 30 Jun 09:57:18 2006 [30323@deskpro16133] check database
+Fri 30 Jun 09:57:18 2006 [30323@deskpro16133] > Register id=1 cnum=1 func=0x407aa4ac data=0x8348608 :Contig selector
+Fri 30 Jun 09:57:18 2006 [30323@deskpro16133] Database information
+Fri 30 Jun 09:57:23 2006 [30323@deskpro16133] > Register id=2 cnum=3 func=0x407696a3 data=0x83675a8 :
+Fri 30 Jun 09:59:24 2006 [30333@deskpro16133] opening rw... by jkb(205)
+Fri 30 Jun 09:59:24 2006 [30333@deskpro16133] ...opened
+Fri 30 Jun 09:59:24 2006 [30333@deskpro16133] check database
+Fri 30 Jun 09:59:24 2006 [30333@deskpro16133] > Register id=1 cnum=1 func=0x407aa4ac data=0x8348678 :Contig selector
+Fri 30 Jun 09:59:24 2006 [30333@deskpro16133] Database information
+Fri 30 Jun 09:59:28 2006 [30333@deskpro16133] > Register id=2 cnum=3 func=0x407696a3 data=0x8373820 :
+Fri 30 Jun 09:59:35 2006 [30333@deskpro16133] > Register id=3 cnum=3 func=0x407696a3 data=0x806c820 :
+Fri 30 Jun 09:59:44 2006 [30338@deskpro16133] opening rw... by jkb(205)
+Fri 30 Jun 09:59:44 2006 [30338@deskpro16133] ...opened
+Fri 30 Jun 09:59:44 2006 [30338@deskpro16133] check database
+Fri 30 Jun 09:59:44 2006 [30338@deskpro16133] > Register id=1 cnum=1 func=0x407aa4ac data=0x83485f8 :Contig selector
+Fri 30 Jun 09:59:44 2006 [30338@deskpro16133] Database information
+Fri 30 Jun 10:00:19 2006 [30338@deskpro16133] > Register id=2 cnum=3 func=0x407696a3 data=0x8367868 :
+Fri 30 Jun 10:05:52 2006 [30385@deskpro16133] opening rw... by jkb(205)
+Fri 30 Jun 10:05:52 2006 [30385@deskpro16133] ...opened
+Fri 30 Jun 10:05:52 2006 [30385@deskpro16133] check database
+Fri 30 Jun 10:05:53 2006 [30385@deskpro16133] > Register id=1 cnum=1 func=0x407aa4b0 data=0x8348280 :Contig selector
+Fri 30 Jun 10:05:53 2006 [30385@deskpro16133] Database information
+Fri 30 Jun 10:05:57 2006 [30385@deskpro16133] > Register id=2 cnum=3 func=0x407696a3 data=0x8366760 :
+Fri 30 Jun 10:06:04 2006 [30385@deskpro16133] edit contig
+Fri 30 Jun 10:06:04 2006 [30385@deskpro16133] > Register id=3 cnum=3 func=0x407fe98d data=0x83b0ac8 :Contig editor @ =3
+Fri 30 Jun 10:06:07 2006 [30385@deskpro16133] > Deregister id=3 cnum=3 func=0x407fe98d data=0x83b0ac8 :Contig editor @ 59
+Fri 30 Jun 10:06:15 2006 [30385@deskpro16133] > Register id=4 cnum=3 func=0x407d0879 data=0x83e6c20 :Consistency display
+Fri 30 Jun 10:06:15 2006 [30385@deskpro16133] discrepancy graph
+Fri 30 Jun 10:06:16 2006 [30385@deskpro16133] > Register id=5 cnum=3 func=0x407d3f64 data=0x8407390 :Diploid graph
+Fri 30 Jun 10:06:17 2006 [30385@deskpro16133] edit contig
+Fri 30 Jun 10:06:18 2006 [30385@deskpro16133] > Register id=6 cnum=3 func=0x407fe98d data=0x8418d08 :Contig editor @ =3
+Fri 30 Jun 10:06:37 2006 [30385@deskpro16133] > Deregister id=6 cnum=3 func=0x407fe98d data=0x8418d08 :Contig editor @ 59
+Fri 30 Jun 10:07:03 2006 [30385@deskpro16133] > Register id=7 cnum=4 func=0x407696a3 data=0x8434ac0 :
+Fri 30 Jun 10:07:06 2006 [30385@deskpro16133] find internal joins
+Fri 30 Jun 10:07:06 2006 [30385@deskpro16133] > Register id=9 cnum=1 func=0x407989cb data=0x842eeb8 :Find Internal Joins
+Fri 30 Jun 10:07:09 2006 [30385@deskpro16133] > Register id=10 cnum=3 func=0x407fe98d data=0x8422498 :Contig editor @ =3
+Fri 30 Jun 10:07:09 2006 [30385@deskpro16133] > Register id=11 cnum=4 func=0x407fe98d data=0x8470b50 :Contig editor @ =4
+Fri 30 Jun 10:08:56 2006 [30385@deskpro16133] Align contigs (join editor)
+Fri 30 Jun 10:10:38 2006 [30385@deskpro16133] > Deregister id=10 cnum=3 func=0x407fe98d data=0x8422498 :Contig editor @ 59
+Fri 30 Jun 10:10:38 2006 [30385@deskpro16133] > Deregister id=11 cnum=4 func=0x407fe98d data=0x8470b50 :Contig editor @ 169
+Fri 30 Jun 10:10:42 2006 [30385@deskpro16133] > Deregister id=5 cnum=3 func=0x407d3f64 data=0x8407390 :Diploid graph
+Fri 30 Jun 10:10:42 2006 [30385@deskpro16133] > Deregister id=4 cnum=3 func=0x407d0879 data=0x83e6c20 :Consistency display
+Fri 30 Jun 10:10:48 2006 [30385@deskpro16133] > Register id=12 cnum=4 func=0x407d0879 data=0x8430bb0 :Consistency display
+Fri 30 Jun 10:10:48 2006 [30385@deskpro16133] confidence graph
+Fri 30 Jun 10:10:48 2006 [30385@deskpro16133] > Register id=13 cnum=4 func=0x407d3f64 data=0x84962f0 :Quality graph
+Fri 30 Jun 10:12:02 2006 [30385@deskpro16133] > Deregister id=13 cnum=4 func=0x407d3f64 data=0x84962f0 :Quality graph
+Fri 30 Jun 10:12:02 2006 [30385@deskpro16133] > Deregister id=12 cnum=4 func=0x407d0879 data=0x8430bb0 :Consistency display
+Fri 30 Jun 10:12:13 2006 [30385@deskpro16133] > Register id=14 cnum=3 func=0x407d0879 data=0x8430bb0 :Consistency display
+Fri 30 Jun 10:12:13 2006 [30385@deskpro16133] confidence graph
+Fri 30 Jun 10:12:13 2006 [30385@deskpro16133] > Register id=15 cnum=3 func=0x407d3f64 data=0x83af6c0 :Quality graph
+Fri 30 Jun 10:12:23 2006 [30385@deskpro16133] edit contig
+Fri 30 Jun 10:12:24 2006 [30385@deskpro16133] > Register id=16 cnum=3 func=0x407fe98d data=0x843df10 :Contig editor @ =3
+Fri 30 Jun 10:12:26 2006 [30385@deskpro16133] > Deregister id=16 cnum=3 func=0x407fe98d data=0x843df10 :Contig editor @ 59
+Fri 30 Jun 10:13:04 2006 [30385@deskpro16133] > Register id=17 cnum=4 func=0x407d0879 data=0x848c9a8 :Consistency display
+Fri 30 Jun 10:13:04 2006 [30385@deskpro16133] confidence graph
+Fri 30 Jun 10:13:04 2006 [30385@deskpro16133] > Register id=18 cnum=4 func=0x407d3f64 data=0x8414808 :Quality graph
+Fri 30 Jun 10:13:21 2006 [30385@deskpro16133] > Deregister id=18 cnum=4 func=0x407d3f64 data=0x8414808 :Quality graph
+Fri 30 Jun 10:13:21 2006 [30385@deskpro16133] > Deregister id=17 cnum=4 func=0x407d0879 data=0x848c9a8 :Consistency display
+Fri 30 Jun 10:13:22 2006 [30385@deskpro16133] > Deregister id=15 cnum=3 func=0x407d3f64 data=0x83af6c0 :Quality graph
+Fri 30 Jun 10:13:22 2006 [30385@deskpro16133] > Deregister id=14 cnum=3 func=0x407d0879 data=0x8430bb0 :Consistency display
+Fri 30 Jun 10:13:24 2006 [30385@deskpro16133] > Deregister id=9 cnum=1 func=0x407989cb data=0x842eeb8 :Find Internal Joins
+Fri 30 Jun 10:13:24 2006 [30385@deskpro16133] > Deregister id=1 cnum=1 func=0x407aa4b0 data=0x8348280 :Contig selector
+Fri 30 Jun 10:13:24 2006 [30385@deskpro16133] > Deregister id=2 cnum=3 func=0x407696a3 data=0x8366760 :
+Fri 30 Jun 10:13:24 2006 [30385@deskpro16133] > Deregister id=7 cnum=4 func=0x407696a3 data=0x8434ac0 :
+Fri 30 Jun 10:13:24 2006 [30385@deskpro16133] close database
+Fri 30 Jun 10:13:24 2006 [30385@deskpro16133] closing...
+Fri 30 Jun 10:13:24 2006 [30385@deskpro16133] ...closed
+Fri 30 Jun 10:14:20 2006 [30399@deskpro16133] opening rw... by jkb(205)
+Fri 30 Jun 10:14:20 2006 [30399@deskpro16133] ...opened
+Fri 30 Jun 10:14:21 2006 [30399@deskpro16133] check database
+Fri 30 Jun 10:14:21 2006 [30399@deskpro16133] > Register id=1 cnum=1 func=0x407aa4b0 data=0x8346be8 :Contig selector
+Fri 30 Jun 10:14:21 2006 [30399@deskpro16133] Database information
+Fri 30 Jun 10:14:25 2006 [30399@deskpro16133] Program terminated unexpectedly with signal 2.
+Fri 30 Jun 16:24:46 2006 [1794081@cbi1c.internal.sanger.ac.uk] opening ro... by jkb(205)
+Fri 30 Jun 16:24:46 2006 [1794081@cbi1c.internal.sanger.ac.uk] ...opened
+Fri 30 Jun 16:24:46 2006 [1794081@cbi1c.internal.sanger.ac.uk] > Register id=1 cnum=1 func=300048893c4 data=1404f3e00 :Contig selector
+Fri 30 Jun 16:24:46 2006 [1794081@cbi1c.internal.sanger.ac.uk] Database information
+Fri 30 Jun 16:24:48 2006 [1794081@cbi1c.internal.sanger.ac.uk] edit contig
+Fri 30 Jun 16:24:48 2006 [1794081@cbi1c.internal.sanger.ac.uk] > Register id=2 cnum=3 func=300048ebcd4 data=140544000 :Contig editor @ =3
+Fri 30 Jun 16:24:53 2006 [1794081@cbi1c.internal.sanger.ac.uk] > Deregister id=2 cnum=3 func=300048ebcd4 data=140544000 :Contig editor @ 59
+Fri 30 Jun 16:24:54 2006 [1794081@cbi1c.internal.sanger.ac.uk] > Deregister id=1 cnum=1 func=300048893c4 data=1404f3e00 :Contig selector
+Fri 30 Jun 16:24:54 2006 [1794081@cbi1c.internal.sanger.ac.uk] close database
+Fri 30 Jun 16:24:54 2006 [1794081@cbi1c.internal.sanger.ac.uk] closing...
+Fri 30 Jun 16:24:54 2006 [1794081@cbi1c.internal.sanger.ac.uk] ...closed
+Fri 30 Jun 16:25:44 2006 [30949@deskpro16133] opening rw... by jkb(205)
+Fri 30 Jun 16:25:44 2006 [30949@deskpro16133] ...opened
+Fri 30 Jun 16:25:53 2006 [30949@deskpro16133] check database
+Fri 30 Jun 16:25:55 2006 [30949@deskpro16133] > Register id=1 cnum=1 func=0x50a14b0 data=0x4d9eff8 :Contig selector
+Fri 30 Jun 16:25:55 2006 [30949@deskpro16133] Database information
+Fri 30 Jun 16:32:48 2006 [30949@deskpro16133] edit contig
+Fri 30 Jun 16:32:50 2006 [30949@deskpro16133] > Register id=2 cnum=3 func=0x50f598d data=0x4eb2858 :Contig editor @ =3
+Fri 30 Jun 16:33:14 2006 [30949@deskpro16133] > Deregister id=2 cnum=3 func=0x50f598d data=0x4eb2858 :Contig editor @ 59
+Fri 30 Jun 16:33:17 2006 [30949@deskpro16133] > Deregister id=1 cnum=1 func=0x50a14b0 data=0x4d9eff8 :Contig selector
+Fri 30 Jun 16:33:17 2006 [30949@deskpro16133] close database
+Fri 30 Jun 16:33:17 2006 [30949@deskpro16133] closing...
+Fri 30 Jun 16:33:17 2006 [30949@deskpro16133] ...closed
+Wed 05 Jul 15:16:13 2006 [8529@deskpro16133] opening rw... by jkb(205)
+Wed 05 Jul 15:16:13 2006 [8529@deskpro16133] ...opened
+Wed 05 Jul 15:16:13 2006 [8529@deskpro16133] check database
+Wed 05 Jul 15:16:13 2006 [8529@deskpro16133] > Register id=1 cnum=1 func=0x407aa4b0 data=0x839a250 :Contig selector
+Wed 05 Jul 15:16:13 2006 [8529@deskpro16133] Database information
+Wed 05 Jul 15:16:14 2006 [8529@deskpro16133] edit contig
+Wed 05 Jul 15:16:15 2006 [8529@deskpro16133] > Register id=2 cnum=3 func=0x407fe98d data=0x83b2c78 :Contig editor @ =3
+Wed 05 Jul 15:16:18 2006 [8529@deskpro16133] > Deregister id=2 cnum=3 func=0x407fe98d data=0x83b2c78 :Contig editor @ 59
+Wed 05 Jul 15:16:19 2006 [8529@deskpro16133] > Deregister id=1 cnum=1 func=0x407aa4b0 data=0x839a250 :Contig selector
+Wed 05 Jul 15:16:19 2006 [8529@deskpro16133] close database
+Wed 05 Jul 15:16:19 2006 [8529@deskpro16133] closing...
+Wed 05 Jul 15:16:19 2006 [8529@deskpro16133] ...closed

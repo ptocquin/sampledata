@@ -1,0 +1,112 @@
+#nexus
+
+BEGIN Taxa;
+DIMENSIONS ntax=11;
+TAXLABELS
+[1] 'Rbuchananii1'
+[2] 'Rpinguis1'
+[3] 'Rpinguis2'
+[4] 'Rhaastii_piliferus1'
+[5] 'Rverticillatus1'
+[6] 'Rverticillatus2'
+[7] 'Rnivicola'
+[8] 'Rcrithmifolius_crithmifoilus'
+[9] 'Rcrithmifolius_paucifolius'
+[10] 'Rcrithmifolius_crithmifoilus2'
+[11] 'Renysii3'
+;
+END; [Taxa]
+BEGIN Trees;
+[1] tree 'ITS'=((Rcrithmifolius_crithmifoilus2:0.0016398561,(Rcrithmifolius_paucifolius:0.0032817326,(Renysii3:0.012038115,(((Rbuchananii1:0.004664272,Rhaastii_piliferus1:0.011751707):0.001566875,((Rverticillatus1:0.0,Rverticillatus2:1.2544317E-5):0.0019109586,Rnivicola:0.0014140646):0.004717326):0.008807412,(Rpinguis1:8.076752E-4,Rpinguis2:0.0025090743):0.026715282):0.007517834):0.011093573):3.675614E-5):1.3405267E-5,Rcrithmifolius_crithmifoilus:1.3405267E-5):0;
+[2] tree 'JSA'=((Rverticillatus2:1.630824E-4,((Rnivicola:0.002132714,(((Rcrithmifolius_crithmifoilus:0.0,Rcrithmifolius_crithmifoilus2:0.0):0.001883807,Renysii3:1.04264574E-4):0.0036729244,Rcrithmifolius_paucifolius:0.002197962):0.0017880965):0.009447271,((Rbuchananii1:0.0021063315,Rhaastii_piliferus1:0.0054764473):0.004328156,(Rpinguis1:0.0038139694,Rpinguis2:9.2280454E-5):0.019187912):0.0012008335):0.009287226):9.124946E-4,Rverticillatus1:9.124946E-4):0;
+END; [Trees]
+
+BEGIN st_Graph;
+DIMENSIONS ntax=11 nvertices=24 nedges=25;
+DRAW to_scale;
+TRANSLATE
+2 Rbuchananii1,
+3 Rhaastii_piliferus1,
+4 Rverticillatus2,
+5 Rverticillatus1,
+6 Rnivicola,
+7 Rcrithmifolius_paucifolius,
+8 Rcrithmifolius_crithmifoilus,
+9 Rcrithmifolius_crithmifoilus2,
+10 Renysii3,
+11 Rpinguis2,
+12 Rpinguis1,
+;
+VERTICES
+1 -0.023314971 6.8519823E-4,
+2 0.0 0.0,
+3 0.0077226423 0.009314244,
+4 -0.012583755 0.014590761,
+5 -0.0129164355 0.01623742,
+6 -0.025637617 0.0033656745,
+7 -0.050032936 -0.018608395,
+8 -0.048821867 -0.023973903,
+9 -0.04987002 -0.02520567,
+10 -0.038264297 -0.03182138,
+11 0.015055266 -0.046729922,
+12 0.0178626 -0.046862297,
+13 -0.0067706034 0.0,
+14 0.013974625 -0.044363648,
+15 -0.048796143 -0.023966348,
+16 -0.012656713 0.014431005,
+17 -0.026302356 -0.011995616,
+18 -0.04477521 -0.020152202,
+19 -0.034131005 -0.017026782,
+20 -0.036536258 -0.019802593,
+21 -0.016085574 -0.009672326,
+22 -0.012426844 -0.0016608221,
+23 -0.047180463 -0.022928014,
+24 -0.014250381 0.003346802,
+;
+VLABELS
+2 'Rbuchananii1' x=12 y=6 font='Default-PLAIN-16',
+3 'Rhaastii_piliferus1' x=10 y=13 font='Default-PLAIN-16',
+4 'Rverticillatus2' x=12 y=11 font='Default-PLAIN-16',
+5 'Rverticillatus1' x=-57 y=23 font='Default-PLAIN-16',
+6 'Rnivicola' x=-42 y=15 font='Default-PLAIN-16',
+7 'Rcrithmifolius_paucifolius' x=-139 y=23 font='Default-PLAIN-16',
+8 'Rcrithmifolius_crithmifoilus' x=-120 y=11 font='Default-PLAIN-16',
+9 'Rcrithmifolius_crithmifoilus2' x=-160 y=-8 font='Default-PLAIN-16',
+10 'Renysii3' x=-34 y=-6 font='Default-PLAIN-16',
+11 'Rpinguis2' x=-34 y=-5 font='Default-PLAIN-16',
+12 'Rpinguis1' x=10 y=15 font='Default-PLAIN-16',
+;
+EDGES
+1 1 6 eclass=4 weight=0.0035467786,
+2 13 2 eclass=15 weight=0.0067706034,
+3 13 3 eclass=22 weight=0.017228154,
+4 14 11 eclass=16 weight=0.0026013548,
+5 14 12 eclass=11 weight=0.0046216445,
+6 15 8 eclass=3 weight=2.6810534E-5,
+7 15 9 eclass=14 weight=0.0016398561,
+8 16 4 eclass=7 weight=1.7562672E-4,
+9 16 5 eclass=6 weight=0.0018249892,
+10 18 7 eclass=20 weight=0.0054796943,
+11 19 17 eclass=21 weight=0.009305931,
+12 18 19 eclass=17 weight=0.011093573,
+13 20 10 eclass=10 weight=0.01214238,
+14 19 20 eclass=13 weight=0.0036729244,
+15 14 21 eclass=8 weight=0.045903195,
+16 22 21 eclass=2 weight=0.008807412,
+17 13 22 eclass=5 weight=0.0058950307,
+18 23 20 eclass=17 weight=0.011093573,
+19 23 18 eclass=13 weight=0.0036729244,
+20 15 23 eclass=12 weight=0.0019205632,
+21 24 1 eclass=19 weight=0.009447271,
+22 16 24 eclass=9 weight=0.011198184,
+23 17 21 weight=0.010648104,
+24 22 24 weight=0.005918159,
+25 17 1 weight=0.013524738,
+;
+END; [st_Graph]
+BEGIN st_Assumptions;
+	uptodate;
+	extaxa= 'Ranemoneus' 'Rlyallii2' 'RlyalliiFJ' 'RlyalliiTB' 'Rlyallii3' 'Rlyallii4' 'Rbuchananii4' 'Rbuchananii2' 'Rlyallii5' 'Rlyallii1' 'Rhaastii_haastii1' 'Rhaastii_haastii2' 'Rgrahamii' 'Rgrahamii2' 'Rsericophyllus1' 'Rsericophyllus2' 'Rsericophyllus3' 'Rsericophyllus4' 'Rsericophyllus5' 'Rsericophyllus8' 'Rsericophyllus6' 'Rpachyrrhizus1' 'Rpachyrrhizus2' 'Rviridis' 'Rgunnianus' 'Rhaastii_piliferus2' 'Rscrithalis' 'Rinsignis1' 'Rinsignis2' 'Rgodleyanus1' 'Rgodleyanus2' 'Rgracilipes1' 'Rgracilipes2' 'Renysii1' 'Renysii2';
+	treestransform=GalledTree ShowScaffolding = false ShowDebuggingIDs = false;
+	no autolayoutnodelabels;
+END; [st_Assumptions]

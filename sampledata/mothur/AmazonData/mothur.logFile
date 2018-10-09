@@ -1,0 +1,60 @@
+Linux version
+
+mothur v.1.7.2
+Last updated: 12/04/2009
+
+by
+Patrick D. Schloss
+
+Department of Microbiology & Immunology
+University of Michigan
+pschloss@umich.edu
+http://www.mothur.org
+
+When using, please cite:
+Schloss, P.D., et al., Introducing mothur: Open-source, platform-independent, community-supported software for describing and comparing microbial communities. Appl Environ Microbiol, 2009. 75(23):7537-41.
+
+Distributed under the GNU General Public License
+
+Type 'help()' for information on the commands that are available
+
+Type 'quit()' to exit program
+
+mothur > read.dist(phylip=98_sq_phylip_amazon.dist, cutoff=0.1)
+********************#****#****#****#****#****#****#****#****#****#****#
+Reading matrix:     |||||||||||||||||||||||||||||||||||||||||||||||||||
+***********************************************************************
+It took 0 secs to read 
+
+mothur > cluster()
+It took 0 seconds to cluster
+
+mothur > collect.single()
+unique
+0.00
+0.01
+0.02
+0.03
+0.04
+0.05
+0.06
+0.07
+0.08
+0.09
+0.10
+
+mothur > rarefaction.single()
+unique
+0.00
+0.01
+0.02
+0.03
+0.04
+0.05
+0.06
+0.07
+0.08
+0.09
+0.10
+
+mothur > quit()

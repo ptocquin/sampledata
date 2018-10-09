@@ -1,0 +1,41 @@
+#NEXUS
+
+[! Example of Distance Data. Subjective color distances measured by Helm]
+
+BEGIN taxa;
+    DIMENSIONS ntax=10;
+TAXLABELS
+    red-purple
+    red
+    yellow
+    yellowish
+    greenish
+    green
+    blue
+    purple-blue
+    purple
+    purple-reddish
+;
+END;
+
+BEGIN distances;
+    DIMENSIONS ntax=10;
+    FORMAT
+        triangle=LOWER
+        diagonal
+        labels
+        missing=?
+    ;
+    MATRIX
+    red-purple         0
+    red                61 0
+    yellow             105 55 0
+    yellowish  121 99 54 0
+    greenish  131 116 81 33 0
+    green              124 124 101 55 35 0
+    blue               106 130 121 85 65 41 0
+    purple-blue        85 125 131 106 93 73 45 0
+    purple             52 99 128 121 116 102 84 45 0
+    purple-reddish     31 80 118 124 121 115 94 62 30 0
+    ;
+END;

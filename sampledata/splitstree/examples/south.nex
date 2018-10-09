@@ -1,0 +1,31 @@
+#NEXUS
+BEGIN taxa;
+    DIMENSIONS ntax=7;
+TAXLABELS
+[1]    Christchurch
+[2]    Wellington
+[3]    Dunedin
+[4]    Greymouth
+[5]    Invercargill
+[6]    Picton
+[7]    Queenstown
+;
+END;
+BEGIN distances;
+    DIMENSIONS ntax=7;
+    FORMAT
+        triangle=LOWER
+        diagonal
+        labels
+        missing=?
+    ;
+    MATRIX
+    Christchurch  0
+    Wellington    403 0
+    Dunedin       361 764 0
+    Greymouth     249 424 600 0
+    Invercargill  575 968 214 717 0
+    Picton        322 139 654 343 897 0
+    Queenstown    535 938 310 555 185 857 0
+    ;
+END;

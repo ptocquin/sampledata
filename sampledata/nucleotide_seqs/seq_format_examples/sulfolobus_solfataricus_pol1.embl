@@ -1,0 +1,121 @@
+ID   SSPOLS     standard; DNA; PRO; 2992 BP.
+XX
+AC   X64466;
+XX
+SV   X64466.1
+XX
+DT   30-MAY-1992 (Rel. 32, Created)
+DT   15-JUN-1992 (Rel. 32, Last updated, Version 4)
+XX
+DE   S.solfataricus polS gene
+XX
+KW   DNA polymerase; polS gene.
+XX
+OS   Sulfolobus solfataricus
+OC   Archaea; Crenarchaeota; Thermoprotei; Sulfolobales; Sulfolobaceae;
+OC   Sulfolobus.
+XX
+RN   [1]
+RP   1-2992
+RA   Pisani F.;
+RT   ;
+RL   Submitted (18-FEB-1992) to the EMBL/GenBank/DDBJ databases.
+RL   F. Pisani, Ist Internazionale di Genetica e Biofisica, Via Marconi 10,
+RL   80125 Naples, ITALY
+XX
+RN   [2]
+RP   1-2992
+RX   MEDLINE; 92310966.
+RA   Pisani F.M., Martino C., Rossi M.;
+RT   "A DNA polymerase from the archaeon Sulfolobus solfataricus shows sequence
+RT   similarity to family B DNA polymerases";
+RL   Nucleic Acids Res. 20:2711-2716(1992).
+XX
+DR   SWISS-PROT; P26811; DPO1_SULSO.
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..2992
+FT                   /db_xref="taxon:2287"
+FT                   /organism="Sulfolobus solfataricus"
+FT                   /strain="MT4"
+FT   CDS             198..2846
+FT                   /db_xref="SWISS-PROT:P26811"
+FT                   /transl_table=11
+FT                   /gene="polS"
+FT                   /EC_number="2.7.7.7"
+FT                   /product="DNA-directed DNA polymerase"
+FT                   /protein_id="CAA45795.1"
+FT                   /translation="MTKQLTLFDIPSSKPAKSEQNTQQSQQSAPVEEKKVVRREWLEEA
+FT                   QENKIYFLLQVDYDGKKGKAVCKLFDKETQKIYALYDNTGHKPYFLVDLEPDKVGKIPK
+FT                   IVRDPSFDHIETVSKIDPYTWNKFKLTKIVVRDPHAVRRLRNDVPKAYEAHIKYFNNYM
+FT                   YDIGLIPGMPYVVKNGKLESVYLSLDEKDVEEIKKAFADSDEMTRQMAVDWLPIFETEI
+FT                   PKIKRVAIDIEVYTPVKGRIPDSQKAEFPIISIALAGSDGLKKVLVLNRNDVNEGSVKL
+FT                   DGISVERFNTEYELLGRFFDILLEYPIVLTFNGDDFDLPYIYFRALKLGYFPEEIPIDV
+FT                   AGKDEAKYLAGLHIDLYKFFFNKAVRNYAFEGKYNEYNLDAVAKALLGTSKVKVDTLIS
+FT                   FLDVEKLIEYNFRDAEITLQLTTFNNDLTMKLIVLFSRISRLGIEELTRTEISTWVKNL
+FT                   YYWEHRKRNWLIPLKEEILAKSSNIRTSALIKGKGYKGAVVIDPPAGIFFNITVLDFAS
+FT                   LYPSIIRTWNLSYETVDIQQCKKPYEVKDETGEVLHIVCMDRPGITAVITGLLRDFRVK
+FT                   IYKKKAKNPNNSEEQKLLYDVVQRAMKVFINATYGVFGAETFPLYAPRVAESVTALGRY
+FT                   VITSTVKKAREEGLTVLYGDTDSLFLLNPPKNSLENIIKWVKTTFNLDLEVDKTYKFVA
+FT                   FSGLKKNYFGVYQDGKVDIKGMLVKKRNTPEFVKKVFNEVKELMISINSPNDVKEIKRK
+FT                   IVDVVKGSYEKLKNKGYNLDELAFKVMLSKPLDAYKKNTPQHVKAALQLRPFGVNVLPR
+FT                   DIIYYVKVRSKDGVKPVQLAKVTEIDAEKYLEALRSTFEQILRAFGVSWDEIAATMSID
+FT                   SFFSYPSKGNS"
+FT   terminator      2939..2946
+FT                   /note="archaeal terminator"
+XX
+SQ   Sequence 2992 BP; 1071 A; 429 C; 605 G; 887 T; 0 other;
+     atctggtgtt tttctttctc atgcatatta ataatgttta ctaagattca aggcatatct        60
+     cttaagaaat ggctagatga atgagaggag caggagtagc ttaagaatct taaaacttag       120
+     gttcttcata aatgtctatt ttttctcccg cattaaaact tatagcgtat ttctcagaaa       180
+     ataatatatg ttagaaaatg actaagcaac ttaccttatt tgatattcct tcatctaaac       240
+     ccgctaagag tgaacaaaat actcaacaat cgcaacagag tgctcccgtt gaggaaaaaa       300
+     aggtagttag gagggaatgg cttgaagagg ctcaggaaaa taagatatac ttcctattgc       360
+     aagtagatta tgatggtaag aaaggtaagg ctgtatgtaa gctattcgat aaagaaactc       420
+     aaaagatcta tgccctatat gataatactg gacataagcc ctactttcta gtagatcttg       480
+     aacctgataa agtaggtaaa atacctaaga ttgttagaga tccatctttt gatcacatag       540
+     agactgtgag taagatagac ccgtatactt ggaataaatt caaattaact aaaatcgttg       600
+     ttagagatcc ccatgcagtg agaagattaa ggaatgatgt tccaaaagcg tatgaggctc       660
+     acataaaata ttttaacaac tacatgtatg acataggtct aatccccggt atgccttatg       720
+     ttgttaagaa tgggaagtta gaaagtgtct atttgtcttt ggacgagaaa gatgttgagg       780
+     agattaagaa agccttcgct gattcagatg aaatgactag acaaatggca gtcgattggc       840
+     ttcccatatt tgaaactgaa atacctaaaa taaaaagggt tgcgatagat attgaggtat       900
+     atacaccagt taagggtaga atcccagact ctcagaaggc tgagtttcca attataagta       960
+     tagcattagc ggggagtgat ggattaaaga aggttcttgt attaaatagg aatgatgtca      1020
+     atgaagggag tgtaaaactt gatggaatat cggttgagag atttaataca gagtacgaac      1080
+     tgttagggag attttttgat atactgttag aatatccgat agttcttaca ttcaatggag      1140
+     acgattttga tttaccttac atttacttta gggcgttaaa gttaggttat tttccagagg      1200
+     aaattcccat agatgtagct ggtaaggatg aagccaagta tctagctggt cttcatatag      1260
+     acttgtacaa attcttcttt aataaggcag tgaggaatta tgcatttgag ggaaagtata      1320
+     atgaatacaa tttagatgca gttgcaaagg ccttattagg gacatcaaaa gttaaggtag      1380
+     atacgctaat atctttctta gatgtagaaa aattaataga atataacttt agggatgccg      1440
+     aaatcacact tcagcttact acatttaata acgacctaac tatgaagtta attgtattgt      1500
+     tttctagaat ttctagacta ggaattgagg aattaactcg gacagaaata tctacttggg      1560
+     taaagaattt atattattgg gaacatagaa aaagaaattg gttaattcct cttaaggaag      1620
+     aaatcttagc gaaatcctct aatataagaa cttctgctct aataaaggga aaaggatata      1680
+     aaggcgcagt agttatagac ccacctgctg gaatattctt taacataact gttttagatt      1740
+     ttgcatcact atatccttca ataattagaa cgtggaatct tagttacgag actgtagaca      1800
+     ttcaacaatg taagaagccc tatgaagtaa aggatgagac aggggaggtg ctacatatag      1860
+     tttgcatgga taggccaggt ataacagcag taataactgg gttactaaga gacttcagag      1920
+     taaagatata caaaaagaaa gcgaagaacc ctaataatag tgaggaacaa aaactactct      1980
+     atgacgtagt acagagagca atgaaagtat tcataaatgc tacttacggt gtatttggag      2040
+     ctgaaacatt tccgttatat gcgccacgtg tagcggagag tgttactgca ctggggagat      2100
+     acgttattac cagtaccgta aagaaagcta gggaagaagg tttaactgta ttatacggtg      2160
+     atactgattc tttattcctc cttaatcctc ccaagaatag tttagaaaat attataaaat      2220
+     gggttaaaac tactttcaat ttagatttgg aagttgataa aacctacaag tttgtggctt      2280
+     tttctggatt gaagaagaat tactttggag tataccaaga cgggaaggtt gatataaagg      2340
+     ggatgttagt gaagaagaga aacacgccgg aatttgtaaa gaaggtattt aacgaggtaa      2400
+     aggagctaat gatctccata aactcgccaa acgatgtgaa ggagattaaa agaaaaattg      2460
+     tagacgtagt taaaggatca tatgaaaaac taaaaaacaa aggatacaat ctggacgaat      2520
+     tagcgtttaa agtaatgcta tcgaagcctt tagatgcgta caaaaagaac actccccaac      2580
+     acgtaaaggc agctctacaa cttagaccat ttggagttaa cgtattacca cgagatataa      2640
+     tatactatgt taaggttaga tctaaagatg gagtgaaacc agtacaacta gctaaagtta      2700
+     ctgaaataga cgcagagaaa tatttagaag cgttaagaag tacgtttgag caaatcttaa      2760
+     gggcattcgg agtctcttgg gatgagatag cagccacaat gtcgatagat tcgttctttt      2820
+     catacccaag taaaggaaat agttaattaa gaaagatagc aattcttcat aataaatttt      2880
+     tagaagcaat ttttacccac ataagttata aagattttta gaaaatttaa atcgtatatt      2940
+     tttattcttc ctcctcttcc tctaattctt cctttaattc ttcttgtttc tg              2992
+//
+
+

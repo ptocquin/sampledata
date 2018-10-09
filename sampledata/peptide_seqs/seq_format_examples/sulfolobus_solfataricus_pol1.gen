@@ -1,0 +1,51 @@
+LOCUS       CAA45795                 882 aa            linear   BCT 15-JUN-1992
+DEFINITION  DNA-directed DNA polymerase [Sulfolobus solfataricus].
+ACCESSION   CAA45795
+VERSION     CAA45795.1  GI:47565
+DBSOURCE    embl locus SSPOLS, accession X64466.1
+KEYWORDS    .
+SOURCE      Sulfolobus solfataricus.
+  ORGANISM  Sulfolobus solfataricus
+            Archaea; Crenarchaeota; Thermoprotei; Sulfolobales; Sulfolobaceae;
+            Sulfolobus.
+REFERENCE   1  (residues 1 to 882)
+  AUTHORS   Pisani,F.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (18-FEB-1992) F. Pisani, Ist Internazionale di Genetica e
+            Biofisica, Via Marconi 10, 80125 Naples, ITALY
+REFERENCE   2  (residues 1 to 882)
+  AUTHORS   Pisani,F.M., De Martino,C. and Rossi,M.
+  TITLE     A DNA polymerase from the archaeon Sulfolobus solfataricus shows
+            sequence similarity to family B DNA polymerases
+  JOURNAL   Nucleic Acids Res. 20 (11), 2711-2716 (1992)
+  MEDLINE   92310966
+FEATURES             Location/Qualifiers
+     source          1..882
+                     /organism="Sulfolobus solfataricus"
+                     /strain="MT4"
+                     /db_xref="taxon:2287"
+     Protein         1..882
+                     /product="DNA-directed DNA polymerase"
+                     /EC_number="2.7.7.7"
+     CDS             1..882
+                     /gene="polS"
+                     /coded_by="X64466.1:198..2846"
+                     /transl_table=11
+                     /db_xref="SWISS-PROT:P26811"
+ORIGIN      
+        1 mtkqltlfdi psskpakseq ntqqsqqsap veekkvvrre wleeaqenki yfllqvdydg
+       61 kkgkavcklf dketqkiyal ydntghkpyf lvdlepdkvg kipkivrdps fdhietvski
+      121 dpytwnkfkl tkivvrdpha vrrlrndvpk ayeahikyfn nymydiglip gmpyvvkngk
+      181 lesvylslde kdveeikkaf adsdemtrqm avdwlpifet eipkikrvai dievytpvkg
+      241 ripdsqkaef piisialags dglkkvlvln rndvnegsvk ldgisverfn teyellgrff
+      301 dilleypivl tfngddfdlp yiyfralklg yfpeeipidv agkdeakyla glhidlykff
+      361 fnkavrnyaf egkyneynld avakallgts kvkvdtlisf ldveklieyn frdaeitlql
+      421 ttfnndltmk livlfsrisr lgieeltrte istwvknlyy wehrkrnwli plkeeilaks
+      481 snirtsalik gkgykgavvi dppagiffni tvldfaslyp siirtwnlsy etvdiqqckk
+      541 pyevkdetge vlhivcmdrp gitavitgll rdfrvkiykk kaknpnnsee qkllydvvqr
+      601 amkvfinaty gvfgaetfpl yaprvaesvt algryvitst vkkareeglt vlygdtdslf
+      661 llnppknsle niikwvkttf nldlevdkty kfvafsglkk nyfgvyqdgk vdikgmlvkk
+      721 rntpefvkkv fnevkelmis inspndvkei krkivdvvkg syeklknkgy nldelafkvm
+      781 lskpldaykk ntpqhvkaal qlrpfgvnvl prdiiyyvkv rskdgvkpvq lakvteidae
+      841 kylealrstf eqilrafgvs wdeiaatmsi dsffsypskg ns
+//

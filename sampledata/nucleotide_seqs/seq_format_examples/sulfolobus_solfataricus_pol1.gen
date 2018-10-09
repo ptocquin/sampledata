@@ -1,0 +1,107 @@
+LOCUS       SSPOLS                  2992 bp    DNA     linear   BCT 15-JUN-1992
+DEFINITION  S.solfataricus polS gene.
+ACCESSION   X64466
+VERSION     X64466.1  GI:47564
+KEYWORDS    DNA polymerase; polS gene.
+SOURCE      Sulfolobus solfataricus.
+  ORGANISM  Sulfolobus solfataricus
+            Archaea; Crenarchaeota; Thermoprotei; Sulfolobales; Sulfolobaceae;
+            Sulfolobus.
+REFERENCE   1  (bases 1 to 2992)
+  AUTHORS   Pisani,F.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (18-FEB-1992) F. Pisani, Ist Internazionale di Genetica e
+            Biofisica, Via Marconi 10, 80125 Naples, ITALY
+REFERENCE   2  (bases 1 to 2992)
+  AUTHORS   Pisani,F.M., De Martino,C. and Rossi,M.
+  TITLE     A DNA polymerase from the archaeon Sulfolobus solfataricus shows
+            sequence similarity to family B DNA polymerases
+  JOURNAL   Nucleic Acids Res. 20 (11), 2711-2716 (1992)
+  MEDLINE   92310966
+FEATURES             Location/Qualifiers
+     source          1..2992
+                     /organism="Sulfolobus solfataricus"
+                     /strain="MT4"
+                     /db_xref="taxon:2287"
+     gene            198..2846
+                     /gene="polS"
+     CDS             198..2846
+                     /gene="polS"
+                     /EC_number="2.7.7.7"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="DNA-directed DNA polymerase"
+                     /protein_id="CAA45795.1"
+                     /db_xref="GI:47565"
+                     /db_xref="SWISS-PROT:P26811"
+                     /translation="MTKQLTLFDIPSSKPAKSEQNTQQSQQSAPVEEKKVVRREWLEE
+                     AQENKIYFLLQVDYDGKKGKAVCKLFDKETQKIYALYDNTGHKPYFLVDLEPDKVGKI
+                     PKIVRDPSFDHIETVSKIDPYTWNKFKLTKIVVRDPHAVRRLRNDVPKAYEAHIKYFN
+                     NYMYDIGLIPGMPYVVKNGKLESVYLSLDEKDVEEIKKAFADSDEMTRQMAVDWLPIF
+                     ETEIPKIKRVAIDIEVYTPVKGRIPDSQKAEFPIISIALAGSDGLKKVLVLNRNDVNE
+                     GSVKLDGISVERFNTEYELLGRFFDILLEYPIVLTFNGDDFDLPYIYFRALKLGYFPE
+                     EIPIDVAGKDEAKYLAGLHIDLYKFFFNKAVRNYAFEGKYNEYNLDAVAKALLGTSKV
+                     KVDTLISFLDVEKLIEYNFRDAEITLQLTTFNNDLTMKLIVLFSRISRLGIEELTRTE
+                     ISTWVKNLYYWEHRKRNWLIPLKEEILAKSSNIRTSALIKGKGYKGAVVIDPPAGIFF
+                     NITVLDFASLYPSIIRTWNLSYETVDIQQCKKPYEVKDETGEVLHIVCMDRPGITAVI
+                     TGLLRDFRVKIYKKKAKNPNNSEEQKLLYDVVQRAMKVFINATYGVFGAETFPLYAPR
+                     VAESVTALGRYVITSTVKKAREEGLTVLYGDTDSLFLLNPPKNSLENIIKWVKTTFNL
+                     DLEVDKTYKFVAFSGLKKNYFGVYQDGKVDIKGMLVKKRNTPEFVKKVFNEVKELMIS
+                     INSPNDVKEIKRKIVDVVKGSYEKLKNKGYNLDELAFKVMLSKPLDAYKKNTPQHVKA
+                     ALQLRPFGVNVLPRDIIYYVKVRSKDGVKPVQLAKVTEIDAEKYLEALRSTFEQILRA
+                     FGVSWDEIAATMSIDSFFSYPSKGNS"
+     terminator      2939..2946
+                     /note="archaeal terminator"
+BASE COUNT     1071 a    429 c    605 g    887 t
+ORIGIN      
+        1 atctggtgtt tttctttctc atgcatatta ataatgttta ctaagattca aggcatatct
+       61 cttaagaaat ggctagatga atgagaggag caggagtagc ttaagaatct taaaacttag
+      121 gttcttcata aatgtctatt ttttctcccg cattaaaact tatagcgtat ttctcagaaa
+      181 ataatatatg ttagaaaatg actaagcaac ttaccttatt tgatattcct tcatctaaac
+      241 ccgctaagag tgaacaaaat actcaacaat cgcaacagag tgctcccgtt gaggaaaaaa
+      301 aggtagttag gagggaatgg cttgaagagg ctcaggaaaa taagatatac ttcctattgc
+      361 aagtagatta tgatggtaag aaaggtaagg ctgtatgtaa gctattcgat aaagaaactc
+      421 aaaagatcta tgccctatat gataatactg gacataagcc ctactttcta gtagatcttg
+      481 aacctgataa agtaggtaaa atacctaaga ttgttagaga tccatctttt gatcacatag
+      541 agactgtgag taagatagac ccgtatactt ggaataaatt caaattaact aaaatcgttg
+      601 ttagagatcc ccatgcagtg agaagattaa ggaatgatgt tccaaaagcg tatgaggctc
+      661 acataaaata ttttaacaac tacatgtatg acataggtct aatccccggt atgccttatg
+      721 ttgttaagaa tgggaagtta gaaagtgtct atttgtcttt ggacgagaaa gatgttgagg
+      781 agattaagaa agccttcgct gattcagatg aaatgactag acaaatggca gtcgattggc
+      841 ttcccatatt tgaaactgaa atacctaaaa taaaaagggt tgcgatagat attgaggtat
+      901 atacaccagt taagggtaga atcccagact ctcagaaggc tgagtttcca attataagta
+      961 tagcattagc ggggagtgat ggattaaaga aggttcttgt attaaatagg aatgatgtca
+     1021 atgaagggag tgtaaaactt gatggaatat cggttgagag atttaataca gagtacgaac
+     1081 tgttagggag attttttgat atactgttag aatatccgat agttcttaca ttcaatggag
+     1141 acgattttga tttaccttac atttacttta gggcgttaaa gttaggttat tttccagagg
+     1201 aaattcccat agatgtagct ggtaaggatg aagccaagta tctagctggt cttcatatag
+     1261 acttgtacaa attcttcttt aataaggcag tgaggaatta tgcatttgag ggaaagtata
+     1321 atgaatacaa tttagatgca gttgcaaagg ccttattagg gacatcaaaa gttaaggtag
+     1381 atacgctaat atctttctta gatgtagaaa aattaataga atataacttt agggatgccg
+     1441 aaatcacact tcagcttact acatttaata acgacctaac tatgaagtta attgtattgt
+     1501 tttctagaat ttctagacta ggaattgagg aattaactcg gacagaaata tctacttggg
+     1561 taaagaattt atattattgg gaacatagaa aaagaaattg gttaattcct cttaaggaag
+     1621 aaatcttagc gaaatcctct aatataagaa cttctgctct aataaaggga aaaggatata
+     1681 aaggcgcagt agttatagac ccacctgctg gaatattctt taacataact gttttagatt
+     1741 ttgcatcact atatccttca ataattagaa cgtggaatct tagttacgag actgtagaca
+     1801 ttcaacaatg taagaagccc tatgaagtaa aggatgagac aggggaggtg ctacatatag
+     1861 tttgcatgga taggccaggt ataacagcag taataactgg gttactaaga gacttcagag
+     1921 taaagatata caaaaagaaa gcgaagaacc ctaataatag tgaggaacaa aaactactct
+     1981 atgacgtagt acagagagca atgaaagtat tcataaatgc tacttacggt gtatttggag
+     2041 ctgaaacatt tccgttatat gcgccacgtg tagcggagag tgttactgca ctggggagat
+     2101 acgttattac cagtaccgta aagaaagcta gggaagaagg tttaactgta ttatacggtg
+     2161 atactgattc tttattcctc cttaatcctc ccaagaatag tttagaaaat attataaaat
+     2221 gggttaaaac tactttcaat ttagatttgg aagttgataa aacctacaag tttgtggctt
+     2281 tttctggatt gaagaagaat tactttggag tataccaaga cgggaaggtt gatataaagg
+     2341 ggatgttagt gaagaagaga aacacgccgg aatttgtaaa gaaggtattt aacgaggtaa
+     2401 aggagctaat gatctccata aactcgccaa acgatgtgaa ggagattaaa agaaaaattg
+     2461 tagacgtagt taaaggatca tatgaaaaac taaaaaacaa aggatacaat ctggacgaat
+     2521 tagcgtttaa agtaatgcta tcgaagcctt tagatgcgta caaaaagaac actccccaac
+     2581 acgtaaaggc agctctacaa cttagaccat ttggagttaa cgtattacca cgagatataa
+     2641 tatactatgt taaggttaga tctaaagatg gagtgaaacc agtacaacta gctaaagtta
+     2701 ctgaaataga cgcagagaaa tatttagaag cgttaagaag tacgtttgag caaatcttaa
+     2761 gggcattcgg agtctcttgg gatgagatag cagccacaat gtcgatagat tcgttctttt
+     2821 catacccaag taaaggaaat agttaattaa gaaagatagc aattcttcat aataaatttt
+     2881 tagaagcaat ttttacccac ataagttata aagattttta gaaaatttaa atcgtatatt
+     2941 tttattcttc ctcctcttcc tctaattctt cctttaattc ttcttgtttc tg
+//
